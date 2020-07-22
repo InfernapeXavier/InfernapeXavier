@@ -27,7 +27,7 @@ Things I have worked with:
 <code><img height="20" src="https://raw.githubusercontent.com/InfernapeXavier/InfernapeXavier/master/Assets/javascript.svg" alt="JS"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/InfernapeXavier/InfernapeXavier/master/Assets/android.svg" alt="Android"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/InfernapeXavier/InfernapeXavier/master/Assets/mongodb.svg" alt="MongoDB"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/InfernapeXavier/InfernapeXavier/master/Assets/oracle.svg" alt="SQL></code>
+<code><img height="20" src="https://raw.githubusercontent.com/InfernapeXavier/InfernapeXavier/master/Assets/oracle.svg" alt="SQL"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/InfernapeXavier/InfernapeXavier/master/Assets/amazonalexa.svg" alt="Alexa Skill"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/InfernapeXavier/InfernapeXavier/master/Assets/bulma.svg" alt="Bulma"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/InfernapeXavier/InfernapeXavier/master/Assets/tailwindcss.svg" alt="TailwindCSS"></code>
