@@ -18,6 +18,6 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfernapeXavier" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=InfernapeXavier&show_icons=true&line_height=37" alt="Rohit's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=InfernapeXavier&show_icons=true&line_height=40" alt="Rohit's github stats" />
 </a>
 
