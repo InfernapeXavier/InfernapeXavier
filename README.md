@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=InfernapeXavier&show_icons=true&line_height=27" alt="Rohit's github stats" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=InfernapeXavier&repo=github-readme-stats" />
+<a href="https://github.com/InfernapeXavier/InfernapeXavier.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=InfernapeXavier&repo=InfernapeXavier.github.io" />
 </a>    
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=InfernapeXavier&repo=anuraghazra.github.io" />
+<a href="https://github.com/InfernapeXavier/RustyBase">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=InfernapeXavier&repo=RustyBase" />
 </a>
 
