@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there 👋
+### I'm [Rohit](https://rohitc.tech)
+### I'm currently a Graduate student of Computer Science at the [University of Florida](https://ufl.edu)
 
 <!--
 **InfernapeXavier/InfernapeXavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
