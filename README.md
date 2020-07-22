@@ -20,18 +20,18 @@ Here are some ideas to get you started:
 -->
 
 Things I have worked with:
-<code><img height="20" src="https://raw.githubusercontent.com/InfernapeXavier/InfernapeXavier/master/Assets/python.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/InfernapeXavier/InfernapeXavier/master/Assets/rust.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/InfernapeXavier/InfernapeXavier/master/Assets/cplusplus.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/InfernapeXavier/InfernapeXavier/master/Assets/flask.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/InfernapeXavier/InfernapeXavier/master/Assets/javascript.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/InfernapeXavier/InfernapeXavier/master/Assets/android.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/InfernapeXavier/InfernapeXavier/master/Assets/mongodb.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/InfernapeXavier/InfernapeXavier/master/Assets/oracle.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/InfernapeXavier/InfernapeXavier/master/Assets/amazonalexa.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/InfernapeXavier/InfernapeXavier/master/Assets/bulma.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/InfernapeXavier/InfernapeXavier/master/Assets/tailwindcss.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/InfernapeXavier/InfernapeXavier/master/Assets/markdown.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/InfernapeXavier/InfernapeXavier/master/Assets/python.svg" alt="Python"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/InfernapeXavier/InfernapeXavier/master/Assets/rust.svg" alt="Rust"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/InfernapeXavier/InfernapeXavier/master/Assets/cplusplus.svg" alt="C/C++"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/InfernapeXavier/InfernapeXavier/master/Assets/flask.svg" alt="Flask"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/InfernapeXavier/InfernapeXavier/master/Assets/javascript.svg" alt="JS"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/InfernapeXavier/InfernapeXavier/master/Assets/android.svg" alt="Android"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/InfernapeXavier/InfernapeXavier/master/Assets/mongodb.svg" alt="MongoDB"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/InfernapeXavier/InfernapeXavier/master/Assets/oracle.svg" alt="SQL></code>
+<code><img height="20" src="https://raw.githubusercontent.com/InfernapeXavier/InfernapeXavier/master/Assets/amazonalexa.svg" alt="Alexa Skill"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/InfernapeXavier/InfernapeXavier/master/Assets/bulma.svg" alt="Bulma"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/InfernapeXavier/InfernapeXavier/master/Assets/tailwindcss.svg" alt="TailwindCSS"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/InfernapeXavier/InfernapeXavier/master/Assets/markdown.svg" alt="MarkDown"></code>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfernapeXavier" />
