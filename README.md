@@ -14,8 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=InfernapeXavier&repo=InfernapeXavier.github.io)](https://github.com/InfernapeXavier/InfernapeXavier.github.io)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=InfernapeXavier&repo=RustyBase)](https://github.com/InfernapeXavier/RustyBase)
-![Rohits's github stats](https://github-readme-stats.vercel.app/api?username=InfernapeXavier&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InfernapeXavier&hide_langs_below=3)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anuraghazra&theme=radical&hide_langs_below=1" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical&line_height=27" alt="Anurag's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=radical" />
+</a>    
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=radical" />
+</a>
 
