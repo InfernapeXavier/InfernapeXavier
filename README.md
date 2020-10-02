@@ -37,6 +37,6 @@ Things I have worked with:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfernapeXavier&layout=compact&hide=html,css,mako&langs_count=10&exclude_repo=rohitc-leko" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+< -- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=InfernapeXavier&show_icons=true&line_height=37.5" alt="Rohit's github stats" />
-</a>
+</a> -- >
