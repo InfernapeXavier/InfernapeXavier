@@ -23,6 +23,7 @@ Things I have worked with:
 <code><img height="20" src="https://raw.githubusercontent.com/InfernapeXavier/InfernapeXavier/master/Assets/python.svg" alt="Python"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/InfernapeXavier/InfernapeXavier/master/Assets/rust.svg" alt="Rust"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/InfernapeXavier/InfernapeXavier/master/Assets/cplusplus.svg" alt="C/C++"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/InfernapeXavier/InfernapeXavier/master/Assets/go.svg" alt="Go"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/InfernapeXavier/InfernapeXavier/master/Assets/flask.svg" alt="Flask"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/InfernapeXavier/InfernapeXavier/master/Assets/javascript.svg" alt="JS"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/InfernapeXavier/InfernapeXavier/master/Assets/android.svg" alt="Android"></code>
