@@ -2,7 +2,7 @@
 
 ### I'm [Rohit](https://rohitc.tech)!
 
-### I'm currently a Graduate student of Computer Science at the [University of Florida](https://ufl.edu) graduating in May 2021
+### I'm currently a Graduate student of Computer Science at the [University of Florida](https://ufl.edu) graduating in June 2021
 
 <!--
 **InfernapeXavier/InfernapeXavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,7 +35,7 @@ Things I have worked with:
 <code><img height="20" src="https://raw.githubusercontent.com/InfernapeXavier/InfernapeXavier/master/Assets/markdown.svg" alt="MarkDown"></code>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfernapeXavier" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfernapeXavier&layout=compact&hide=html,css,mako&langs_count=10&exclude_repo=rohitc-leko" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=InfernapeXavier&show_icons=true&line_height=37.5" alt="Rohit's github stats" />
