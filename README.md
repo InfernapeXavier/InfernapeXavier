@@ -2,9 +2,9 @@
 
 ### I'm [Rohit](https://rohitc.tech)!
 
-### I'm currently a Graduate student of Computer Science at the [University of Florida](https://ufl.edu) graduating in June 2021
+### I'm currently a Software Engineer at [Academia.edu](academia.edu)
 
-- 🌱 I’m currently learning `Go` and `.NET`
+- 🌱 I’m currently learning `Ruby` and `React`
 - 😄 Pronouns: `He/Him`
 - ⚡ Fun fact: Red Pandas are not Pandas and are the last living members of their family!
 
