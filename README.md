@@ -2,7 +2,7 @@
 
 ### I'm [Rohit](https://rohitc.tech)!
 
-### I'm currently a Software Engineer at [Academia.edu](academia.edu)
+### I'm currently a Software Engineer at [Academia.edu](https://www.academia.edu)
 
 - 🌱 I’m currently learning `Ruby` and `React`
 - 😄 Pronouns: `He/Him`
