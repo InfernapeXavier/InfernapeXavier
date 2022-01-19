@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Things I have worked with:
+<!-- Things I have worked with:
 <code><img height="20" src="https://raw.githubusercontent.com/InfernapeXavier/InfernapeXavier/master/Assets/python.svg" alt="Python"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/InfernapeXavier/InfernapeXavier/master/Assets/rust.svg" alt="Rust"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/InfernapeXavier/InfernapeXavier/master/Assets/cplusplus.svg" alt="C/C++"></code>
@@ -34,11 +34,10 @@ Things I have worked with:
 <code><img height="20" src="https://raw.githubusercontent.com/InfernapeXavier/InfernapeXavier/master/Assets/mongodb.svg" alt="MongoDB"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/InfernapeXavier/InfernapeXavier/master/Assets/amazonalexa.svg" alt="Alexa Skill"></code>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=InfernapeXavier&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=InfernapeXavier&theme=dracula) -->
 
-</a>
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=InfernapeXavier&show_icons=true&line_height=37.5" alt="Rohit's github stats" />
 </a> --> -->
 
-https://github.com/InfernapeXavier/InfernapeXavier/blob/master/github-metrics.svg
+![](https://github.com/InfernapeXavier/InfernapeXavier/blob/master/github-metrics.svg)
