@@ -25,7 +25,7 @@ jobs:
 
           # Options
           user: InfernapeXavier
-          template: markdown
+          template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Los_Angeles
           plugin_achievements: yes
