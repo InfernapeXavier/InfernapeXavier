@@ -38,6 +38,6 @@ Here are some ideas to get you started:
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=InfernapeXavier&show_icons=true&line_height=37.5" alt="Rohit's github stats" />
-</a> --> -->
+</a> -->
 
 ![](https://github.com/InfernapeXavier/InfernapeXavier/blob/master/github-metrics.svg)
