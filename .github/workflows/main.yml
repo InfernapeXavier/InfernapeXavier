@@ -26,7 +26,7 @@ jobs:
           # Options
           user: InfernapeXavier
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header
           config_timezone: America/Los_Angeles
           plugin_achievements: yes
           plugin_achievements_display: compact
@@ -39,10 +39,6 @@ jobs:
           plugin_anilist_sections: favorites
           plugin_anilist_shuffle: yes
           plugin_anilist_user: .user.login
-          plugin_habits: yes
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
           plugin_introduction: yes
           plugin_introduction_title: yes
           plugin_isocalendar: yes
