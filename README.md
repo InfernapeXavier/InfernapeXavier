@@ -39,6 +39,6 @@ Here are some ideas to get you started:
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=InfernapeXavier&show_icons=true&line_height=37.5" alt="Rohit's github stats" />
 </a> -->
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=infernapexavier&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=infernapexavier&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=infernapexavier&cover_image=true&theme=default&show_offline=true&background_color=0d1117&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=infernapexavier&redirect=true)
 
 ![](https://github.com/InfernapeXavier/InfernapeXavier/blob/master/github-metrics.svg)
