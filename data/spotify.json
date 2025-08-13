@@ -1,26 +1,40 @@
 {
   "topTracks": [
     {
-      "name": "Blinding Lights",
-      "artist": "The Weeknd",
-      "album": "After Hours",
-      "external_url": "https://open.spotify.com/track/0VjIjW4GlULA0wf00VkT",
-      "popularity": 95
+      "name": "Dil Behra",
+      "artist": "KhoslaRaghu",
+      "album": "Dil Behra",
+      "external_url": "https://open.spotify.com/track/6CNvkLUbOVTTwvtyAEPtmR",
+      "popularity": 46
     },
     {
-      "name": "Bad Habit",
-      "artist": "Steve Lacy",
-      "album": "Gemini Rights",
-      "external_url": "https://open.spotify.com/track/4k6Uh1HiB1wk3F9G3nI5",
-      "popularity": 88
+      "name": "Mirage (OP Theme to Call of the Night Season 2)",
+      "artist": "Creepy Nuts",
+      "album": "Mirage",
+      "external_url": "https://open.spotify.com/track/3GVNp2UgIp2TN3ra67cxdg",
+      "popularity": 77
     },
     {
-      "name": "As It Was",
-      "artist": "Harry Styles",
-      "album": "Harry's House",
-      "external_url": "https://open.spotify.com/track/4Dvkj6JzO9wNlTajzIk8",
-      "popularity": 92
+      "name": "Punkrocker (feat. Iggy Pop) - As featured in Superman",
+      "artist": "Teddybears, Iggy Pop",
+      "album": "Soft Machine",
+      "external_url": "https://open.spotify.com/track/7yHRmaBkHKXKJmS1xMzicZ",
+      "popularity": 77
+    },
+    {
+      "name": "Falling",
+      "artist": "Chris Lake, Bonobo, Alexis Roberts",
+      "album": "Chemistry",
+      "external_url": "https://open.spotify.com/track/5LRyR8eIg7fSlH3GsdFqEi",
+      "popularity": 66
+    },
+    {
+      "name": "Watch me!",
+      "artist": "YOASOBI",
+      "album": "Watch me!",
+      "external_url": "https://open.spotify.com/track/2XlTBc7XOzyunDf3Oqsfpk",
+      "popularity": 70
     }
   ],
-  "lastUpdated": "2025-08-12T22:15:00.000Z"
+  "lastUpdated": "2025-01-01T00:00:00.000Z"
 }

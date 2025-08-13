@@ -7,20 +7,23 @@
 $ cat ~/.config/status.json
 {
   "working_on": ["Infrastructure automation", "Backend services"],
-  "watching": ["Attack on Titan Final Season", "Demon Slayer"],
-  "reading": "One Piece",
+  "watching": ["Violet Evergarden", "LAID-BACK CAMP SEASON2", "Pokémon Concierge: Season 1: Part 2"],
+  "reading": ["SPY x FAMILY", "Maou no Musume wa Yasashi Sugiru!!", "My Love Story with Yamada-kun at Lv999"],
   "status": "online"
 }
 ```
 
 ## Stats
 ```
- 📺 Anime: 150 completed (37d 12h)        🎵 This month's top tracks:
-    ├─ Blinding Lights - The Weeknd
-    ├─ Bad Habit - Steve Lacy
-    ├─ As It Was - Harry Styles
- 📖 Manga: 85 completed (12.5k chapters)
- 🏷️ Genres: Comedy, Drama, Action, Romance, Slice of Life
+ 📺 Anime: 224 completed (46d 15h)
+ 📖 Manga: 122 completed (10.9k chapters)
+ 🏷️ Genres: Slice of Life, Comedy, Romance
+ 🎵 This month's top tracks:
+    ├─ Dil Behra - KhoslaRaghu
+    ├─ Mirage (OP Theme to Call of the Night Season 2) - Creepy Nuts
+    ├─ Punkrocker (feat. Iggy Pop) - As featured in Superman - Teddybears, Iggy Pop
+    ├─ Falling - Chris Lake, Bonobo, Alexis Roberts
+    ├─ Watch me! - YOASOBI
 ```
 
 <p align="center">
