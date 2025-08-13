@@ -53,7 +53,7 @@ def generate_currently_section(anilist_data: dict) -> str:
         if len(watching) == 1:
             watching_str = f'"{watching[0]["title"]}"'
         else:
-            watching_list = [f'"{item["title"]}"' for item in watching[:2]]
+            watching_list = [f'"{item["title"]}"' for item in watching[:3]]
             watching_str = f"[{', '.join(watching_list)}]"
 
     reading_str = "null"
@@ -61,7 +61,7 @@ def generate_currently_section(anilist_data: dict) -> str:
         if len(reading) == 1:
             reading_str = f'"{reading[0]["title"]}"'
         else:
-            reading_list = [f'"{item["title"]}"' for item in reading[:2]]
+            reading_list = [f'"{item["title"]}"' for item in reading[:3]]
             reading_str = f"[{', '.join(reading_list)}]"
 
     return f'''## Currently
@@ -102,16 +102,15 @@ def generate_stats_section(anilist_data: dict, spotify_data: dict) -> str:
     # Music section
     music_section = ""
     if top_tracks:
-        music_section = "    🎵 This month's top tracks:\n"
-        for _i, track in enumerate(top_tracks[:3], 1):
+        music_section = "\n 🎵 This month's top tracks:\n"
+        for _i, track in enumerate(top_tracks[:5], 1):
             music_section += f"    ├─ {track['name']} - {track['artist']}\n"
 
     return f'''## Stats
 ```
- 📺 Anime: {anime_count} completed ({anime_time})    {music_section.rstrip()}
+ 📺 Anime: {anime_count} completed ({anime_time})
  📖 Manga: {manga_count} completed ({manga_chapters_formatted} chapters)
- 🏷️ Genres: {genres_str}
-```'''
+ 🏷️ Genres: {genres_str}{music_section}```'''
 
 
 def generate_readme() -> None:

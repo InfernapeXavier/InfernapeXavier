@@ -128,7 +128,7 @@ async def fetch_anilist_data() -> None:
                         "totalEpisodes": entry["media"]["episodes"],
                         "status": entry["media"]["status"]
                     }
-                    for entry in watching_list[:3]  # Top 3
+                    for entry in watching_list[:5]  # Top 5
                 ],
                 "currentlyReading": [
                     {
@@ -139,7 +139,7 @@ async def fetch_anilist_data() -> None:
                         "totalChapters": entry["media"]["chapters"],
                         "status": entry["media"]["status"]
                     }
-                    for entry in reading_list[:3]  # Top 3
+                    for entry in reading_list[:5]  # Top 5
                 ],
                 "lastUpdated": "2025-01-01T00:00:00.000Z"  # Will be updated by datetime
             }
