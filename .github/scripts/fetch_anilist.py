@@ -6,6 +6,10 @@ import os
 from pathlib import Path
 
 import httpx
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
 
 ANILIST_API = "https://graphql.anilist.co"
 

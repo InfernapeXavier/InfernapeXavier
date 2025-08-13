@@ -7,6 +7,10 @@ import os
 from pathlib import Path
 
 import httpx
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
 
 SPOTIFY_TOKEN_URL = "https://accounts.spotify.com/api/token"
 SPOTIFY_API_BASE = "https://api.spotify.com/v1"
