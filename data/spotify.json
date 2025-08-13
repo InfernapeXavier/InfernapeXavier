@@ -1,0 +1,26 @@
+{
+  "topTracks": [
+    {
+      "name": "Blinding Lights",
+      "artist": "The Weeknd",
+      "album": "After Hours",
+      "external_url": "https://open.spotify.com/track/0VjIjW4GlULA0wf00VkT",
+      "popularity": 95
+    },
+    {
+      "name": "Bad Habit",
+      "artist": "Steve Lacy",
+      "album": "Gemini Rights",
+      "external_url": "https://open.spotify.com/track/4k6Uh1HiB1wk3F9G3nI5",
+      "popularity": 88
+    },
+    {
+      "name": "As It Was",
+      "artist": "Harry Styles",
+      "album": "Harry's House",
+      "external_url": "https://open.spotify.com/track/4Dvkj6JzO9wNlTajzIk8",
+      "popularity": 92
+    }
+  ],
+  "lastUpdated": "2025-08-12T22:15:00.000Z"
+}

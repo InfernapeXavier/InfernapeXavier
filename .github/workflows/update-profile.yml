@@ -1,0 +1,61 @@
+name: Update Profile
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Every 6 hours
+  workflow_dispatch:
+  push:
+    branches: [main, master]
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v4
+        with:
+          enable-cache: true
+          cache-dependency-glob: ".github/scripts/pyproject.toml"
+
+      - name: Setup Python
+        run: uv python install 3.13.x
+        working-directory: ./.github/scripts
+
+      - name: Install dependencies
+        run: uv sync
+        working-directory: ./.github/scripts
+
+      - name: Lint with ruff
+        run: uv run ruff check .
+        working-directory: ./.github/scripts
+
+      - name: Fetch AniList data
+        env:
+          ANILIST_USERNAME: ${{ secrets.ANILIST_USERNAME }}
+        run: uv run python fetch_anilist.py
+        working-directory: ./.github/scripts
+
+      - name: Fetch Spotify data
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+        run: uv run python fetch_spotify.py
+        working-directory: ./.github/scripts
+
+      - name: Generate README
+        run: uv run python generate_readme.py
+        working-directory: ./.github/scripts
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md data/
+          git diff --staged --quiet || git commit -m "chore: update profile data - [Skip GitHub Action]"
+          git push

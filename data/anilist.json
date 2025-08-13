@@ -1,0 +1,40 @@
+{
+  "user": {
+    "name": "InfernapeXavier",
+    "stats": {
+      "anime": {
+        "count": 150,
+        "minutesWatched": 54000,
+        "topGenres": ["Action", "Comedy", "Drama"]
+      },
+      "manga": {
+        "count": 85,
+        "chaptersRead": 12500,
+        "topGenres": ["Slice of Life", "Romance", "Comedy"]
+      }
+    }
+  },
+  "currentlyWatching": [
+    {
+      "title": "Attack on Titan Final Season",
+      "progress": 12,
+      "totalEpisodes": 16,
+      "status": "RELEASING"
+    },
+    {
+      "title": "Demon Slayer",
+      "progress": 5,
+      "totalEpisodes": 12,
+      "status": "RELEASING"
+    }
+  ],
+  "currentlyReading": [
+    {
+      "title": "One Piece",
+      "progress": 1095,
+      "totalChapters": null,
+      "status": "RELEASING"
+    }
+  ],
+  "lastUpdated": "2025-08-12T22:15:00.000Z"
+}
