@@ -60,6 +60,7 @@ query ($userName: String) {
           }
           chapters
           status
+          genres
         }
         progress
       }
@@ -128,8 +129,12 @@ async def fetch_anilist_data() -> None:
                         "totalEpisodes": entry["media"]["episodes"],
                         "status": entry["media"]["status"]
                     }
-                    for entry in watching_list[:5]  # Top 5
-                ],
+                    # Filter out unreleased, then prioritize RELEASING over FINISHED
+                    for entry in sorted(
+                        [e for e in watching_list if e["media"]["status"] != "NOT_YET_RELEASED"],
+                        key=lambda x: (x["media"]["status"] != "RELEASING", x["media"]["status"])
+                    )
+                ][:5],  # Take top 5 after sorting
                 "currentlyReading": [
                     {
                         "title": (
@@ -139,8 +144,9 @@ async def fetch_anilist_data() -> None:
                         "totalChapters": entry["media"]["chapters"],
                         "status": entry["media"]["status"]
                     }
-                    for entry in reading_list[:5]  # Top 5
-                ],
+                    for entry in reading_list
+                    if "Ecchi" not in (entry["media"]["genres"] or [])
+                ][:5],  # Filter out ecchi manga, then take top 5
                 "lastUpdated": "2025-01-01T00:00:00.000Z"  # Will be updated by datetime
             }
 
