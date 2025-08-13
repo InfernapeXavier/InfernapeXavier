@@ -48,21 +48,23 @@ def generate_currently_section(anilist_data: dict) -> str:
     watching = anilist_data.get("currentlyWatching", [])
     reading = anilist_data.get("currentlyReading", [])
 
-    watching_str = "null"
+    # Format watching as individual lines
+    watching_str = "[\n"
     if watching:
-        if len(watching) == 1:
-            watching_str = f'"{watching[0]["title"]}"'
-        else:
-            watching_list = [f'"{item["title"]}"' for item in watching[:3]]
-            watching_str = f"[{', '.join(watching_list)}]"
+        for item in watching[:5]:
+            watching_str += f'    "{item["title"]}",\n'
+        watching_str = watching_str.rstrip(",\n") + "\n  ]"
+    else:
+        watching_str = "null"
 
-    reading_str = "null"
+    # Format reading as individual lines  
+    reading_str = "[\n"
     if reading:
-        if len(reading) == 1:
-            reading_str = f'"{reading[0]["title"]}"'
-        else:
-            reading_list = [f'"{item["title"]}"' for item in reading[:3]]
-            reading_str = f"[{', '.join(reading_list)}]"
+        for item in reading[:5]:
+            reading_str += f'    "{item["title"]}",\n'
+        reading_str = reading_str.rstrip(",\n") + "\n  ]"
+    else:
+        reading_str = "null"
 
     return f'''## Currently
 ```bash
