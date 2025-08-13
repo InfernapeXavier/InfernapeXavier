@@ -7,8 +7,20 @@
 $ cat ~/.config/status.json
 {
   "working_on": ["Infrastructure automation", "Backend services"],
-  "watching": ["Violet Evergarden", "LAID-BACK CAMP SEASON2", "Pokémon Concierge: Season 1: Part 2"],
-  "reading": ["SPY x FAMILY", "Maou no Musume wa Yasashi Sugiru!!", "My Love Story with Yamada-kun at Lv999"],
+  "watching": [
+    "WITCH WATCH",
+    "Kaiju No. 8 Season 2",
+    "SAKAMOTO DAYS Part 2",
+    "DAN DA DAN Season 2",
+    "My Dress-Up Darling Season 2"
+  ],
+  "reading": [
+    "SPY x FAMILY",
+    "Maou no Musume wa Yasashi Sugiru!!",
+    "My Love Story with Yamada-kun at Lv999",
+    "I Have a Crush at Work",
+    "Fly Me to the Moon"
+  ],
   "status": "online"
 }
 ```
@@ -17,7 +29,7 @@ $ cat ~/.config/status.json
 ```
  📺 Anime: 224 completed (46d 15h)
  📖 Manga: 122 completed (10.9k chapters)
- 🏷️ Genres: Slice of Life, Comedy, Romance
+ 🏷️ Genres: Comedy, Slice of Life, Romance
  🎵 This month's top tracks:
     ├─ Dil Behra - KhoslaRaghu
     ├─ Mirage (OP Theme to Call of the Night Season 2) - Creepy Nuts

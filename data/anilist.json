@@ -28,33 +28,33 @@
   },
   "currentlyWatching": [
     {
-      "title": "Violet Evergarden",
-      "progress": 9,
-      "totalEpisodes": 13,
-      "status": "FINISHED"
-    },
-    {
-      "title": "LAID-BACK CAMP SEASON2",
-      "progress": 12,
-      "totalEpisodes": 13,
-      "status": "FINISHED"
-    },
-    {
-      "title": "Pok\u00e9mon Concierge: Season 1: Part 2",
-      "progress": 0,
-      "totalEpisodes": 4,
-      "status": "NOT_YET_RELEASED"
-    },
-    {
-      "title": "My Happy Marriage Season 2",
-      "progress": 5,
-      "totalEpisodes": 13,
-      "status": "FINISHED"
-    },
-    {
       "title": "WITCH WATCH",
       "progress": 18,
       "totalEpisodes": 25,
+      "status": "RELEASING"
+    },
+    {
+      "title": "Kaiju No. 8 Season 2",
+      "progress": 3,
+      "totalEpisodes": 11,
+      "status": "RELEASING"
+    },
+    {
+      "title": "SAKAMOTO DAYS Part 2",
+      "progress": 2,
+      "totalEpisodes": 11,
+      "status": "RELEASING"
+    },
+    {
+      "title": "DAN DA DAN Season 2",
+      "progress": 5,
+      "totalEpisodes": 12,
+      "status": "RELEASING"
+    },
+    {
+      "title": "My Dress-Up Darling Season 2",
+      "progress": 5,
+      "totalEpisodes": 12,
       "status": "RELEASING"
     }
   ],
@@ -78,14 +78,14 @@
       "status": "RELEASING"
     },
     {
-      "title": "You Like Me, Not My Daughter?!",
-      "progress": 31,
-      "totalChapters": null,
-      "status": "RELEASING"
+      "title": "I Have a Crush at Work",
+      "progress": 105,
+      "totalChapters": 147,
+      "status": "FINISHED"
     },
     {
-      "title": "Medaka Kuroiwa is Impervious to My Charms",
-      "progress": 175,
+      "title": "Fly Me to the Moon",
+      "progress": 267,
       "totalChapters": null,
       "status": "RELEASING"
     }
