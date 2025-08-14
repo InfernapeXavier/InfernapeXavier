@@ -48,6 +48,10 @@ jobs:
         run: uv run python fetch_spotify.py
         working-directory: ./.github/scripts
 
+      - name: Generate Carbonara intro image
+        run: uv run python fetch_carbonara.py
+        working-directory: ./.github/scripts
+
       - name: Generate README
         run: uv run python generate_readme.py
         working-directory: ./.github/scripts
@@ -56,6 +60,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add README.md data/
+          git add README.md data/ images/
           git diff --staged --quiet || git commit -m "chore: update profile data - [Skip GitHub Action]"
           git push

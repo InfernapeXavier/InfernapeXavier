@@ -185,7 +185,7 @@ def generate_readme() -> None:
 
     readme_content = f"""<div align="center">
 
-![intro](https://carbonara.solopov.dev/api/cook?code=console.log%28%22Hi%20there%20%F0%9F%91%8B%22%29%3B%0A%0A%2F%2F%20I%27m%20Rohit%21%0Aconst%20developer%20%3D%20%7B%0A%20%20name%3A%20%22Rohit%22%2C%0A%20%20role%3A%20%22Infrastructure%20Engineer%22%2C%0A%20%20company%3A%20%22Academia.edu%22%2C%0A%20%20pronouns%3A%20%22He%2FHim%22%2C%0A%20%20currentlyLearning%3A%20%5B%22Ruby%22%2C%20%22React%22%5D%2C%0A%20%20funFact%3A%20%22Red%20Pandas%20are%20not%20Pandas%21%22%0A%7D%3B%0A%0Aconsole.log%28%22Welcome%20to%20my%20profile%21%22%29%3B&config=%7B%22paddingVertical%22%3A%2216px%22%2C%22paddingHorizontal%22%3A%2215px%22%2C%22backgroundImage%22%3Anull%2C%22backgroundImageSelection%22%3Anull%2C%22backgroundMode%22%3A%22color%22%2C%22backgroundColor%22%3A%22rgba%28222%2C171%2C99%2C1%29%22%2C%22dropShadow%22%3Atrue%2C%22dropShadowOffsetY%22%3A%2220px%22%2C%22dropShadowBlurRadius%22%3A%22100px%22%2C%22theme%22%3A%22duotone-dark%22%2C%22windowTheme%22%3A%22none%22%2C%22language%22%3A%22auto%22%2C%22fontFamily%22%3A%22Fira%20Code%22%2C%22fontSize%22%3A%2214px%22%2C%22lineHeight%22%3A%22133%25%22%2C%22windowControls%22%3Atrue%2C%22widthAdjustment%22%3Atrue%2C%22lineNumbers%22%3Atrue%2C%22firstLineNumber%22%3A1%2C%22exportSize%22%3A%222x%22%2C%22watermark%22%3Afalse%2C%22squaredImage%22%3Afalse%2C%22hiddenCharacters%22%3Afalse%2C%22name%22%3A%22%22%2C%22width%22%3A680%2C%22highlights%22%3Anull%7D)
+![intro](images/intro.png)
 
 </div>
 
