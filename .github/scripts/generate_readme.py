@@ -172,20 +172,9 @@ def generate_readme() -> None:
 
 </div>
 
-<table style="border: none; border-collapse: collapse; width: 100%;">
-<tr>
-<td width="50%" valign="top" style="border: none; padding: 0;">
-
 {currently_section}
 
-</td>
-<td width="50%" valign="top" style="border: none; padding: 0;">
-
 {terminal_stats}
-
-</td>
-</tr>
-</table>
 
 {stats_section}"""
 

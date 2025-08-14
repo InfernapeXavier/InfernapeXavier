@@ -4,10 +4,6 @@
 
 </div>
 
-<table style="border: none; border-collapse: collapse; width: 100%;">
-<tr>
-<td width="50%" valign="top" style="border: none; padding: 0;">
-
 ```bash
 $ ps aux | grep -E "(anime|manga)"
 📺 Currently watching:
@@ -28,9 +24,6 @@ $ echo "Entertainment processes running..."
 2 active media streams 🎬
 ```
 
-</td>
-<td width="50%" valign="top" style="border: none; padding: 0;">
-
 ```bash
 $ whoami
 rohit@dev:~$ 
@@ -42,7 +35,7 @@ $ cat ~/.media_stats
 📄 chapters_read="10.9k"
 
 $ echo $FAVORITE_GENRES
-romance slice_of_life comedy
+slice_of_life romance comedy
 
 $ uptime
 Life uptime: Making things work since forever ⚡
@@ -50,10 +43,6 @@ Life uptime: Making things work since forever ⚡
 $ echo "System stats loaded successfully"
 All entertainment metrics up to date 📊
 ```
-
-</td>
-</tr>
-</table>
 
 *🎵 Sounds that fuel my code sessions*
 
