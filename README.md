@@ -54,7 +54,7 @@ manga_completed=122
 chapters_read="10.9k"
 
 $ echo $FAVORITE_GENRES
-slice_of_life romance comedy
+comedy slice_of_life romance
 
 $ uptime
 Life uptime: Making things work since forever
@@ -76,6 +76,10 @@ All entertainment metrics up to date
 </tr>
 </table>
 
+<table>
+<tr>
+<td width="100%" valign="top">
+
 *My current top songs*
 
 | Cover | Track | Artist |
@@ -85,3 +89,7 @@ All entertainment metrics up to date
 <img src="https://i.scdn.co/image/ab67616d0000b273f678cc7a20b3da4d95f99f06" width="40" height="40" style="border-radius: 4px;"> | **[Punkrocker (feat. Iggy Pop) - As featured in Superman](https://open.spotify.com/track/7yHRmaBkHKXKJmS1xMzicZ)** | *Teddybears, Iggy Pop*
 <img src="https://i.scdn.co/image/ab67616d0000b273eef1231340b1f14dde4816f0" width="40" height="40" style="border-radius: 4px;"> | **[Falling](https://open.spotify.com/track/5LRyR8eIg7fSlH3GsdFqEi)** | *Chris Lake, Bonobo, Alexis Roberts*
 <img src="https://i.scdn.co/image/ab67616d0000b273aa21e4d3d70419011eac3ccc" width="40" height="40" style="border-radius: 4px;"> | **[sunburn](https://open.spotify.com/track/5Q9hC6Z25FeRL9xjJIrIwQ)** | *almost monday*
+
+</td>
+</tr>
+</table>
