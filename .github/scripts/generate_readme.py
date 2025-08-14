@@ -171,11 +171,19 @@ def generate_stats_section(anilist_data: dict, spotify_data: dict) -> str:
             artist_name = track['artist']
             music_tracks += f"{img_html} | **[{track_name}]({track_url})** | *{artist_name}*\n"
 
-    return f"""*My current top songs*
+    return f"""<table>
+<tr>
+<td width="100%" valign="top">
+
+*My current top songs*
 
 | Cover | Track | Artist |
 |-------|-------|--------|
-{music_tracks.rstrip()}"""
+{music_tracks.rstrip()}
+
+</td>
+</tr>
+</table>"""
 
 
 def generate_readme() -> None:
