@@ -37,32 +37,22 @@
 
 </div>
 
-<div align="center">
+```bash
+$ whoami
+rohit@dev:~$ 
 
-<table>
-<tr>
-<td align="center" width="33%">
+$ cat ~/.media_stats
+📺 anime_completed=224
+⏱️ time_watched="46d 15h"
+📖 manga_completed=122  
+📄 chapters_read="10.9k"
 
-📺 **224** anime conquered  
-⏱️ *46d 15h of pure entertainment*
+$ echo $FAVORITE_GENRES
+comedy romance slice_of_life
 
-</td>
-<td align="center" width="33%">
-
-📖 **122** manga adventures  
-📄 *10.9k chapters devoured*
-
-</td>
-<td align="center" width="33%">
-
-🏷️ **My guilty pleasures**  
-![Romance](https://img.shields.io/badge/Romance-purple?style=flat-square) ![Slice of Life](https://img.shields.io/badge/Slice%20of%20Life-purple?style=flat-square) ![Comedy](https://img.shields.io/badge/Comedy-purple?style=flat-square) 
-
-</td>
-</tr>
-</table>
-
-</div>
+$ uptime
+Life uptime: Making things work since forever ⚡
+```
 
 *🎵 Sounds that fuel my code sessions*
 

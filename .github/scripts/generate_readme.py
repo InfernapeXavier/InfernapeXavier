@@ -130,32 +130,22 @@ def generate_stats_section(anilist_data: dict, spotify_data: dict) -> str:
             artist_name = track['artist']
             music_tracks += f"{img_html} | **[{track_name}]({track_url})** | *{artist_name}*\n"
 
-    return f"""<div align="center">
+    terminal_output = f"""```bash
+$ whoami
+rohit@dev:~$ 
 
-<table>
-<tr>
-<td align="center" width="33%">
+$ cat ~/.media_stats
+📺 anime_completed={anime_count}
+⏱️ time_watched="{anime_time}"
+📖 manga_completed={manga_count}  
+📄 chapters_read="{manga_chapters_formatted}"
 
-📺 **{anime_count}** anime conquered  
-⏱️ *{anime_time} of pure entertainment*
+$ echo $FAVORITE_GENRES
+{" ".join([genre.lower().replace(" ", "_") for genre in all_genres[:3]])}
 
-</td>
-<td align="center" width="33%">
-
-📖 **{manga_count}** manga adventures  
-📄 *{manga_chapters_formatted} chapters devoured*
-
-</td>
-<td align="center" width="33%">
-
-🏷️ **My guilty pleasures**  
-{genres_badges}
-
-</td>
-</tr>
-</table>
-
-</div>
+$ uptime
+Life uptime: Making things work since forever ⚡
+```
 
 *🎵 Sounds that fuel my code sessions*
 
@@ -168,6 +158,8 @@ def generate_stats_section(anilist_data: dict, spotify_data: dict) -> str:
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=infernapexavier&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=infernapexavier&redirect=true)
 
 </div>"""
+
+    return terminal_output
 
 
 def generate_readme() -> None:
