@@ -94,7 +94,7 @@ $ echo "Manga processes active"
 
 
 def generate_terminal_stats(anilist_data: dict) -> str:
-    """Generate terminal-style stats section."""
+    """Generate terminal-style stats section in 2-column layout."""
     stats = anilist_data.get("user", {}).get("stats", {})
     anime_stats = stats.get("anime", {})
     manga_stats = stats.get("manga", {})
@@ -114,7 +114,11 @@ def generate_terminal_stats(anilist_data: dict) -> str:
     manga_genres = manga_stats.get("topGenres", [])[:3]
     all_genres = list(set(anime_genres + manga_genres))[:5]
 
-    return f"""```bash
+    return f"""<table>
+<tr>
+<td width="50%" valign="top">
+
+```bash
 $ whoami
 rohit@dev:~$ 
 
@@ -132,14 +136,24 @@ Life uptime: Making things work since forever
 
 $ echo "System stats loaded successfully"
 All entertainment metrics up to date
-```"""
+```
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=infernapexavier&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=infernapexavier&redirect=true)
+
+</div>
+
+</td>
+</tr>
+</table>"""
 
 
 def generate_stats_section(anilist_data: dict, spotify_data: dict) -> str:
     """Generate the stats section with GitHub-compatible formatting."""
-    stats = anilist_data.get("user", {}).get("stats", {})
-    anime_stats = stats.get("anime", {})
-    manga_stats = stats.get("manga", {})
     top_tracks = spotify_data.get("topTracks", [])
 
     # Music section with album art
@@ -157,17 +171,11 @@ def generate_stats_section(anilist_data: dict, spotify_data: dict) -> str:
             artist_name = track['artist']
             music_tracks += f"{img_html} | **[{track_name}]({track_url})** | *{artist_name}*\n"
 
-    return f"""*Sounds that fuel my code sessions*
+    return f"""*My current top songs*
 
 | Cover | Track | Artist |
 |-------|-------|--------|
-{music_tracks.rstrip()}
-
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=infernapexavier&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=infernapexavier&redirect=true)
-
-</div>"""
+{music_tracks.rstrip()}"""
 
 
 def generate_readme() -> None:
