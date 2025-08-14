@@ -61,38 +61,28 @@ def generate_currently_section(anilist_data: dict) -> str:
     else:
         reading_items = "• Nothing currently\n"
 
-    return f"""<div align="center">
+    # Format watching/reading for terminal display
+    watching_terminal = "\n".join([f"  {item['title']}" for item in anilist_data.get("currentlyWatching", [])[:5]]) or "  Nothing currently"
+    reading_terminal = "\n".join([f"  {item['title']}" for item in anilist_data.get("currentlyReading", [])[:5]]) or "  Nothing currently"
 
-<table>
-<tr>
-<td width="50%" valign="top">
+    return f"""```bash
+$ ps aux | grep -E "(anime|manga)"
+📺 Currently watching:
+{watching_terminal}
 
-**📺 Binge-watching right now**
-```
-{watching_items.rstrip()}
-```
+📚 Currently reading:  
+{reading_terminal}
 
-</td>
-<td width="50%" valign="top">
-
-**📚 Getting lost in these stories**
-```
-{reading_items.rstrip()}
-```
-
-</td>
-</tr>
-</table>
-
-</div>"""
+$ echo "Entertainment processes running..."
+2 active media streams 🎬
+```"""
 
 
-def generate_stats_section(anilist_data: dict, spotify_data: dict) -> str:
-    """Generate the stats section with GitHub-compatible formatting."""
+def generate_terminal_stats(anilist_data: dict) -> str:
+    """Generate terminal-style stats section."""
     stats = anilist_data.get("user", {}).get("stats", {})
     anime_stats = stats.get("anime", {})
     manga_stats = stats.get("manga", {})
-    top_tracks = spotify_data.get("topTracks", [])
 
     # Anime/Manga stats
     anime_count = anime_stats.get("count", 0)
@@ -108,12 +98,34 @@ def generate_stats_section(anilist_data: dict, spotify_data: dict) -> str:
     anime_genres = anime_stats.get("topGenres", [])[:3]
     manga_genres = manga_stats.get("topGenres", [])[:3]
     all_genres = list(set(anime_genres + manga_genres))[:5]
-    genres_badges = ""
-    if all_genres:
-        for genre in all_genres:
-            genre_encoded = genre.replace(' ', '%20')
-            genre_url = f"https://img.shields.io/badge/{genre_encoded}-purple?style=flat-square"
-            genres_badges += f"![{genre}]({genre_url}) "
+
+    return f"""```bash
+$ whoami
+rohit@dev:~$ 
+
+$ cat ~/.media_stats
+📺 anime_completed={anime_count}
+⏱️ time_watched="{anime_time}"
+📖 manga_completed={manga_count}  
+📄 chapters_read="{manga_chapters_formatted}"
+
+$ echo $FAVORITE_GENRES
+{" ".join([genre.lower().replace(" ", "_") for genre in all_genres[:3]])}
+
+$ uptime
+Life uptime: Making things work since forever ⚡
+
+$ echo "System stats loaded successfully"
+All entertainment metrics up to date 📊
+```"""
+
+
+def generate_stats_section(anilist_data: dict, spotify_data: dict) -> str:
+    """Generate the stats section with GitHub-compatible formatting."""
+    stats = anilist_data.get("user", {}).get("stats", {})
+    anime_stats = stats.get("anime", {})
+    manga_stats = stats.get("manga", {})
+    top_tracks = spotify_data.get("topTracks", [])
 
     # Music section with album art
     music_tracks = ""
@@ -130,24 +142,7 @@ def generate_stats_section(anilist_data: dict, spotify_data: dict) -> str:
             artist_name = track['artist']
             music_tracks += f"{img_html} | **[{track_name}]({track_url})** | *{artist_name}*\n"
 
-    terminal_output = f"""```bash
-$ whoami
-rohit@dev:~$ 
-
-$ cat ~/.media_stats
-📺 anime_completed={anime_count}
-⏱️ time_watched="{anime_time}"
-📖 manga_completed={manga_count}  
-📄 chapters_read="{manga_chapters_formatted}"
-
-$ echo $FAVORITE_GENRES
-{" ".join([genre.lower().replace(" ", "_") for genre in all_genres[:3]])}
-
-$ uptime
-Life uptime: Making things work since forever ⚡
-```
-
-*🎵 Sounds that fuel my code sessions*
+    return f"""*🎵 Sounds that fuel my code sessions*
 
 | Cover | Track | Artist |
 |-------|-------|--------|
@@ -159,8 +154,6 @@ Life uptime: Making things work since forever ⚡
 
 </div>"""
 
-    return terminal_output
-
 
 def generate_readme() -> None:
     """Generate the complete README.md file."""
@@ -170,6 +163,7 @@ def generate_readme() -> None:
 
     # Generate sections
     currently_section = generate_currently_section(anilist_data)
+    terminal_stats = generate_terminal_stats(anilist_data)
     stats_section = generate_stats_section(anilist_data, spotify_data)
 
     readme_content = f"""<div align="center">
@@ -178,7 +172,20 @@ def generate_readme() -> None:
 
 </div>
 
+<table style="border: none; border-collapse: collapse; width: 100%;">
+<tr>
+<td width="50%" valign="top" style="border: none; padding: 0;">
+
 {currently_section}
+
+</td>
+<td width="50%" valign="top" style="border: none; padding: 0;">
+
+{terminal_stats}
+
+</td>
+</tr>
+</table>
 
 {stats_section}"""
 

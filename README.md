@@ -4,38 +4,32 @@
 
 </div>
 
-<div align="center">
-
-<table>
+<table style="border: none; border-collapse: collapse; width: 100%;">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="border: none; padding: 0;">
 
-**📺 Binge-watching right now**
-```
-• 📺 WITCH WATCH
-• 📺 Kaiju No. 8 Season 2
-• 📺 SAKAMOTO DAYS Part 2
-• 📺 DAN DA DAN Season 2
-• 📺 My Dress-Up Darling Season 2
+```bash
+$ ps aux | grep -E "(anime|manga)"
+📺 Currently watching:
+  WITCH WATCH
+  Kaiju No. 8 Season 2
+  SAKAMOTO DAYS Part 2
+  DAN DA DAN Season 2
+  My Dress-Up Darling Season 2
+
+📚 Currently reading:  
+  SPY x FAMILY
+  Maou no Musume wa Yasashi Sugiru!!
+  My Love Story with Yamada-kun at Lv999
+  I Have a Crush at Work
+  Fly Me to the Moon
+
+$ echo "Entertainment processes running..."
+2 active media streams 🎬
 ```
 
 </td>
-<td width="50%" valign="top">
-
-**📚 Getting lost in these stories**
-```
-• 📖 SPY x FAMILY
-• 📖 Maou no Musume wa Yasashi Sugiru!!
-• 📖 My Love Story with Yamada-kun at Lv999
-• 📖 I Have a Crush at Work
-• 📖 Fly Me to the Moon
-```
-
-</td>
-</tr>
-</table>
-
-</div>
+<td width="50%" valign="top" style="border: none; padding: 0;">
 
 ```bash
 $ whoami
@@ -48,11 +42,18 @@ $ cat ~/.media_stats
 📄 chapters_read="10.9k"
 
 $ echo $FAVORITE_GENRES
-comedy romance slice_of_life
+romance slice_of_life comedy
 
 $ uptime
 Life uptime: Making things work since forever ⚡
+
+$ echo "System stats loaded successfully"
+All entertainment metrics up to date 📊
 ```
+
+</td>
+</tr>
+</table>
 
 *🎵 Sounds that fuel my code sessions*
 
