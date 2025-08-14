@@ -113,16 +113,16 @@ async def fetch_anilist_data() -> None:
                             "minutesWatched": user["statistics"]["anime"]["minutesWatched"],
                             "topGenres": [
                                 g["genre"] for g in user["statistics"]["anime"]["genrePreview"]
-                            ]
+                            ],
                         },
                         "manga": {
                             "count": user["statistics"]["manga"]["count"],
                             "chaptersRead": user["statistics"]["manga"]["chaptersRead"],
                             "topGenres": [
                                 g["genre"] for g in user["statistics"]["manga"]["genrePreview"]
-                            ]
-                        }
-                    }
+                            ],
+                        },
+                    },
                 },
                 "currentlyWatching": [
                     {
@@ -131,12 +131,12 @@ async def fetch_anilist_data() -> None:
                         ),
                         "progress": entry["progress"],
                         "totalEpisodes": entry["media"]["episodes"],
-                        "status": entry["media"]["status"]
+                        "status": entry["media"]["status"],
                     }
                     # Filter out unreleased, then prioritize RELEASING over FINISHED
                     for entry in sorted(
                         [e for e in watching_list if e["media"]["status"] != "NOT_YET_RELEASED"],
-                        key=lambda x: (x["media"]["status"] != "RELEASING", x["media"]["status"])
+                        key=lambda x: (x["media"]["status"] != "RELEASING", x["media"]["status"]),
                     )
                 ][:5],  # Take top 5 after sorting
                 "currentlyReading": [
@@ -146,12 +146,12 @@ async def fetch_anilist_data() -> None:
                         ),
                         "progress": entry["progress"],
                         "totalChapters": entry["media"]["chapters"],
-                        "status": entry["media"]["status"]
+                        "status": entry["media"]["status"],
                     }
                     for entry in reading_list
                     if "Ecchi" not in (entry["media"]["genres"] or [])
                 ][:5],  # Filter out ecchi manga, then take top 5
-                "lastUpdated": "2025-01-01T00:00:00.000Z"  # Will be updated by datetime
+                "lastUpdated": "2025-01-01T00:00:00.000Z",  # Will be updated by datetime
             }
 
             # Create data directory
@@ -174,4 +174,5 @@ async def fetch_anilist_data() -> None:
 
 if __name__ == "__main__":
     import asyncio
+
     asyncio.run(fetch_anilist_data())

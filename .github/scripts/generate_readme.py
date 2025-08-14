@@ -2,7 +2,6 @@
 """Generate developer-focused README.md with dynamic data."""
 
 import json
-from datetime import datetime
 from pathlib import Path
 
 
@@ -39,7 +38,7 @@ def format_minutes_to_readable(minutes: int) -> str:
 def format_large_number(num: int) -> str:
     """Format large numbers with k suffix."""
     if num >= 1000:
-        return f"{num/1000:.1f}k"
+        return f"{num / 1000:.1f}k"
     return str(num)
 
 
@@ -51,18 +50,18 @@ def generate_currently_section(anilist_data: dict) -> str:
     watching_items = ""
     if watching:
         for item in watching[:5]:
-            watching_items += f'• 📺 {item["title"]}\n'
+            watching_items += f"• 📺 {item['title']}\n"
     else:
-        watching_items = '• Nothing currently\n'
+        watching_items = "• Nothing currently\n"
 
     reading_items = ""
     if reading:
         for item in reading[:5]:
-            reading_items += f'• 📖 {item["title"]}\n'
+            reading_items += f"• 📖 {item['title']}\n"
     else:
-        reading_items = '• Nothing currently\n'
+        reading_items = "• Nothing currently\n"
 
-    return f'''<div align="center">
+    return f"""<div align="center">
 
 <table>
 <tr>
@@ -87,15 +86,11 @@ def generate_currently_section(anilist_data: dict) -> str:
 {reading_items.rstrip()}
 ```
 
-**⚡ Status**
-
-![Status](https://img.shields.io/badge/status-online-brightgreen?style=for-the-badge&logo=statuspage)
-
 </td>
 </tr>
 </table>
 
-</div>'''
+</div>"""
 
 
 def generate_stats_section(anilist_data: dict, spotify_data: dict) -> str:
@@ -122,15 +117,26 @@ def generate_stats_section(anilist_data: dict, spotify_data: dict) -> str:
     genres_badges = ""
     if all_genres:
         for genre in all_genres:
-            genres_badges += f'![{genre}](https://img.shields.io/badge/{genre.replace(" ", "%20")}-purple?style=flat-square) '
+            genre_encoded = genre.replace(' ', '%20')
+            genre_url = f"https://img.shields.io/badge/{genre_encoded}-purple?style=flat-square"
+            genres_badges += f"![{genre}]({genre_url}) "
 
-    # Music section
+    # Music section with album art
     music_tracks = ""
     if top_tracks:
-        for i, track in enumerate(top_tracks[:5], 1):
-            music_tracks += f'| {i} | **{track["name"]}** | {track["artist"]} |\n'
+        for track in top_tracks[:5]:
+            album_img = track.get("album_image", "")
+            img_html = (
+                f'<img src="{album_img}" width="40" height="40" style="border-radius: 4px;">'
+                if album_img
+                else "🎵"
+            )
+            track_url = track.get('external_url', '#')
+            track_name = track['name']
+            artist_name = track['artist']
+            music_tracks += f"| {img_html} | **[{track_name}]({track_url})** | *{artist_name}* |\n"
 
-    return f'''## 📊 Analytics & Statistics
+    return f"""*📊 Quick stats & media consumption*
 
 <div align="center">
 
@@ -138,28 +144,19 @@ def generate_stats_section(anilist_data: dict, spotify_data: dict) -> str:
 <tr>
 <td align="center" width="33%">
 
-**📺 Anime**
-
-### {anime_count}
-**completed**
-
+📺 **{anime_count}** anime completed
 ⏱️ *{anime_time} watched*
 
 </td>
 <td align="center" width="33%">
 
-**📖 Manga**
-
-### {manga_count}
-**completed**
-
+📖 **{manga_count}** manga completed
 📄 *{manga_chapters_formatted} chapters*
 
 </td>
 <td align="center" width="33%">
 
-**🏷️ Top Genres**
-
+🏷️ **Top genres**
 {genres_badges}
 
 </td>
@@ -168,11 +165,16 @@ def generate_stats_section(anilist_data: dict, spotify_data: dict) -> str:
 
 </div>
 
-## 🎵 This Month's Top Tracks
+*🎵 What I'm vibing to lately*
 
-| # | Track | Artist |
-|---|-------|--------|
-{music_tracks.rstrip()}'''
+<table>
+<tr>
+<th width="60">Cover</th>
+<th>Track</th>
+<th>Artist</th>
+</tr>
+{music_tracks.rstrip()}
+</table>"""
 
 
 def generate_readme() -> None:
@@ -185,7 +187,7 @@ def generate_readme() -> None:
     currently_section = generate_currently_section(anilist_data)
     stats_section = generate_stats_section(anilist_data, spotify_data)
 
-    readme_content = f'''<div align="center">
+    readme_content = f"""<div align="center">
 
 ![Header](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
@@ -197,15 +199,13 @@ def generate_readme() -> None:
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=infernapexavier&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=infernapexavier&redirect=true)
 
-![Now Playing](https://img.shields.io/badge/🎧_Now_Playing-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
-
 ---
 
 </div>
 
 {currently_section}
 
-{stats_section}'''
+{stats_section}"""
 
     # Write README.md
     readme_path = Path("../../README.md")

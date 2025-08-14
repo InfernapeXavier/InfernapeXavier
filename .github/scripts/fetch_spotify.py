@@ -26,12 +26,9 @@ async def get_access_token(client_id: str, client_secret: str, refresh_token: st
                 SPOTIFY_TOKEN_URL,
                 headers={
                     "Authorization": f"Basic {auth_header}",
-                    "Content-Type": "application/x-www-form-urlencoded"
+                    "Content-Type": "application/x-www-form-urlencoded",
                 },
-                data={
-                    "grant_type": "refresh_token",
-                    "refresh_token": refresh_token
-                }
+                data={"grant_type": "refresh_token", "refresh_token": refresh_token},
             )
             response.raise_for_status()
 
@@ -64,7 +61,7 @@ async def fetch_spotify_data() -> None:
             response = await client.get(
                 f"{SPOTIFY_API_BASE}/me/top/tracks",
                 headers={"Authorization": f"Bearer {access_token}"},
-                params={"time_range": "short_term", "limit": 5}
+                params={"time_range": "short_term", "limit": 5},
             )
             response.raise_for_status()
 
@@ -78,11 +75,14 @@ async def fetch_spotify_data() -> None:
                         "artist": ", ".join(artist["name"] for artist in track["artists"]),
                         "album": track["album"]["name"],
                         "external_url": track["external_urls"]["spotify"],
-                        "popularity": track["popularity"]
+                        "popularity": track["popularity"],
+                        "album_image": track["album"]["images"][0]["url"]
+                        if track["album"]["images"]
+                        else None,
                     }
                     for track in tracks_data["items"]
                 ],
-                "lastUpdated": "2025-01-01T00:00:00.000Z"  # Will be updated by datetime
+                "lastUpdated": "2025-01-01T00:00:00.000Z",  # Will be updated by datetime
             }
 
             # Create data directory
@@ -104,4 +104,5 @@ async def fetch_spotify_data() -> None:
 
 if __name__ == "__main__":
     import asyncio
+
     asyncio.run(fetch_spotify_data())
