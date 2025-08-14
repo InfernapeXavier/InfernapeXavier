@@ -87,6 +87,8 @@ def generate_currently_section(anilist_data: dict) -> str:
 {reading_items.rstrip()}
 ```
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=infernapexavier&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=infernapexavier&redirect=true)
+
 </td>
 </tr>
 </table>
@@ -189,12 +191,6 @@ def generate_readme() -> None:
 
 ### 🔧 Infrastructure Engineer @ Academia.edu  
 *Building systems that scale, debugging mysteries, and occasionally touching grass*
-
----
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=infernapexavier&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=infernapexavier&redirect=true)
-
----
 
 </div>
 

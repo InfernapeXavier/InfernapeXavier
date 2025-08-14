@@ -7,12 +7,6 @@
 ### 🔧 Infrastructure Engineer @ Academia.edu  
 *Building systems that scale, debugging mysteries, and occasionally touching grass*
 
----
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=infernapexavier&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=infernapexavier&redirect=true)
-
----
-
 </div>
 
 <div align="center">
@@ -49,6 +43,8 @@
 • 📖 Fly Me to the Moon
 ```
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=infernapexavier&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=infernapexavier&redirect=true)
+
 </td>
 </tr>
 </table>
@@ -74,7 +70,7 @@
 <td align="center" width="33%">
 
 🏷️ **My guilty pleasures**  
-![Romance](https://img.shields.io/badge/Romance-purple?style=flat-square) ![Slice of Life](https://img.shields.io/badge/Slice%20of%20Life-purple?style=flat-square) ![Comedy](https://img.shields.io/badge/Comedy-purple?style=flat-square) 
+![Comedy](https://img.shields.io/badge/Comedy-purple?style=flat-square) ![Romance](https://img.shields.io/badge/Romance-purple?style=flat-square) ![Slice of Life](https://img.shields.io/badge/Slice%20of%20Life-purple?style=flat-square) 
 
 </td>
 </tr>
