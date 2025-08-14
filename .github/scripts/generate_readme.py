@@ -67,13 +67,14 @@ def generate_currently_section(anilist_data: dict) -> str:
 <tr>
 <td width="50%" valign="top">
 
-**🎯 Working On**
+**🎯 Currently Building**
 ```
-🔧 Infrastructure automation
-⚙️ Backend services
+🔧 Infrastructure that just works
+⚙️ Backend services that scale
+💡 Solutions to hard problems
 ```
 
-**📺 Currently Watching**
+**📺 Binge-watching right now**
 ```
 {watching_items.rstrip()}
 ```
@@ -81,7 +82,7 @@ def generate_currently_section(anilist_data: dict) -> str:
 </td>
 <td width="50%" valign="top">
 
-**📚 Currently Reading**
+**📚 Getting lost in these stories**
 ```
 {reading_items.rstrip()}
 ```
@@ -142,19 +143,19 @@ def generate_stats_section(anilist_data: dict, spotify_data: dict) -> str:
 <tr>
 <td align="center" width="33%">
 
-📺 **{anime_count}** anime completed  
-⏱️ *{anime_time} watched*
+📺 **{anime_count}** anime conquered  
+⏱️ *{anime_time} of pure entertainment*
 
 </td>
 <td align="center" width="33%">
 
-📖 **{manga_count}** manga completed  
-📄 *{manga_chapters_formatted} chapters*
+📖 **{manga_count}** manga adventures  
+📄 *{manga_chapters_formatted} chapters devoured*
 
 </td>
 <td align="center" width="33%">
 
-🏷️ **Top genres**  
+🏷️ **My guilty pleasures**  
 {genres_badges}
 
 </td>
@@ -163,7 +164,7 @@ def generate_stats_section(anilist_data: dict, spotify_data: dict) -> str:
 
 </div>
 
-*🎵 What I'm vibing to lately*
+*🎵 Sounds that fuel my code sessions*
 
 | Cover | Track | Artist |
 |-------|-------|--------|
@@ -186,7 +187,8 @@ def generate_readme() -> None:
 
 # 🔥 InfernapeXavier
 
-### 🔧 Infrastructure Engineer @ Academia.edu
+### 🔧 Infrastructure Engineer @ Academia.edu  
+*Building systems that scale, debugging mysteries, and occasionally touching grass*
 
 ---
 

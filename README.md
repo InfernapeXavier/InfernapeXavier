@@ -4,7 +4,8 @@
 
 # 🔥 InfernapeXavier
 
-### 🔧 Infrastructure Engineer @ Academia.edu
+### 🔧 Infrastructure Engineer @ Academia.edu  
+*Building systems that scale, debugging mysteries, and occasionally touching grass*
 
 ---
 
@@ -20,13 +21,14 @@
 <tr>
 <td width="50%" valign="top">
 
-**🎯 Working On**
+**🎯 Currently Building**
 ```
-🔧 Infrastructure automation
-⚙️ Backend services
+🔧 Infrastructure that just works
+⚙️ Backend services that scale
+💡 Solutions to hard problems
 ```
 
-**📺 Currently Watching**
+**📺 Binge-watching right now**
 ```
 • 📺 WITCH WATCH
 • 📺 Kaiju No. 8 Season 2
@@ -38,7 +40,7 @@
 </td>
 <td width="50%" valign="top">
 
-**📚 Currently Reading**
+**📚 Getting lost in these stories**
 ```
 • 📖 SPY x FAMILY
 • 📖 Maou no Musume wa Yasashi Sugiru!!
@@ -59,19 +61,19 @@
 <tr>
 <td align="center" width="33%">
 
-📺 **224** anime completed  
-⏱️ *46d 15h watched*
+📺 **224** anime conquered  
+⏱️ *46d 15h of pure entertainment*
 
 </td>
 <td align="center" width="33%">
 
-📖 **122** manga completed  
-📄 *10.9k chapters*
+📖 **122** manga adventures  
+📄 *10.9k chapters devoured*
 
 </td>
 <td align="center" width="33%">
 
-🏷️ **Top genres**  
+🏷️ **My guilty pleasures**  
 ![Romance](https://img.shields.io/badge/Romance-purple?style=flat-square) ![Slice of Life](https://img.shields.io/badge/Slice%20of%20Life-purple?style=flat-square) ![Comedy](https://img.shields.io/badge/Comedy-purple?style=flat-square) 
 
 </td>
@@ -80,7 +82,7 @@
 
 </div>
 
-*🎵 What I'm vibing to lately*
+*🎵 Sounds that fuel my code sessions*
 
 | Cover | Track | Artist |
 |-------|-------|--------|
