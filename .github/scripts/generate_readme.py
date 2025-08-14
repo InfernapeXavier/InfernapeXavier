@@ -65,17 +65,32 @@ def generate_currently_section(anilist_data: dict) -> str:
     watching_terminal = "\n".join([f"  {item['title']}" for item in anilist_data.get("currentlyWatching", [])[:5]]) or "  Nothing currently"
     reading_terminal = "\n".join([f"  {item['title']}" for item in anilist_data.get("currentlyReading", [])[:5]]) or "  Nothing currently"
 
-    return f"""```bash
-$ ps aux | grep -E "(anime|manga)"
-📺 Currently watching:
+    return f"""<table>
+<tr>
+<td width="50%" valign="top">
+
+```bash
+$ ps aux | grep "anime"
+Currently watching:
 {watching_terminal}
 
-📚 Currently reading:  
+$ echo "Anime processes active"
+```
+
+</td>
+<td width="50%" valign="top">
+
+```bash
+$ ps aux | grep "manga"
+Currently reading:  
 {reading_terminal}
 
-$ echo "Entertainment processes running..."
-2 active media streams 🎬
-```"""
+$ echo "Manga processes active"
+```
+
+</td>
+</tr>
+</table>"""
 
 
 def generate_terminal_stats(anilist_data: dict) -> str:
@@ -104,19 +119,19 @@ $ whoami
 rohit@dev:~$ 
 
 $ cat ~/.media_stats
-📺 anime_completed={anime_count}
-⏱️ time_watched="{anime_time}"
-📖 manga_completed={manga_count}  
-📄 chapters_read="{manga_chapters_formatted}"
+anime_completed={anime_count}
+time_watched="{anime_time}"
+manga_completed={manga_count}  
+chapters_read="{manga_chapters_formatted}"
 
 $ echo $FAVORITE_GENRES
 {" ".join([genre.lower().replace(" ", "_") for genre in all_genres[:3]])}
 
 $ uptime
-Life uptime: Making things work since forever ⚡
+Life uptime: Making things work since forever
 
 $ echo "System stats loaded successfully"
-All entertainment metrics up to date 📊
+All entertainment metrics up to date
 ```"""
 
 
@@ -142,7 +157,7 @@ def generate_stats_section(anilist_data: dict, spotify_data: dict) -> str:
             artist_name = track['artist']
             music_tracks += f"{img_html} | **[{track_name}]({track_url})** | *{artist_name}*\n"
 
-    return f"""*🎵 Sounds that fuel my code sessions*
+    return f"""*Sounds that fuel my code sessions*
 
 | Cover | Track | Artist |
 |-------|-------|--------|

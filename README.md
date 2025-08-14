@@ -4,25 +4,40 @@
 
 </div>
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ```bash
-$ ps aux | grep -E "(anime|manga)"
-📺 Currently watching:
+$ ps aux | grep "anime"
+Currently watching:
   WITCH WATCH
   Kaiju No. 8 Season 2
   SAKAMOTO DAYS Part 2
   DAN DA DAN Season 2
   My Dress-Up Darling Season 2
 
-📚 Currently reading:  
+$ echo "Anime processes active"
+```
+
+</td>
+<td width="50%" valign="top">
+
+```bash
+$ ps aux | grep "manga"
+Currently reading:  
   SPY x FAMILY
   Maou no Musume wa Yasashi Sugiru!!
   My Love Story with Yamada-kun at Lv999
   I Have a Crush at Work
   Fly Me to the Moon
 
-$ echo "Entertainment processes running..."
-2 active media streams 🎬
+$ echo "Manga processes active"
 ```
+
+</td>
+</tr>
+</table>
 
 ```bash
 $ whoami
@@ -35,7 +50,7 @@ $ cat ~/.media_stats
 📄 chapters_read="10.9k"
 
 $ echo $FAVORITE_GENRES
-slice_of_life romance comedy
+comedy romance slice_of_life
 
 $ uptime
 Life uptime: Making things work since forever ⚡
