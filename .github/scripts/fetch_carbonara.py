@@ -18,7 +18,7 @@ const developer = {
   role: "Infrastructure Engineer",
   company: "Academia.edu",
   pronouns: "He/Him",
-  currentlyLearning: ["Ruby", "React"],
+  currentlyLearning: ["k8s"],
   funFact: "Red Pandas are not Pandas!"
 };
 

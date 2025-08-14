@@ -10,13 +10,6 @@
 <tr>
 <td width="50%" valign="top">
 
-**🎯 Currently Building**
-```
-🔧 Infrastructure that just works
-⚙️ Backend services that scale
-💡 Solutions to hard problems
-```
-
 **📺 Binge-watching right now**
 ```
 • 📺 WITCH WATCH
@@ -65,7 +58,7 @@
 <td align="center" width="33%">
 
 🏷️ **My guilty pleasures**  
-![Slice of Life](https://img.shields.io/badge/Slice%20of%20Life-purple?style=flat-square) ![Comedy](https://img.shields.io/badge/Comedy-purple?style=flat-square) ![Romance](https://img.shields.io/badge/Romance-purple?style=flat-square) 
+![Slice of Life](https://img.shields.io/badge/Slice%20of%20Life-purple?style=flat-square) ![Romance](https://img.shields.io/badge/Romance-purple?style=flat-square) ![Comedy](https://img.shields.io/badge/Comedy-purple?style=flat-square) 
 
 </td>
 </tr>

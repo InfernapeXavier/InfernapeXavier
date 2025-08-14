@@ -67,13 +67,6 @@ def generate_currently_section(anilist_data: dict) -> str:
 <tr>
 <td width="50%" valign="top">
 
-**🎯 Currently Building**
-```
-🔧 Infrastructure that just works
-⚙️ Backend services that scale
-💡 Solutions to hard problems
-```
-
 **📺 Binge-watching right now**
 ```
 {watching_items.rstrip()}
