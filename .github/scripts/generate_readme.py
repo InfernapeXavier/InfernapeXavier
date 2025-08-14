@@ -80,8 +80,6 @@ def generate_currently_section(anilist_data: dict) -> str:
 {reading_items.rstrip()}
 ```
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=infernapexavier&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=infernapexavier&redirect=true)
-
 </td>
 </tr>
 </table>
@@ -163,7 +161,13 @@ def generate_stats_section(anilist_data: dict, spotify_data: dict) -> str:
 
 | Cover | Track | Artist |
 |-------|-------|--------|
-{music_tracks.rstrip()}"""
+{music_tracks.rstrip()}
+
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=infernapexavier&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=infernapexavier&redirect=true)
+
+</div>"""
 
 
 def generate_readme() -> None:

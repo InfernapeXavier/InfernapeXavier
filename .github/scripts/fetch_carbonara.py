@@ -19,6 +19,7 @@ const developer = {
   company: "Academia.edu",
   pronouns: "He/Him",
   currentlyLearning: ["k8s"],
+  hobbies: ["reading", "anime", "gaming"],
   funFact: "Red Pandas are not Pandas!"
 };
 
