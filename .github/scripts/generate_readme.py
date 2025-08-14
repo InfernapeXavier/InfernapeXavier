@@ -134,29 +134,27 @@ def generate_stats_section(anilist_data: dict, spotify_data: dict) -> str:
             track_url = track.get('external_url', '#')
             track_name = track['name']
             artist_name = track['artist']
-            music_tracks += f"| {img_html} | **[{track_name}]({track_url})** | *{artist_name}* |\n"
+            music_tracks += f"{img_html} | **[{track_name}]({track_url})** | *{artist_name}*\n"
 
-    return f"""*📊 Quick stats & media consumption*
-
-<div align="center">
+    return f"""<div align="center">
 
 <table>
 <tr>
 <td align="center" width="33%">
 
-📺 **{anime_count}** anime completed
+📺 **{anime_count}** anime completed  
 ⏱️ *{anime_time} watched*
 
 </td>
 <td align="center" width="33%">
 
-📖 **{manga_count}** manga completed
+📖 **{manga_count}** manga completed  
 📄 *{manga_chapters_formatted} chapters*
 
 </td>
 <td align="center" width="33%">
 
-🏷️ **Top genres**
+🏷️ **Top genres**  
 {genres_badges}
 
 </td>
@@ -167,14 +165,9 @@ def generate_stats_section(anilist_data: dict, spotify_data: dict) -> str:
 
 *🎵 What I'm vibing to lately*
 
-<table>
-<tr>
-<th width="60">Cover</th>
-<th>Track</th>
-<th>Artist</th>
-</tr>
-{music_tracks.rstrip()}
-</table>"""
+| Cover | Track | Artist |
+|-------|-------|--------|
+{music_tracks.rstrip()}"""
 
 
 def generate_readme() -> None:

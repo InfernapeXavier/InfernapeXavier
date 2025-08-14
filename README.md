@@ -10,8 +10,6 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=infernapexavier&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=infernapexavier&redirect=true)
 
-![Now Playing](https://img.shields.io/badge/🎧_Now_Playing-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
-
 ---
 
 </div>
@@ -49,17 +47,11 @@
 • 📖 Fly Me to the Moon
 ```
 
-**⚡ Status**
-
-![Status](https://img.shields.io/badge/status-online-brightgreen?style=for-the-badge&logo=statuspage)
-
 </td>
 </tr>
 </table>
 
 </div>
-
-## 📊 Analytics & Statistics
 
 <div align="center">
 
@@ -67,29 +59,20 @@
 <tr>
 <td align="center" width="33%">
 
-**📺 Anime**
-
-### 224
-**completed**
-
+📺 **224** anime completed  
 ⏱️ *46d 15h watched*
 
 </td>
 <td align="center" width="33%">
 
-**📖 Manga**
-
-### 122
-**completed**
-
+📖 **122** manga completed  
 📄 *10.9k chapters*
 
 </td>
 <td align="center" width="33%">
 
-**🏷️ Top Genres**
-
-![Slice of Life](https://img.shields.io/badge/Slice%20of%20Life-purple?style=flat-square) ![Comedy](https://img.shields.io/badge/Comedy-purple?style=flat-square) ![Romance](https://img.shields.io/badge/Romance-purple?style=flat-square) 
+🏷️ **Top genres**  
+![Romance](https://img.shields.io/badge/Romance-purple?style=flat-square) ![Slice of Life](https://img.shields.io/badge/Slice%20of%20Life-purple?style=flat-square) ![Comedy](https://img.shields.io/badge/Comedy-purple?style=flat-square) 
 
 </td>
 </tr>
@@ -97,12 +80,12 @@
 
 </div>
 
-## 🎵 This Month's Top Tracks
+*🎵 What I'm vibing to lately*
 
-| # | Track | Artist |
-|---|-------|--------|
-| 1 | **Dil Behra** | KhoslaRaghu |
-| 2 | **Mirage (OP Theme to Call of the Night Season 2)** | Creepy Nuts |
-| 3 | **Punkrocker (feat. Iggy Pop) - As featured in Superman** | Teddybears, Iggy Pop |
-| 4 | **Falling** | Chris Lake, Bonobo, Alexis Roberts |
-| 5 | **Watch me!** | YOASOBI |
+| Cover | Track | Artist |
+|-------|-------|--------|
+<img src="https://i.scdn.co/image/ab67616d0000b273e7d1d9a89fbd0ed82571c26b" width="40" height="40" style="border-radius: 4px;"> | **[Dil Behra](https://open.spotify.com/track/6CNvkLUbOVTTwvtyAEPtmR)** | *KhoslaRaghu*
+<img src="https://i.scdn.co/image/ab67616d0000b27365be90eeef17d56739f00906" width="40" height="40" style="border-radius: 4px;"> | **[Mirage (OP Theme to Call of the Night Season 2)](https://open.spotify.com/track/3GVNp2UgIp2TN3ra67cxdg)** | *Creepy Nuts*
+<img src="https://i.scdn.co/image/ab67616d0000b273f678cc7a20b3da4d95f99f06" width="40" height="40" style="border-radius: 4px;"> | **[Punkrocker (feat. Iggy Pop) - As featured in Superman](https://open.spotify.com/track/7yHRmaBkHKXKJmS1xMzicZ)** | *Teddybears, Iggy Pop*
+<img src="https://i.scdn.co/image/ab67616d0000b273eef1231340b1f14dde4816f0" width="40" height="40" style="border-radius: 4px;"> | **[Falling](https://open.spotify.com/track/5LRyR8eIg7fSlH3GsdFqEi)** | *Chris Lake, Bonobo, Alexis Roberts*
+<img src="https://i.scdn.co/image/ab67616d0000b273aa21e4d3d70419011eac3ccc" width="40" height="40" style="border-radius: 4px;"> | **[sunburn](https://open.spotify.com/track/5Q9hC6Z25FeRL9xjJIrIwQ)** | *almost monday*
