@@ -1,0 +1,94 @@
+{
+  "user": {
+    "name": "InfernapeXavier",
+    "stats": {
+      "anime": {
+        "count": 224,
+        "minutesWatched": 67149,
+        "topGenres": [
+          "Comedy",
+          "Slice of Life",
+          "Romance",
+          "Drama",
+          "Action"
+        ]
+      },
+      "manga": {
+        "count": 122,
+        "chaptersRead": 10867,
+        "topGenres": [
+          "Romance",
+          "Comedy",
+          "Slice of Life",
+          "Drama",
+          "Ecchi"
+        ]
+      }
+    }
+  },
+  "currentlyWatching": [
+    {
+      "title": "WITCH WATCH",
+      "progress": 18,
+      "totalEpisodes": 25,
+      "status": "RELEASING"
+    },
+    {
+      "title": "Kaiju No. 8 Season 2",
+      "progress": 3,
+      "totalEpisodes": 11,
+      "status": "RELEASING"
+    },
+    {
+      "title": "SAKAMOTO DAYS Part 2",
+      "progress": 2,
+      "totalEpisodes": 11,
+      "status": "RELEASING"
+    },
+    {
+      "title": "DAN DA DAN Season 2",
+      "progress": 5,
+      "totalEpisodes": 12,
+      "status": "RELEASING"
+    },
+    {
+      "title": "My Dress-Up Darling Season 2",
+      "progress": 5,
+      "totalEpisodes": 12,
+      "status": "RELEASING"
+    }
+  ],
+  "currentlyReading": [
+    {
+      "title": "SPY x FAMILY",
+      "progress": 111,
+      "totalChapters": null,
+      "status": "RELEASING"
+    },
+    {
+      "title": "Maou no Musume wa Yasashi Sugiru!!",
+      "progress": 32,
+      "totalChapters": null,
+      "status": "RELEASING"
+    },
+    {
+      "title": "My Love Story with Yamada-kun at Lv999",
+      "progress": 99,
+      "totalChapters": null,
+      "status": "RELEASING"
+    },
+    {
+      "title": "I Have a Crush at Work",
+      "progress": 105,
+      "totalChapters": 147,
+      "status": "FINISHED"
+    },
+    {
+      "title": "Fly Me to the Moon",
+      "progress": 267,
+      "totalChapters": null,
+      "status": "RELEASING"
+    }
+  ],
+  "lastUpdated": "2025-01-01T00:00:00.000Z"
+}

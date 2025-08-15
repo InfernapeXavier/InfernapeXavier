@@ -1,0 +1,179 @@
+#!/usr/bin/env python3
+"""Fetch AniList data for GitHub profile."""
+
+import json
+import os
+from datetime import UTC, datetime
+from pathlib import Path
+
+import httpx
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
+
+ANILIST_API = "https://graphql.anilist.co"
+
+QUERY = """
+query ($userName: String) {
+  User(name: $userName) {
+    id
+    name
+    statistics {
+      anime {
+        count
+        minutesWatched
+        genrePreview: genres(limit: 5, sort: COUNT_DESC) {
+          genre
+          count
+        }
+      }
+      manga {
+        count
+        chaptersRead
+        genrePreview: genres(limit: 5, sort: COUNT_DESC) {
+          genre
+          count
+        }
+      }
+    }
+  }
+
+  watchingList: MediaListCollection(userName: $userName, type: ANIME, status: CURRENT) {
+    lists {
+      entries {
+        media {
+          title {
+            romaji
+            english
+          }
+          episodes
+          status
+        }
+        progress
+      }
+    }
+  }
+
+  readingList: MediaListCollection(userName: $userName, type: MANGA, status: CURRENT) {
+    lists {
+      entries {
+        media {
+          title {
+            romaji
+            english
+          }
+          chapters
+          status
+          genres
+        }
+        progress
+      }
+    }
+  }
+}
+"""
+
+
+async def fetch_anilist_data() -> None:
+    """Fetch AniList data and save to JSON file."""
+    username = os.getenv("ANILIST_USERNAME")
+
+    if not username:
+        print("ANILIST_USERNAME not set, skipping AniList data fetch")
+        return
+
+    async with httpx.AsyncClient() as client:
+        try:
+            response = await client.post(
+                ANILIST_API,
+                json={"query": QUERY, "variables": {"userName": username}},
+                headers={"Content-Type": "application/json"},
+            )
+            response.raise_for_status()
+
+            data = response.json()
+
+            if "errors" in data:
+                print(f"AniList API errors: {data['errors']}")
+                return
+
+            user = data["data"]["User"]
+            watching_entries = data["data"]["watchingList"]["lists"]
+            watching_list = watching_entries[0]["entries"] if watching_entries else []
+            reading_entries = data["data"]["readingList"]["lists"]
+            reading_list = reading_entries[0]["entries"] if reading_entries else []
+
+            # Process the data
+            anilist_data = {
+                "user": {
+                    "name": user["name"],
+                    "stats": {
+                        "anime": {
+                            "count": user["statistics"]["anime"]["count"],
+                            "minutesWatched": user["statistics"]["anime"]["minutesWatched"],
+                            "topGenres": [
+                                g["genre"] for g in user["statistics"]["anime"]["genrePreview"]
+                            ],
+                        },
+                        "manga": {
+                            "count": user["statistics"]["manga"]["count"],
+                            "chaptersRead": user["statistics"]["manga"]["chaptersRead"],
+                            "topGenres": [
+                                g["genre"] for g in user["statistics"]["manga"]["genrePreview"]
+                            ],
+                        },
+                    },
+                },
+                "currentlyWatching": [
+                    {
+                        "title": (
+                            entry["media"]["title"]["english"] or entry["media"]["title"]["romaji"]
+                        ),
+                        "progress": entry["progress"],
+                        "totalEpisodes": entry["media"]["episodes"],
+                        "status": entry["media"]["status"],
+                    }
+                    # Filter out unreleased, then prioritize RELEASING over FINISHED
+                    for entry in sorted(
+                        [e for e in watching_list if e["media"]["status"] != "NOT_YET_RELEASED"],
+                        key=lambda x: (x["media"]["status"] != "RELEASING", x["media"]["status"]),
+                    )
+                ][:5],  # Take top 5 after sorting
+                "currentlyReading": [
+                    {
+                        "title": (
+                            entry["media"]["title"]["english"] or entry["media"]["title"]["romaji"]
+                        ),
+                        "progress": entry["progress"],
+                        "totalChapters": entry["media"]["chapters"],
+                        "status": entry["media"]["status"],
+                    }
+                    for entry in reading_list
+                    if "Ecchi" not in (entry["media"]["genres"] or [])
+                ][:5],  # Filter out ecchi manga, then take top 5
+                "lastUpdated": datetime.now(UTC).strftime('%Y-%m-%dT%H:%M:%S.%fZ'),
+            }
+
+            # Create data directory
+            data_dir = Path("../../data")
+            data_dir.mkdir(exist_ok=True)
+
+            # Write data to file
+            with open(data_dir / "anilist.json", "w") as f:
+                json.dump(anilist_data, f, indent=2)
+
+            print("✅ AniList data fetched successfully")
+            print(f"📺 Watching: {len(anilist_data['currentlyWatching'])} anime")
+            print(f"📖 Reading: {len(anilist_data['currentlyReading'])} manga")
+
+        except httpx.HTTPError as e:
+            print(f"❌ HTTP error fetching AniList data: {e}")
+        except Exception as e:
+            print(f"❌ Error fetching AniList data: {e}")
+
+
+if __name__ == "__main__":
+    import asyncio
+
+    asyncio.run(fetch_anilist_data())
