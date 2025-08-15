@@ -43,7 +43,8 @@ class AuthHandler(BaseHTTPRequestHandler):
             self.end_headers()
 
     def log_message(self, fmt, *args):
-        """Suppress log messages."""
+        """Override to suppress HTTP server log messages."""
+        pass
 
 
 async def get_refresh_token(client_id: str, client_secret: str) -> str:
