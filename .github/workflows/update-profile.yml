@@ -23,7 +23,7 @@ jobs:
           cache-dependency-glob: ".github/scripts/pyproject.toml"
 
       - name: Setup Python
-        run: uv python install 3.13.x
+        run: uv python install 3.13
         working-directory: ./.github/scripts
 
       - name: Install dependencies
