@@ -152,7 +152,7 @@ async def fetch_anilist_data() -> None:
                     for entry in reading_list
                     if "Ecchi" not in (entry["media"]["genres"] or [])
                 ][:5],  # Filter out ecchi manga, then take top 5
-                "lastUpdated": datetime.now(UTC).isoformat().replace("+00:00", "Z"),
+                "lastUpdated": datetime.now(UTC).strftime('%Y-%m-%dT%H:%M:%S.%fZ'),
             }
 
             # Create data directory
