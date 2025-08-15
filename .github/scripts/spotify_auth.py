@@ -2,7 +2,6 @@
 """Automated Spotify OAuth flow to get refresh token."""
 
 import base64
-import json
 import urllib.parse
 import webbrowser
 from http.server import BaseHTTPRequestHandler, HTTPServer
@@ -43,9 +42,8 @@ class AuthHandler(BaseHTTPRequestHandler):
             self.send_response(404)
             self.end_headers()
 
-    def log_message(self, format, *args):
+    def log_message(self, fmt, *args):
         """Suppress log messages."""
-        pass
 
 
 async def get_refresh_token(client_id: str, client_secret: str) -> str:
@@ -69,7 +67,7 @@ async def get_refresh_token(client_id: str, client_secret: str) -> str:
     }
     auth_url = f"https://accounts.spotify.com/authorize?{urllib.parse.urlencode(auth_params)}"
 
-    print(f"🔐 Opening browser for Spotify authorization...")
+    print("🔐 Opening browser for Spotify authorization...")
     print(f"    If browser doesn't open, visit: {auth_url}")
 
     # Open browser

@@ -44,26 +44,13 @@ def format_large_number(num: int) -> str:
 
 def generate_currently_section(anilist_data: dict) -> str:
     """Generate the 'Currently' section with GitHub-compatible formatting."""
-    watching = anilist_data.get("currentlyWatching", [])
-    reading = anilist_data.get("currentlyReading", [])
-
-    watching_items = ""
-    if watching:
-        for item in watching[:5]:
-            watching_items += f"• 📺 {item['title']}\n"
-    else:
-        watching_items = "• Nothing currently\n"
-
-    reading_items = ""
-    if reading:
-        for item in reading[:5]:
-            reading_items += f"• 📖 {item['title']}\n"
-    else:
-        reading_items = "• Nothing currently\n"
-
     # Format watching/reading for terminal display
-    watching_terminal = "\n".join([f"  {item['title']}" for item in anilist_data.get("currentlyWatching", [])[:5]]) or "  Nothing currently"
-    reading_terminal = "\n".join([f"  {item['title']}" for item in anilist_data.get("currentlyReading", [])[:5]]) or "  Nothing currently"
+    watching_terminal = "\n".join([
+        f"  {item['title']}" for item in anilist_data.get("currentlyWatching", [])[:5]
+    ]) or "  Nothing currently"
+    reading_terminal = "\n".join([
+        f"  {item['title']}" for item in anilist_data.get("currentlyReading", [])[:5]
+    ]) or "  Nothing currently"
 
     return f"""<table>
 <tr>
@@ -82,7 +69,7 @@ $ echo "Anime processes active"
 
 ```bash
 $ ps aux | grep "manga"
-Currently reading:  
+Currently reading:
 {reading_terminal}
 
 $ echo "Manga processes active"
@@ -120,12 +107,12 @@ def generate_terminal_stats(anilist_data: dict) -> str:
 
 ```bash
 $ whoami
-rohit@dev:~$ 
+rohit@dev:~$
 
 $ cat ~/.media_stats
 anime_completed={anime_count}
 time_watched="{anime_time}"
-manga_completed={manga_count}  
+manga_completed={manga_count}
 chapters_read="{manga_chapters_formatted}"
 
 $ echo $FAVORITE_GENRES
@@ -152,7 +139,7 @@ All entertainment metrics up to date
 </table>"""
 
 
-def generate_stats_section(anilist_data: dict, spotify_data: dict) -> str:
+def generate_stats_section(spotify_data: dict) -> str:
     """Generate the stats section with GitHub-compatible formatting."""
     top_tracks = spotify_data.get("topTracks", [])
 
@@ -196,7 +183,7 @@ def generate_readme() -> None:
     # Generate sections
     currently_section = generate_currently_section(anilist_data)
     terminal_stats = generate_terminal_stats(anilist_data)
-    stats_section = generate_stats_section(anilist_data, spotify_data)
+    stats_section = generate_stats_section(spotify_data)
 
     readme_content = f"""<div align="center">
 

@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
 """Generate Carbonara code snippet image for GitHub profile."""
 
-import json
 from pathlib import Path
+
 import httpx
 
 
 async def generate_carbonara_intro():
     """Generate and save Carbonara code snippet image."""
-    
+
     # Code content
     code = """console.log("Hi there 👋");
 
@@ -30,7 +30,7 @@ console.log("Welcome to my profile!");"""
         "backgroundColor": "#deb563",
         "theme": "duotone-dark",
         "fontFamily": "Fira Code",
-        "fontSize": "14px",
+        "fontSize": 14,
         "lineNumbers": True,
         "dropShadow": True
     }
@@ -40,25 +40,25 @@ console.log("Welcome to my profile!");"""
             # Prepare request data - merge code with config
             request_data = {"code": code}
             request_data.update(config)
-            
+
             # Make request to Carbonara API
             response = await client.post(
                 "https://carbonara.solopov.dev/api/cook",
                 json=request_data
             )
             response.raise_for_status()
-            
+
             # Save the image
             images_dir = Path("../../images")
             images_dir.mkdir(exist_ok=True)
-            
+
             image_path = images_dir / "intro.png"
             with open(image_path, "wb") as f:
                 f.write(response.content)
-            
+
             print("✅ Carbonara intro image generated successfully")
             print(f"📁 Saved to: {image_path}")
-            
+
         except httpx.HTTPError as e:
             print(f"❌ HTTP error generating Carbonara image: {e}")
         except Exception as e:

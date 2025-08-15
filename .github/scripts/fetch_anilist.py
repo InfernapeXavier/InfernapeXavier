@@ -3,6 +3,7 @@
 
 import json
 import os
+from datetime import UTC, datetime
 from pathlib import Path
 
 import httpx
@@ -151,7 +152,7 @@ async def fetch_anilist_data() -> None:
                     for entry in reading_list
                     if "Ecchi" not in (entry["media"]["genres"] or [])
                 ][:5],  # Filter out ecchi manga, then take top 5
-                "lastUpdated": "2025-01-01T00:00:00.000Z",  # Will be updated by datetime
+                "lastUpdated": datetime.now(UTC).isoformat().replace("+00:00", "Z"),
             }
 
             # Create data directory

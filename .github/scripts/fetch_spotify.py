@@ -4,6 +4,7 @@
 import base64
 import json
 import os
+from datetime import datetime
 from pathlib import Path
 
 import httpx
@@ -82,7 +83,7 @@ async def fetch_spotify_data() -> None:
                     }
                     for track in tracks_data["items"]
                 ],
-                "lastUpdated": "2025-01-01T00:00:00.000Z",  # Will be updated by datetime
+                "lastUpdated": datetime.now().isoformat(),
             }
 
             # Create data directory
