@@ -162,7 +162,8 @@ def generate_stats_section(anilist_data: dict, spotify_data: dict) -> str:
         for track in top_tracks[:5]:
             album_img = track.get("album_image", "")
             img_html = (
-                f'<img src="{album_img}" width="40" height="40" style="border-radius: 4px;">'
+                f'<img src="{album_img}" width="40" height="40" '
+                f'style="border-radius: 4px;" alt="{track["name"]} album cover">'
                 if album_img
                 else "🎵"
             )
@@ -199,7 +200,7 @@ def generate_readme() -> None:
 
     readme_content = f"""<div align="center">
 
-![intro](images/intro.png)
+![Rohit's GitHub profile intro banner](images/intro.png)
 
 </div>
 
