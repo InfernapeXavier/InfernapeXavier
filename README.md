@@ -54,7 +54,7 @@ manga_completed=122
 chapters_read="10.9k"
 
 $ echo $FAVORITE_GENRES
-romance comedy slice_of_life
+comedy slice_of_life romance
 
 $ uptime
 Life uptime: Making things work since forever
@@ -88,7 +88,7 @@ All entertainment metrics up to date
 <img src="https://i.scdn.co/image/ab67616d0000b273f678cc7a20b3da4d95f99f06" width="40" height="40" style="border-radius: 4px;" alt="Punkrocker (feat. Iggy Pop) - As featured in Superman album cover"> | **[Punkrocker (feat. Iggy Pop) - As featured in Superman](https://open.spotify.com/track/7yHRmaBkHKXKJmS1xMzicZ)** | *Teddybears, Iggy Pop*
 <img src="https://i.scdn.co/image/ab67616d0000b27365be90eeef17d56739f00906" width="40" height="40" style="border-radius: 4px;" alt="Mirage (OP Theme to Call of the Night Season 2) album cover"> | **[Mirage (OP Theme to Call of the Night Season 2)](https://open.spotify.com/track/3GVNp2UgIp2TN3ra67cxdg)** | *Creepy Nuts*
 <img src="https://i.scdn.co/image/ab67616d0000b273eef1231340b1f14dde4816f0" width="40" height="40" style="border-radius: 4px;" alt="Falling album cover"> | **[Falling](https://open.spotify.com/track/5LRyR8eIg7fSlH3GsdFqEi)** | *Chris Lake, Bonobo, Alexis Roberts*
-<img src="https://i.scdn.co/image/ab67616d0000b273aa21e4d3d70419011eac3ccc" width="40" height="40" style="border-radius: 4px;" alt="sunburn album cover"> | **[sunburn](https://open.spotify.com/track/5Q9hC6Z25FeRL9xjJIrIwQ)** | *almost monday*
+<img src="https://i.scdn.co/image/ab67616d0000b27353c8cfd4455dd731301d55ca" width="40" height="40" style="border-radius: 4px;" alt="Humans album cover"> | **[Humans](https://open.spotify.com/track/0aubGuvu0FkCCHIRroTS8e)** | *The Faim*
 
 </td>
 </tr>
