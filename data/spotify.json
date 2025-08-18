@@ -17,14 +17,6 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b27365be90eeef17d56739f00906"
     },
     {
-      "name": "Punkrocker (feat. Iggy Pop) - As featured in Superman",
-      "artist": "Teddybears, Iggy Pop",
-      "album": "Soft Machine",
-      "external_url": "https://open.spotify.com/track/7yHRmaBkHKXKJmS1xMzicZ",
-      "popularity": 77,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273f678cc7a20b3da4d95f99f06"
-    },
-    {
       "name": "Humans",
       "artist": "The Faim",
       "album": "State of Mind",
@@ -39,7 +31,15 @@
       "external_url": "https://open.spotify.com/track/5LRyR8eIg7fSlH3GsdFqEi",
       "popularity": 65,
       "album_image": "https://i.scdn.co/image/ab67616d0000b273eef1231340b1f14dde4816f0"
+    },
+    {
+      "name": "1983",
+      "artist": "Weathers",
+      "album": "Kids In The Night",
+      "external_url": "https://open.spotify.com/track/2lLjpcluDaI7R2IQFvN0c6",
+      "popularity": 37,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273861da3aeff234f966aec642f"
     }
   ],
-  "lastUpdated": "2025-08-18T00:03:18.315911"
+  "lastUpdated": "2025-08-18T06:01:36.361769"
 }
