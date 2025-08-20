@@ -54,7 +54,7 @@ manga_completed=122
 chapters_read="10.9k"
 
 $ echo $FAVORITE_GENRES
-romance slice_of_life comedy
+slice_of_life comedy romance
 
 $ uptime
 Life uptime: Making things work since forever
@@ -86,8 +86,8 @@ All entertainment metrics up to date
 |-------|-------|--------|
 <img src="https://i.scdn.co/image/ab67616d0000b273e7d1d9a89fbd0ed82571c26b" width="40" height="40" style="border-radius: 4px;" alt="Dil Behra album cover"> | **[Dil Behra](https://open.spotify.com/track/6CNvkLUbOVTTwvtyAEPtmR)** | *KhoslaRaghu*
 <img src="https://i.scdn.co/image/ab67616d0000b27365be90eeef17d56739f00906" width="40" height="40" style="border-radius: 4px;" alt="Mirage (OP Theme to Call of the Night Season 2) album cover"> | **[Mirage (OP Theme to Call of the Night Season 2)](https://open.spotify.com/track/3GVNp2UgIp2TN3ra67cxdg)** | *Creepy Nuts*
-<img src="https://i.scdn.co/image/ab67616d0000b273eef1231340b1f14dde4816f0" width="40" height="40" style="border-radius: 4px;" alt="Falling album cover"> | **[Falling](https://open.spotify.com/track/5LRyR8eIg7fSlH3GsdFqEi)** | *Chris Lake, Bonobo, Alexis Roberts*
 <img src="https://i.scdn.co/image/ab67616d0000b27353c8cfd4455dd731301d55ca" width="40" height="40" style="border-radius: 4px;" alt="Humans album cover"> | **[Humans](https://open.spotify.com/track/0aubGuvu0FkCCHIRroTS8e)** | *The Faim*
+<img src="https://i.scdn.co/image/ab67616d0000b273eef1231340b1f14dde4816f0" width="40" height="40" style="border-radius: 4px;" alt="Falling album cover"> | **[Falling](https://open.spotify.com/track/5LRyR8eIg7fSlH3GsdFqEi)** | *Chris Lake, Bonobo, Alexis Roberts*
 <img src="https://i.scdn.co/image/ab67616d0000b273d51f326f48c94a85dcd7090f" width="40" height="40" style="border-radius: 4px;" alt="alibi album cover"> | **[alibi](https://open.spotify.com/track/4zRfL2F7yb46p0KU4modG4)** | *joan*
 
 </td>
