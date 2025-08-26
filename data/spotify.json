@@ -9,14 +9,6 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b273e7d1d9a89fbd0ed82571c26b"
     },
     {
-      "name": "Blisters",
-      "artist": "Vinyl Theatre",
-      "album": "Blisters",
-      "external_url": "https://open.spotify.com/track/7Hog36913nHaVnHJFZ64Nk",
-      "popularity": 29,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273520b4aeb40156b1e3deeb773"
-    },
-    {
       "name": "God Must Hate Me",
       "artist": "Catie Turner",
       "album": "God Must Hate Me",
@@ -39,7 +31,15 @@
       "external_url": "https://open.spotify.com/track/0GqAWZe1A5ecKadZrHk6XH",
       "popularity": 60,
       "album_image": "https://i.scdn.co/image/ab67616d0000b273092c3001ef2d0a4f81372078"
+    },
+    {
+      "name": "Blisters",
+      "artist": "Vinyl Theatre",
+      "album": "Blisters",
+      "external_url": "https://open.spotify.com/track/7Hog36913nHaVnHJFZ64Nk",
+      "popularity": 29,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273520b4aeb40156b1e3deeb773"
     }
   ],
-  "lastUpdated": "2025-08-26T12:01:13.830196"
+  "lastUpdated": "2025-08-26T18:01:16.299441"
 }
