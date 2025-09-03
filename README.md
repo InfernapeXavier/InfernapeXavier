@@ -54,7 +54,7 @@ manga_completed=122
 chapters_read="10.9k"
 
 $ echo $FAVORITE_GENRES
-comedy romance slice_of_life
+romance slice_of_life comedy
 
 $ uptime
 Life uptime: Making things work since forever
@@ -86,8 +86,8 @@ All entertainment metrics up to date
 |-------|-------|--------|
 <img src="https://i.scdn.co/image/ab67616d0000b273e7d1d9a89fbd0ed82571c26b" width="40" height="40" style="border-radius: 4px;" alt="Dil Behra album cover"> | **[Dil Behra](https://open.spotify.com/track/6CNvkLUbOVTTwvtyAEPtmR)** | *KhoslaRaghu*
 <img src="https://i.scdn.co/image/ab67616d0000b273092c3001ef2d0a4f81372078" width="40" height="40" style="border-radius: 4px;" alt="Chk Chk Boom album cover"> | **[Chk Chk Boom](https://open.spotify.com/track/0GqAWZe1A5ecKadZrHk6XH)** | *Stray Kids*
-<img src="https://i.scdn.co/image/ab67616d0000b2734e7bc8268e60de61fcf70fd0" width="40" height="40" style="border-radius: 4px;" alt="God Must Hate Me album cover"> | **[God Must Hate Me](https://open.spotify.com/track/21xzFXSL2XkZ2mIzDDAqTK)** | *Catie Turner*
 <img src="https://i.scdn.co/image/ab67616d0000b273a970b73f34155a90e04d6414" width="40" height="40" style="border-radius: 4px;" alt="I Need My Girl album cover"> | **[I Need My Girl](https://open.spotify.com/track/50M7nY1oQuNHecs0ahWAtI)** | *The National*
+<img src="https://i.scdn.co/image/ab67616d0000b2734e7bc8268e60de61fcf70fd0" width="40" height="40" style="border-radius: 4px;" alt="God Must Hate Me album cover"> | **[God Must Hate Me](https://open.spotify.com/track/21xzFXSL2XkZ2mIzDDAqTK)** | *Catie Turner*
 <img src="https://i.scdn.co/image/ab67616d0000b2737b1b6f41c1645af9757d5616" width="40" height="40" style="border-radius: 4px;" alt="King of Everything album cover"> | **[King of Everything](https://open.spotify.com/track/0lO1yt6M1l1OAs80M3vEfM)** | *Dominic Fike*
 
 </td>
