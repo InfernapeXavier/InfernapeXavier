@@ -9,14 +9,6 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b273e7d1d9a89fbd0ed82571c26b"
     },
     {
-      "name": "Chk Chk Boom",
-      "artist": "Stray Kids",
-      "album": "ATE",
-      "external_url": "https://open.spotify.com/track/0GqAWZe1A5ecKadZrHk6XH",
-      "popularity": 59,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273092c3001ef2d0a4f81372078"
-    },
-    {
       "name": "I Need My Girl",
       "artist": "The National",
       "album": "Trouble Will Find Me",
@@ -39,7 +31,15 @@
       "external_url": "https://open.spotify.com/track/2CrrWAO1SOHP5xw8nACU2o",
       "popularity": 48,
       "album_image": "https://i.scdn.co/image/ab67616d0000b2730ff073e72fce34c171f41be4"
+    },
+    {
+      "name": "Chk Chk Boom",
+      "artist": "Stray Kids",
+      "album": "ATE",
+      "external_url": "https://open.spotify.com/track/0GqAWZe1A5ecKadZrHk6XH",
+      "popularity": 59,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273092c3001ef2d0a4f81372078"
     }
   ],
-  "lastUpdated": "2025-09-04T06:01:16.928796"
+  "lastUpdated": "2025-09-04T12:01:27.047244"
 }
