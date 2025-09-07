@@ -54,7 +54,7 @@ manga_completed=122
 chapters_read="10.9k"
 
 $ echo $FAVORITE_GENRES
-romance comedy slice_of_life
+romance slice_of_life comedy
 
 $ uptime
 Life uptime: Making things work since forever
