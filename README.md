@@ -54,7 +54,7 @@ manga_completed=122
 chapters_read="10.9k"
 
 $ echo $FAVORITE_GENRES
-slice_of_life comedy romance
+romance slice_of_life comedy
 
 $ uptime
 Life uptime: Making things work since forever
@@ -87,8 +87,8 @@ All entertainment metrics up to date
 <img src="https://i.scdn.co/image/ab67616d0000b273e7d1d9a89fbd0ed82571c26b" width="40" height="40" style="border-radius: 4px;" alt="Dil Behra album cover"> | **[Dil Behra](https://open.spotify.com/track/6CNvkLUbOVTTwvtyAEPtmR)** | *KhoslaRaghu*
 <img src="https://i.scdn.co/image/ab67616d0000b273092c3001ef2d0a4f81372078" width="40" height="40" style="border-radius: 4px;" alt="Chk Chk Boom album cover"> | **[Chk Chk Boom](https://open.spotify.com/track/0GqAWZe1A5ecKadZrHk6XH)** | *Stray Kids*
 <img src="https://i.scdn.co/image/ab67616d0000b273fec2d68fca92ce07c2b0d616" width="40" height="40" style="border-radius: 4px;" alt="青のすみか album cover"> | **[青のすみか](https://open.spotify.com/track/3zbKiko8V3u2yn1RcT8xBZ)** | *Tatsuya Kitani*
-<img src="https://i.scdn.co/image/ab67616d0000b2739df9218f742e792bcbd711d3" width="40" height="40" style="border-radius: 4px;" alt="革命道中 - On The Way album cover"> | **[革命道中 - On The Way](https://open.spotify.com/track/1oFqKeepmT5S8BCGqJl7Ar)** | *AiNA THE END*
 <img src="https://i.scdn.co/image/ab67616d0000b273a970b73f34155a90e04d6414" width="40" height="40" style="border-radius: 4px;" alt="I Need My Girl album cover"> | **[I Need My Girl](https://open.spotify.com/track/50M7nY1oQuNHecs0ahWAtI)** | *The National*
+<img src="https://i.scdn.co/image/ab67616d0000b2739df9218f742e792bcbd711d3" width="40" height="40" style="border-radius: 4px;" alt="革命道中 - On The Way album cover"> | **[革命道中 - On The Way](https://open.spotify.com/track/1oFqKeepmT5S8BCGqJl7Ar)** | *AiNA THE END*
 
 </td>
 </tr>

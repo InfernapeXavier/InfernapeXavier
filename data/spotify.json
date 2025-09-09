@@ -5,7 +5,7 @@
       "artist": "KhoslaRaghu",
       "album": "Dil Behra",
       "external_url": "https://open.spotify.com/track/6CNvkLUbOVTTwvtyAEPtmR",
-      "popularity": 44,
+      "popularity": 43,
       "album_image": "https://i.scdn.co/image/ab67616d0000b273e7d1d9a89fbd0ed82571c26b"
     },
     {
@@ -13,7 +13,7 @@
       "artist": "Stray Kids",
       "album": "ATE",
       "external_url": "https://open.spotify.com/track/0GqAWZe1A5ecKadZrHk6XH",
-      "popularity": 59,
+      "popularity": 58,
       "album_image": "https://i.scdn.co/image/ab67616d0000b273092c3001ef2d0a4f81372078"
     },
     {
@@ -25,21 +25,21 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b273fec2d68fca92ce07c2b0d616"
     },
     {
-      "name": "\u9769\u547d\u9053\u4e2d - On The Way",
-      "artist": "AiNA THE END",
-      "album": "\u9769\u547d\u9053\u4e2d - On The Way",
-      "external_url": "https://open.spotify.com/track/1oFqKeepmT5S8BCGqJl7Ar",
-      "popularity": 80,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b2739df9218f742e792bcbd711d3"
-    },
-    {
       "name": "I Need My Girl",
       "artist": "The National",
       "album": "Trouble Will Find Me",
       "external_url": "https://open.spotify.com/track/50M7nY1oQuNHecs0ahWAtI",
       "popularity": 62,
       "album_image": "https://i.scdn.co/image/ab67616d0000b273a970b73f34155a90e04d6414"
+    },
+    {
+      "name": "\u9769\u547d\u9053\u4e2d - On The Way",
+      "artist": "AiNA THE END",
+      "album": "\u9769\u547d\u9053\u4e2d - On The Way",
+      "external_url": "https://open.spotify.com/track/1oFqKeepmT5S8BCGqJl7Ar",
+      "popularity": 81,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b2739df9218f742e792bcbd711d3"
     }
   ],
-  "lastUpdated": "2025-09-09T06:01:21.216544"
+  "lastUpdated": "2025-09-09T12:01:26.329438"
 }
