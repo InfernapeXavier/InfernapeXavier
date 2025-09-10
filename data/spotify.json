@@ -1,20 +1,20 @@
 {
   "topTracks": [
     {
-      "name": "Dil Behra",
-      "artist": "KhoslaRaghu",
-      "album": "Dil Behra",
-      "external_url": "https://open.spotify.com/track/6CNvkLUbOVTTwvtyAEPtmR",
-      "popularity": 43,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273e7d1d9a89fbd0ed82571c26b"
-    },
-    {
       "name": "Chk Chk Boom",
       "artist": "Stray Kids",
       "album": "ATE",
       "external_url": "https://open.spotify.com/track/0GqAWZe1A5ecKadZrHk6XH",
       "popularity": 58,
       "album_image": "https://i.scdn.co/image/ab67616d0000b273092c3001ef2d0a4f81372078"
+    },
+    {
+      "name": "Dil Behra",
+      "artist": "KhoslaRaghu",
+      "album": "Dil Behra",
+      "external_url": "https://open.spotify.com/track/6CNvkLUbOVTTwvtyAEPtmR",
+      "popularity": 44,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273e7d1d9a89fbd0ed82571c26b"
     },
     {
       "name": "\u9752\u306e\u3059\u307f\u304b",
@@ -33,13 +33,13 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b273a970b73f34155a90e04d6414"
     },
     {
-      "name": "\u9769\u547d\u9053\u4e2d - On The Way",
-      "artist": "AiNA THE END",
-      "album": "\u9769\u547d\u9053\u4e2d - On The Way",
-      "external_url": "https://open.spotify.com/track/1oFqKeepmT5S8BCGqJl7Ar",
-      "popularity": 81,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b2739df9218f742e792bcbd711d3"
+      "name": "God Must Hate Me",
+      "artist": "Catie Turner",
+      "album": "God Must Hate Me",
+      "external_url": "https://open.spotify.com/track/21xzFXSL2XkZ2mIzDDAqTK",
+      "popularity": 55,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b2734e7bc8268e60de61fcf70fd0"
     }
   ],
-  "lastUpdated": "2025-09-10T06:01:29.073755"
+  "lastUpdated": "2025-09-10T12:01:34.871735"
 }
