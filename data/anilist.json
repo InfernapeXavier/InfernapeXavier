@@ -35,19 +35,19 @@
     },
     {
       "title": "Kaiju No. 8 Season 2",
-      "progress": 7,
+      "progress": 8,
       "totalEpisodes": 11,
       "status": "RELEASING"
     },
     {
       "title": "SAKAMOTO DAYS Part 2",
-      "progress": 2,
+      "progress": 10,
       "totalEpisodes": 11,
       "status": "RELEASING"
     },
     {
       "title": "DAN DA DAN Season 2",
-      "progress": 5,
+      "progress": 9,
       "totalEpisodes": 12,
       "status": "RELEASING"
     },
@@ -90,5 +90,5 @@
       "status": "RELEASING"
     }
   ],
-  "lastUpdated": "2025-09-12T12:01:25.900656Z"
+  "lastUpdated": "2025-09-12T18:01:25.597102Z"
 }
