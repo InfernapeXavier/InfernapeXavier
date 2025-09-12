@@ -9,20 +9,20 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b273e7d1d9a89fbd0ed82571c26b"
     },
     {
-      "name": "Chk Chk Boom",
-      "artist": "Stray Kids",
-      "album": "ATE",
-      "external_url": "https://open.spotify.com/track/0GqAWZe1A5ecKadZrHk6XH",
-      "popularity": 58,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273092c3001ef2d0a4f81372078"
-    },
-    {
       "name": "\u9752\u306e\u3059\u307f\u304b",
       "artist": "Tatsuya Kitani",
       "album": "ROUNDABOUT",
       "external_url": "https://open.spotify.com/track/3zbKiko8V3u2yn1RcT8xBZ",
       "popularity": 65,
       "album_image": "https://i.scdn.co/image/ab67616d0000b273fec2d68fca92ce07c2b0d616"
+    },
+    {
+      "name": "Chk Chk Boom",
+      "artist": "Stray Kids",
+      "album": "ATE",
+      "external_url": "https://open.spotify.com/track/0GqAWZe1A5ecKadZrHk6XH",
+      "popularity": 58,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273092c3001ef2d0a4f81372078"
     },
     {
       "name": "Upside Down",
@@ -41,5 +41,5 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b2734e7bc8268e60de61fcf70fd0"
     }
   ],
-  "lastUpdated": "2025-09-11T18:01:19.857120"
+  "lastUpdated": "2025-09-12T00:03:03.596985"
 }
