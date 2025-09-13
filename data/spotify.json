@@ -17,14 +17,6 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b273fec2d68fca92ce07c2b0d616"
     },
     {
-      "name": "Chk Chk Boom",
-      "artist": "Stray Kids",
-      "album": "ATE",
-      "external_url": "https://open.spotify.com/track/0GqAWZe1A5ecKadZrHk6XH",
-      "popularity": 58,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273092c3001ef2d0a4f81372078"
-    },
-    {
       "name": "Upside Down",
       "artist": "CHANYEOL",
       "album": "Upside Down - The 2nd Mini Album",
@@ -33,13 +25,21 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b273ec6baa3daabf4e86b3470da4"
     },
     {
-      "name": "God Must Hate Me",
-      "artist": "Catie Turner",
-      "album": "God Must Hate Me",
-      "external_url": "https://open.spotify.com/track/21xzFXSL2XkZ2mIzDDAqTK",
-      "popularity": 55,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b2734e7bc8268e60de61fcf70fd0"
+      "name": "Chk Chk Boom",
+      "artist": "Stray Kids",
+      "album": "ATE",
+      "external_url": "https://open.spotify.com/track/0GqAWZe1A5ecKadZrHk6XH",
+      "popularity": 58,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273092c3001ef2d0a4f81372078"
+    },
+    {
+      "name": "Lover Girl",
+      "artist": "Laufey",
+      "album": "A Matter of Time",
+      "external_url": "https://open.spotify.com/track/3E619cvUK3bgsm4xH9A34H",
+      "popularity": 41,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273e0d940d49a1e952072d320fd"
     }
   ],
-  "lastUpdated": "2025-09-12T18:01:26.185914"
+  "lastUpdated": "2025-09-13T00:02:51.284303"
 }

@@ -49,12 +49,12 @@ rohit@dev:~$
 
 $ cat ~/.media_stats
 anime_completed=226
-time_watched="47d 11h"
+time_watched="47d 19h"
 manga_completed=122
 chapters_read="10.9k"
 
 $ echo $FAVORITE_GENRES
-comedy slice_of_life romance
+slice_of_life romance comedy
 
 $ uptime
 Life uptime: Making things work since forever
@@ -86,9 +86,9 @@ All entertainment metrics up to date
 |-------|-------|--------|
 <img src="https://i.scdn.co/image/ab67616d0000b273e7d1d9a89fbd0ed82571c26b" width="40" height="40" style="border-radius: 4px;" alt="Dil Behra album cover"> | **[Dil Behra](https://open.spotify.com/track/6CNvkLUbOVTTwvtyAEPtmR)** | *KhoslaRaghu*
 <img src="https://i.scdn.co/image/ab67616d0000b273fec2d68fca92ce07c2b0d616" width="40" height="40" style="border-radius: 4px;" alt="青のすみか album cover"> | **[青のすみか](https://open.spotify.com/track/3zbKiko8V3u2yn1RcT8xBZ)** | *Tatsuya Kitani*
-<img src="https://i.scdn.co/image/ab67616d0000b273092c3001ef2d0a4f81372078" width="40" height="40" style="border-radius: 4px;" alt="Chk Chk Boom album cover"> | **[Chk Chk Boom](https://open.spotify.com/track/0GqAWZe1A5ecKadZrHk6XH)** | *Stray Kids*
 <img src="https://i.scdn.co/image/ab67616d0000b273ec6baa3daabf4e86b3470da4" width="40" height="40" style="border-radius: 4px;" alt="Upside Down album cover"> | **[Upside Down](https://open.spotify.com/track/5a5QwAcEmYGYpE0nt14up9)** | *CHANYEOL*
-<img src="https://i.scdn.co/image/ab67616d0000b2734e7bc8268e60de61fcf70fd0" width="40" height="40" style="border-radius: 4px;" alt="God Must Hate Me album cover"> | **[God Must Hate Me](https://open.spotify.com/track/21xzFXSL2XkZ2mIzDDAqTK)** | *Catie Turner*
+<img src="https://i.scdn.co/image/ab67616d0000b273092c3001ef2d0a4f81372078" width="40" height="40" style="border-radius: 4px;" alt="Chk Chk Boom album cover"> | **[Chk Chk Boom](https://open.spotify.com/track/0GqAWZe1A5ecKadZrHk6XH)** | *Stray Kids*
+<img src="https://i.scdn.co/image/ab67616d0000b273e0d940d49a1e952072d320fd" width="40" height="40" style="border-radius: 4px;" alt="Lover Girl album cover"> | **[Lover Girl](https://open.spotify.com/track/3E619cvUK3bgsm4xH9A34H)** | *Laufey*
 
 </td>
 </tr>
