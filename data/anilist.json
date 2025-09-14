@@ -29,13 +29,13 @@
   "currentlyWatching": [
     {
       "title": "WITCH WATCH",
-      "progress": 18,
+      "progress": 22,
       "totalEpisodes": 25,
       "status": "RELEASING"
     },
     {
       "title": "Kaiju No. 8 Season 2",
-      "progress": 8,
+      "progress": 9,
       "totalEpisodes": 11,
       "status": "RELEASING"
     },
@@ -90,5 +90,5 @@
       "status": "RELEASING"
     }
   ],
-  "lastUpdated": "2025-09-13T18:01:15.427171Z"
+  "lastUpdated": "2025-09-14T00:03:03.862663Z"
 }
