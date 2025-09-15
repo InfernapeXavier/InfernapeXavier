@@ -13,7 +13,7 @@
       "artist": "Tame Impala",
       "album": "Loser",
       "external_url": "https://open.spotify.com/track/3RmFPuTTAjSQ2pbEd2j9oA",
-      "popularity": 77,
+      "popularity": 78,
       "album_image": "https://i.scdn.co/image/ab67616d0000b2735b46c80f286f7a4b8eca0b16"
     },
     {
@@ -25,21 +25,21 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b273ec6baa3daabf4e86b3470da4"
     },
     {
-      "name": "Sunshine Baby",
-      "artist": "The Japanese House",
-      "album": "In the End It Always Does",
-      "external_url": "https://open.spotify.com/track/7ihVeKd4RjiZ3y12nDhPZO",
-      "popularity": 61,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273c9281db15ef83b5f2ef5a9b7"
-    },
-    {
       "name": "Chk Chk Boom",
       "artist": "Stray Kids",
       "album": "ATE",
       "external_url": "https://open.spotify.com/track/0GqAWZe1A5ecKadZrHk6XH",
       "popularity": 57,
       "album_image": "https://i.scdn.co/image/ab67616d0000b273092c3001ef2d0a4f81372078"
+    },
+    {
+      "name": "Lover Girl",
+      "artist": "Laufey",
+      "album": "A Matter of Time",
+      "external_url": "https://open.spotify.com/track/3E619cvUK3bgsm4xH9A34H",
+      "popularity": 42,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273e0d940d49a1e952072d320fd"
     }
   ],
-  "lastUpdated": "2025-09-15T06:01:25.995174"
+  "lastUpdated": "2025-09-15T12:01:32.854122"
 }
