@@ -54,7 +54,7 @@ manga_completed=122
 chapters_read="10.9k"
 
 $ echo $FAVORITE_GENRES
-slice_of_life romance comedy
+comedy slice_of_life romance
 
 $ uptime
 Life uptime: Making things work since forever
@@ -88,7 +88,7 @@ All entertainment metrics up to date
 <img src="https://i.scdn.co/image/ab67616d0000b2735b46c80f286f7a4b8eca0b16" width="40" height="40" style="border-radius: 4px;" alt="Loser album cover"> | **[Loser](https://open.spotify.com/track/3RmFPuTTAjSQ2pbEd2j9oA)** | *Tame Impala*
 <img src="https://i.scdn.co/image/ab67616d0000b273ec6baa3daabf4e86b3470da4" width="40" height="40" style="border-radius: 4px;" alt="Upside Down album cover"> | **[Upside Down](https://open.spotify.com/track/5a5QwAcEmYGYpE0nt14up9)** | *CHANYEOL*
 <img src="https://i.scdn.co/image/ab67616d0000b273e0d940d49a1e952072d320fd" width="40" height="40" style="border-radius: 4px;" alt="Lover Girl album cover"> | **[Lover Girl](https://open.spotify.com/track/3E619cvUK3bgsm4xH9A34H)** | *Laufey*
-<img src="https://i.scdn.co/image/ab67616d0000b273092c3001ef2d0a4f81372078" width="40" height="40" style="border-radius: 4px;" alt="Chk Chk Boom album cover"> | **[Chk Chk Boom](https://open.spotify.com/track/0GqAWZe1A5ecKadZrHk6XH)** | *Stray Kids*
+<img src="https://i.scdn.co/image/ab67616d0000b273fb992cafda4a303321ca7329" width="40" height="40" style="border-radius: 4px;" alt="nice to know you album cover"> | **[nice to know you](https://open.spotify.com/track/7LPYa4fJKPwkNYGg6eve90)** | *lovelytheband*
 
 </td>
 </tr>
