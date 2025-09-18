@@ -1,6 +1,14 @@
 {
   "topTracks": [
     {
+      "name": "City Walls",
+      "artist": "Twenty One Pilots",
+      "album": "Breach",
+      "external_url": "https://open.spotify.com/track/0Ji9UonfwC90rbZ4IaQhOb",
+      "popularity": 78,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b27378cba6a1edfe4235def632ed"
+    },
+    {
       "name": "\u9752\u306e\u3059\u307f\u304b",
       "artist": "Tatsuya Kitani",
       "album": "ROUNDABOUT",
@@ -31,15 +39,7 @@
       "external_url": "https://open.spotify.com/track/3E619cvUK3bgsm4xH9A34H",
       "popularity": 42,
       "album_image": "https://i.scdn.co/image/ab67616d0000b273e0d940d49a1e952072d320fd"
-    },
-    {
-      "name": "Dil Behra",
-      "artist": "KhoslaRaghu",
-      "album": "Dil Behra",
-      "external_url": "https://open.spotify.com/track/6CNvkLUbOVTTwvtyAEPtmR",
-      "popularity": 43,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273e7d1d9a89fbd0ed82571c26b"
     }
   ],
-  "lastUpdated": "2025-09-18T12:01:33.218841"
+  "lastUpdated": "2025-09-18T18:01:35.431948"
 }

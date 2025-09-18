@@ -4,7 +4,7 @@
     "stats": {
       "anime": {
         "count": 226,
-        "minutesWatched": 68949,
+        "minutesWatched": 68973,
         "topGenres": [
           "Comedy",
           "Slice of Life",
@@ -40,12 +40,6 @@
       "status": "RELEASING"
     },
     {
-      "title": "DAN DA DAN Season 2",
-      "progress": 9,
-      "totalEpisodes": 12,
-      "status": "RELEASING"
-    },
-    {
       "title": "My Dress-Up Darling Season 2",
       "progress": 5,
       "totalEpisodes": 12,
@@ -55,6 +49,12 @@
       "title": "Call of the Night Season 2",
       "progress": 3,
       "totalEpisodes": 12,
+      "status": "RELEASING"
+    },
+    {
+      "title": "Gachiakuta",
+      "progress": 7,
+      "totalEpisodes": 24,
       "status": "RELEASING"
     }
   ],
@@ -90,5 +90,5 @@
       "status": "RELEASING"
     }
   ],
-  "lastUpdated": "2025-09-18T12:01:32.599689Z"
+  "lastUpdated": "2025-09-18T18:01:34.752761Z"
 }

@@ -13,9 +13,9 @@ $ ps aux | grep "anime"
 Currently watching:
   WITCH WATCH
   Kaiju No. 8 Season 2
-  DAN DA DAN Season 2
   My Dress-Up Darling Season 2
   Call of the Night Season 2
+  Gachiakuta
 
 $ echo "Anime processes active"
 ```
@@ -54,7 +54,7 @@ manga_completed=122
 chapters_read="10.9k"
 
 $ echo $FAVORITE_GENRES
-romance slice_of_life comedy
+comedy romance slice_of_life
 
 $ uptime
 Life uptime: Making things work since forever
@@ -84,11 +84,11 @@ All entertainment metrics up to date
 
 | Cover | Track | Artist |
 |-------|-------|--------|
+<img src="https://i.scdn.co/image/ab67616d0000b27378cba6a1edfe4235def632ed" width="40" height="40" style="border-radius: 4px;" alt="City Walls album cover"> | **[City Walls](https://open.spotify.com/track/0Ji9UonfwC90rbZ4IaQhOb)** | *Twenty One Pilots*
 <img src="https://i.scdn.co/image/ab67616d0000b273fec2d68fca92ce07c2b0d616" width="40" height="40" style="border-radius: 4px;" alt="青のすみか album cover"> | **[青のすみか](https://open.spotify.com/track/3zbKiko8V3u2yn1RcT8xBZ)** | *Tatsuya Kitani*
 <img src="https://i.scdn.co/image/ab67616d0000b2735b46c80f286f7a4b8eca0b16" width="40" height="40" style="border-radius: 4px;" alt="Loser album cover"> | **[Loser](https://open.spotify.com/track/3RmFPuTTAjSQ2pbEd2j9oA)** | *Tame Impala*
 <img src="https://i.scdn.co/image/ab67616d0000b273ec6baa3daabf4e86b3470da4" width="40" height="40" style="border-radius: 4px;" alt="Upside Down album cover"> | **[Upside Down](https://open.spotify.com/track/5a5QwAcEmYGYpE0nt14up9)** | *CHANYEOL*
 <img src="https://i.scdn.co/image/ab67616d0000b273e0d940d49a1e952072d320fd" width="40" height="40" style="border-radius: 4px;" alt="Lover Girl album cover"> | **[Lover Girl](https://open.spotify.com/track/3E619cvUK3bgsm4xH9A34H)** | *Laufey*
-<img src="https://i.scdn.co/image/ab67616d0000b273e7d1d9a89fbd0ed82571c26b" width="40" height="40" style="border-radius: 4px;" alt="Dil Behra album cover"> | **[Dil Behra](https://open.spotify.com/track/6CNvkLUbOVTTwvtyAEPtmR)** | *KhoslaRaghu*
 
 </td>
 </tr>
