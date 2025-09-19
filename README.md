@@ -14,8 +14,8 @@ Currently watching:
   WITCH WATCH
   Kaiju No. 8 Season 2
   My Dress-Up Darling Season 2
-  Call of the Night Season 2
   Gachiakuta
+  Dr. STONE SCIENCE FUTURE Cour 2
 
 $ echo "Anime processes active"
 ```
@@ -54,7 +54,7 @@ manga_completed=122
 chapters_read="10.9k"
 
 $ echo $FAVORITE_GENRES
-romance comedy slice_of_life
+comedy romance slice_of_life
 
 $ uptime
 Life uptime: Making things work since forever
