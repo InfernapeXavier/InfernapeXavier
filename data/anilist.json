@@ -40,12 +40,6 @@
       "status": "RELEASING"
     },
     {
-      "title": "My Dress-Up Darling Season 2",
-      "progress": 5,
-      "totalEpisodes": 12,
-      "status": "RELEASING"
-    },
-    {
       "title": "Gachiakuta",
       "progress": 7,
       "totalEpisodes": 24,
@@ -56,6 +50,12 @@
       "progress": 10,
       "totalEpisodes": 12,
       "status": "RELEASING"
+    },
+    {
+      "title": "Violet Evergarden",
+      "progress": 9,
+      "totalEpisodes": 13,
+      "status": "FINISHED"
     }
   ],
   "currentlyReading": [
@@ -90,5 +90,5 @@
       "status": "RELEASING"
     }
   ],
-  "lastUpdated": "2025-09-20T12:01:22.937115Z"
+  "lastUpdated": "2025-09-20T18:01:22.887341Z"
 }
