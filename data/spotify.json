@@ -5,7 +5,7 @@
       "artist": "Twenty One Pilots",
       "album": "Breach",
       "external_url": "https://open.spotify.com/track/0Ji9UonfwC90rbZ4IaQhOb",
-      "popularity": 79,
+      "popularity": 80,
       "album_image": "https://i.scdn.co/image/ab67616d0000b27378cba6a1edfe4235def632ed"
     },
     {
@@ -29,7 +29,7 @@
       "artist": "CHANYEOL",
       "album": "Upside Down - The 2nd Mini Album",
       "external_url": "https://open.spotify.com/track/5a5QwAcEmYGYpE0nt14up9",
-      "popularity": 63,
+      "popularity": 62,
       "album_image": "https://i.scdn.co/image/ab67616d0000b273ec6baa3daabf4e86b3470da4"
     },
     {
@@ -41,5 +41,5 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b27378d601a8e07bef8b1f8ecf82"
     }
   ],
-  "lastUpdated": "2025-09-21T06:01:25.595717"
+  "lastUpdated": "2025-09-21T12:01:23.785658"
 }
