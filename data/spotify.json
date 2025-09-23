@@ -9,20 +9,20 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b27378cba6a1edfe4235def632ed"
     },
     {
-      "name": "Loser",
-      "artist": "Tame Impala",
-      "album": "Loser",
-      "external_url": "https://open.spotify.com/track/3RmFPuTTAjSQ2pbEd2j9oA",
-      "popularity": 79,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b2735b46c80f286f7a4b8eca0b16"
-    },
-    {
       "name": "\u9752\u306e\u3059\u307f\u304b",
       "artist": "Tatsuya Kitani",
       "album": "ROUNDABOUT",
       "external_url": "https://open.spotify.com/track/3zbKiko8V3u2yn1RcT8xBZ",
       "popularity": 65,
       "album_image": "https://i.scdn.co/image/ab67616d0000b273fec2d68fca92ce07c2b0d616"
+    },
+    {
+      "name": "Loser",
+      "artist": "Tame Impala",
+      "album": "Loser",
+      "external_url": "https://open.spotify.com/track/3RmFPuTTAjSQ2pbEd2j9oA",
+      "popularity": 80,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b2735b46c80f286f7a4b8eca0b16"
     },
     {
       "name": "Upside Down",
@@ -41,5 +41,5 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b27378d601a8e07bef8b1f8ecf82"
     }
   ],
-  "lastUpdated": "2025-09-23T06:01:27.905173"
+  "lastUpdated": "2025-09-23T12:01:49.402455"
 }
