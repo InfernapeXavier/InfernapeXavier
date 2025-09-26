@@ -17,14 +17,6 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b2735b46c80f286f7a4b8eca0b16"
     },
     {
-      "name": "Bags",
-      "artist": "Clairo",
-      "album": "Immunity",
-      "external_url": "https://open.spotify.com/track/56NEihhw1BsIgBBzfvcE76",
-      "popularity": 78,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b27378d601a8e07bef8b1f8ecf82"
-    },
-    {
       "name": "\u9752\u306e\u3059\u307f\u304b",
       "artist": "Tatsuya Kitani",
       "album": "ROUNDABOUT",
@@ -39,7 +31,15 @@
       "external_url": "https://open.spotify.com/track/5a5QwAcEmYGYpE0nt14up9",
       "popularity": 62,
       "album_image": "https://i.scdn.co/image/ab67616d0000b273ec6baa3daabf4e86b3470da4"
+    },
+    {
+      "name": "Bags",
+      "artist": "Clairo",
+      "album": "Immunity",
+      "external_url": "https://open.spotify.com/track/56NEihhw1BsIgBBzfvcE76",
+      "popularity": 78,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b27378d601a8e07bef8b1f8ecf82"
     }
   ],
-  "lastUpdated": "2025-09-26T12:01:26.008027"
+  "lastUpdated": "2025-09-26T18:04:53.392934"
 }
