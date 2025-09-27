@@ -34,12 +34,6 @@
       "status": "RELEASING"
     },
     {
-      "title": "Kaiju No. 8 Season 2",
-      "progress": 10,
-      "totalEpisodes": 11,
-      "status": "RELEASING"
-    },
-    {
       "title": "Gachiakuta",
       "progress": 7,
       "totalEpisodes": 24,
@@ -55,6 +49,12 @@
       "title": "LAID-BACK CAMP SEASON2",
       "progress": 12,
       "totalEpisodes": 13,
+      "status": "FINISHED"
+    },
+    {
+      "title": "Pok\u00e9mon Concierge: Season 1: Part 2",
+      "progress": 0,
+      "totalEpisodes": 4,
       "status": "FINISHED"
     }
   ],
@@ -90,5 +90,5 @@
       "status": "RELEASING"
     }
   ],
-  "lastUpdated": "2025-09-27T12:01:18.908477Z"
+  "lastUpdated": "2025-09-27T18:01:15.325886Z"
 }
