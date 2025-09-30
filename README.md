@@ -87,8 +87,8 @@ All entertainment metrics up to date
 <img src="https://i.scdn.co/image/ab67616d0000b27378cba6a1edfe4235def632ed" width="40" height="40" style="border-radius: 4px;" alt="City Walls album cover"> | **[City Walls](https://open.spotify.com/track/0Ji9UonfwC90rbZ4IaQhOb)** | *Twenty One Pilots*
 <img src="https://i.scdn.co/image/ab67616d0000b2735b46c80f286f7a4b8eca0b16" width="40" height="40" style="border-radius: 4px;" alt="Loser album cover"> | **[Loser](https://open.spotify.com/track/3RmFPuTTAjSQ2pbEd2j9oA)** | *Tame Impala*
 <img src="https://i.scdn.co/image/ab67616d0000b273a5c3cd4efbd2b04e47f83ecc" width="40" height="40" style="border-radius: 4px;" alt="Last Shot album cover"> | **[Last Shot](https://open.spotify.com/track/5ppdmIeHPG2qLHm0SsmqfB)** | *VALORANT, templuv, 347aidan*
-<img src="https://i.scdn.co/image/ab67616d0000b273875b355aece145cc3eb2e2b0" width="40" height="40" style="border-radius: 4px;" alt="EGO album cover"> | **[EGO](https://open.spotify.com/track/4rDKyQvJiMmDbSqH5AbKxh)** | *Qing Madi, VALORANT*
 <img src="https://i.scdn.co/image/ab67616d0000b27378d601a8e07bef8b1f8ecf82" width="40" height="40" style="border-radius: 4px;" alt="Bags album cover"> | **[Bags](https://open.spotify.com/track/56NEihhw1BsIgBBzfvcE76)** | *Clairo*
+<img src="https://i.scdn.co/image/ab67616d0000b27330d93b9cce660d4f56770efb" width="40" height="40" style="border-radius: 4px;" alt="If Only I Could Wait album cover"> | **[If Only I Could Wait](https://open.spotify.com/track/06o2hgwnRJN0HYelhyVsLm)** | *Bon Iver, Danielle Haim*
 
 </td>
 </tr>

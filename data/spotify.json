@@ -25,21 +25,21 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b273a5c3cd4efbd2b04e47f83ecc"
     },
     {
-      "name": "EGO",
-      "artist": "Qing Madi, VALORANT",
-      "album": "EGO",
-      "external_url": "https://open.spotify.com/track/4rDKyQvJiMmDbSqH5AbKxh",
-      "popularity": 59,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273875b355aece145cc3eb2e2b0"
-    },
-    {
       "name": "Bags",
       "artist": "Clairo",
       "album": "Immunity",
       "external_url": "https://open.spotify.com/track/56NEihhw1BsIgBBzfvcE76",
       "popularity": 79,
       "album_image": "https://i.scdn.co/image/ab67616d0000b27378d601a8e07bef8b1f8ecf82"
+    },
+    {
+      "name": "If Only I Could Wait",
+      "artist": "Bon Iver, Danielle Haim",
+      "album": "SABLE, fABLE",
+      "external_url": "https://open.spotify.com/track/06o2hgwnRJN0HYelhyVsLm",
+      "popularity": 57,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b27330d93b9cce660d4f56770efb"
     }
   ],
-  "lastUpdated": "2025-09-30T06:01:24.167837"
+  "lastUpdated": "2025-09-30T12:01:32.212971"
 }
