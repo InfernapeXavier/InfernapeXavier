@@ -25,21 +25,21 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b273a5c3cd4efbd2b04e47f83ecc"
     },
     {
+      "name": "Lover Girl",
+      "artist": "Laufey",
+      "album": "A Matter of Time",
+      "external_url": "https://open.spotify.com/track/3E619cvUK3bgsm4xH9A34H",
+      "popularity": 43,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273e0d940d49a1e952072d320fd"
+    },
+    {
       "name": "Bags",
       "artist": "Clairo",
       "album": "Immunity",
       "external_url": "https://open.spotify.com/track/56NEihhw1BsIgBBzfvcE76",
       "popularity": 79,
       "album_image": "https://i.scdn.co/image/ab67616d0000b27378d601a8e07bef8b1f8ecf82"
-    },
-    {
-      "name": "If Only I Could Wait",
-      "artist": "Bon Iver, Danielle Haim",
-      "album": "SABLE, fABLE",
-      "external_url": "https://open.spotify.com/track/06o2hgwnRJN0HYelhyVsLm",
-      "popularity": 57,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b27330d93b9cce660d4f56770efb"
     }
   ],
-  "lastUpdated": "2025-09-30T18:01:27.031468"
+  "lastUpdated": "2025-10-01T00:03:21.344124"
 }
