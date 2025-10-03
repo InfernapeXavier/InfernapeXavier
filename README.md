@@ -54,7 +54,7 @@ manga_completed=123
 chapters_read="11.2k"
 
 $ echo $FAVORITE_GENRES
-slice_of_life romance comedy
+romance slice_of_life comedy
 
 $ uptime
 Life uptime: Making things work since forever
@@ -87,8 +87,8 @@ All entertainment metrics up to date
 <img src="https://i.scdn.co/image/ab67616d0000b27378cba6a1edfe4235def632ed" width="40" height="40" style="border-radius: 4px;" alt="City Walls album cover"> | **[City Walls](https://open.spotify.com/track/0Ji9UonfwC90rbZ4IaQhOb)** | *Twenty One Pilots*
 <img src="https://i.scdn.co/image/ab67616d0000b2735b46c80f286f7a4b8eca0b16" width="40" height="40" style="border-radius: 4px;" alt="Loser album cover"> | **[Loser](https://open.spotify.com/track/3RmFPuTTAjSQ2pbEd2j9oA)** | *Tame Impala*
 <img src="https://i.scdn.co/image/ab67616d0000b273a5c3cd4efbd2b04e47f83ecc" width="40" height="40" style="border-radius: 4px;" alt="Last Shot album cover"> | **[Last Shot](https://open.spotify.com/track/5ppdmIeHPG2qLHm0SsmqfB)** | *VALORANT, templuv, 347aidan*
+<img src="https://i.scdn.co/image/ab67616d0000b273b3c9954a5297f5bc1bf90c3b" width="40" height="40" style="border-radius: 4px;" alt="HAWATARI NIOKU CENTI [2-hundred-million-centimeter-long blades] - TV edit album cover"> | **[HAWATARI NIOKU CENTI [2-hundred-million-centimeter-long blades] - TV edit](https://open.spotify.com/track/1lySGuhlcZUJxLA5W5Bo7k)** | *MAXIMUM THE HORMONE*
 <img src="https://i.scdn.co/image/ab67616d0000b273e0d940d49a1e952072d320fd" width="40" height="40" style="border-radius: 4px;" alt="Lover Girl album cover"> | **[Lover Girl](https://open.spotify.com/track/3E619cvUK3bgsm4xH9A34H)** | *Laufey*
-<img src="https://i.scdn.co/image/ab67616d0000b27378d601a8e07bef8b1f8ecf82" width="40" height="40" style="border-radius: 4px;" alt="Bags album cover"> | **[Bags](https://open.spotify.com/track/56NEihhw1BsIgBBzfvcE76)** | *Clairo*
 
 </td>
 </tr>
