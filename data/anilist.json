@@ -28,12 +28,6 @@
   },
   "currentlyWatching": [
     {
-      "title": "WITCH WATCH",
-      "progress": 23,
-      "totalEpisodes": 25,
-      "status": "RELEASING"
-    },
-    {
       "title": "Gachiakuta",
       "progress": 7,
       "totalEpisodes": 24,
@@ -55,6 +49,12 @@
       "title": "Pok\u00e9mon Concierge: Season 1: Part 2",
       "progress": 0,
       "totalEpisodes": 4,
+      "status": "FINISHED"
+    },
+    {
+      "title": "WITCH WATCH",
+      "progress": 23,
+      "totalEpisodes": 25,
       "status": "FINISHED"
     }
   ],
@@ -90,5 +90,5 @@
       "status": "RELEASING"
     }
   ],
-  "lastUpdated": "2025-10-05T06:01:23.986239Z"
+  "lastUpdated": "2025-10-05T12:01:14.940401Z"
 }

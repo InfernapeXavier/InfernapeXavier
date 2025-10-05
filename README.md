@@ -11,11 +11,11 @@
 ```bash
 $ ps aux | grep "anime"
 Currently watching:
-  WITCH WATCH
   Gachiakuta
   Violet Evergarden
   LAID-BACK CAMP SEASON2
   Pokémon Concierge: Season 1: Part 2
+  WITCH WATCH
 
 $ echo "Anime processes active"
 ```
