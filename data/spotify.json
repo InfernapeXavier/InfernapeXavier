@@ -25,21 +25,21 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b273a5c3cd4efbd2b04e47f83ecc"
     },
     {
-      "name": "Bags",
-      "artist": "Clairo",
-      "album": "Immunity",
-      "external_url": "https://open.spotify.com/track/56NEihhw1BsIgBBzfvcE76",
-      "popularity": 79,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b27378d601a8e07bef8b1f8ecf82"
-    },
-    {
       "name": "until i leave",
       "artist": "Zeph",
       "album": "character development",
       "external_url": "https://open.spotify.com/track/460nqEvXVdntQp61mPpSMu",
       "popularity": 26,
       "album_image": "https://i.scdn.co/image/ab67616d0000b2731c1a9ac3dec16883dc08d169"
+    },
+    {
+      "name": "Bags",
+      "artist": "Clairo",
+      "album": "Immunity",
+      "external_url": "https://open.spotify.com/track/56NEihhw1BsIgBBzfvcE76",
+      "popularity": 79,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b27378d601a8e07bef8b1f8ecf82"
     }
   ],
-  "lastUpdated": "2025-10-08T12:01:29.883538"
+  "lastUpdated": "2025-10-08T18:01:20.076435"
 }
