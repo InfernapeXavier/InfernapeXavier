@@ -34,18 +34,6 @@
       "status": "RELEASING"
     },
     {
-      "title": "Violet Evergarden",
-      "progress": 9,
-      "totalEpisodes": 13,
-      "status": "FINISHED"
-    },
-    {
-      "title": "LAID-BACK CAMP SEASON2",
-      "progress": 12,
-      "totalEpisodes": 13,
-      "status": "FINISHED"
-    },
-    {
       "title": "Pok\u00e9mon Concierge: Season 1: Part 2",
       "progress": 0,
       "totalEpisodes": 4,
@@ -53,8 +41,14 @@
     },
     {
       "title": "WITCH WATCH",
-      "progress": 23,
+      "progress": 24,
       "totalEpisodes": 25,
+      "status": "FINISHED"
+    },
+    {
+      "title": "Call of the Night Season 2",
+      "progress": 3,
+      "totalEpisodes": 12,
       "status": "FINISHED"
     }
   ],
@@ -90,5 +84,5 @@
       "status": "RELEASING"
     }
   ],
-  "lastUpdated": "2025-10-09T18:01:18.130025Z"
+  "lastUpdated": "2025-10-10T00:03:10.759430Z"
 }

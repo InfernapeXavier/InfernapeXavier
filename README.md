@@ -12,10 +12,9 @@
 $ ps aux | grep "anime"
 Currently watching:
   Gachiakuta
-  Violet Evergarden
-  LAID-BACK CAMP SEASON2
   Pokémon Concierge: Season 1: Part 2
   WITCH WATCH
+  Call of the Night Season 2
 
 $ echo "Anime processes active"
 ```
@@ -54,7 +53,7 @@ manga_completed=123
 chapters_read="11.2k"
 
 $ echo $FAVORITE_GENRES
-slice_of_life romance comedy
+romance slice_of_life comedy
 
 $ uptime
 Life uptime: Making things work since forever
