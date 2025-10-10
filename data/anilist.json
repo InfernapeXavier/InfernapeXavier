@@ -40,12 +40,6 @@
       "status": "FINISHED"
     },
     {
-      "title": "WITCH WATCH",
-      "progress": 24,
-      "totalEpisodes": 25,
-      "status": "FINISHED"
-    },
-    {
       "title": "Call of the Night Season 2",
       "progress": 3,
       "totalEpisodes": 12,
@@ -84,5 +78,5 @@
       "status": "RELEASING"
     }
   ],
-  "lastUpdated": "2025-10-10T12:01:19.977109Z"
+  "lastUpdated": "2025-10-10T18:01:16.855851Z"
 }
