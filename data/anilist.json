@@ -3,8 +3,8 @@
     "name": "InfernapeXavier",
     "stats": {
       "anime": {
-        "count": 226,
-        "minutesWatched": 69789,
+        "count": 227,
+        "minutesWatched": 69937,
         "topGenres": [
           "Comedy",
           "Slice of Life",
@@ -15,7 +15,7 @@
       },
       "manga": {
         "count": 123,
-        "chaptersRead": 11205,
+        "chaptersRead": 11219,
         "topGenres": [
           "Romance",
           "Comedy",
@@ -78,5 +78,5 @@
       "status": "RELEASING"
     }
   ],
-  "lastUpdated": "2025-10-11T06:01:12.556095Z"
+  "lastUpdated": "2025-10-11T12:01:16.769779Z"
 }
