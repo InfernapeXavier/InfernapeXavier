@@ -15,7 +15,7 @@
       },
       "manga": {
         "count": 123,
-        "chaptersRead": 11220,
+        "chaptersRead": 11283,
         "topGenres": [
           "Romance",
           "Comedy",
@@ -67,7 +67,7 @@
     },
     {
       "title": "I Have a Crush at Work",
-      "progress": 105,
+      "progress": 109,
       "totalChapters": 147,
       "status": "FINISHED"
     },
@@ -78,5 +78,5 @@
       "status": "RELEASING"
     }
   ],
-  "lastUpdated": "2025-10-16T12:01:26.569845Z"
+  "lastUpdated": "2025-10-16T18:01:22.226723Z"
 }
