@@ -17,14 +17,6 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b273b3c9954a5297f5bc1bf90c3b"
     },
     {
-      "name": "City Walls",
-      "artist": "Twenty One Pilots",
-      "album": "Breach",
-      "external_url": "https://open.spotify.com/track/0Ji9UonfwC90rbZ4IaQhOb",
-      "popularity": 80,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b27378cba6a1edfe4235def632ed"
-    },
-    {
       "name": "Dracula",
       "artist": "Tame Impala",
       "album": "Dracula",
@@ -39,7 +31,15 @@
       "external_url": "https://open.spotify.com/track/3ue7PTXmpCbn3LXfkZWxll",
       "popularity": 63,
       "album_image": "https://i.scdn.co/image/ab67616d0000b273a9e75a1283dfda275de82714"
+    },
+    {
+      "name": "Crying Over You",
+      "artist": "Annika Wells",
+      "album": "EAT DIRT",
+      "external_url": "https://open.spotify.com/track/06PvX7EkxiWjynceC2j72O",
+      "popularity": 16,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b2733959ec24cf74747b385fe536"
     }
   ],
-  "lastUpdated": "2025-10-16T18:01:22.981515"
+  "lastUpdated": "2025-10-17T00:02:57.119548"
 }
