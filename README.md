@@ -48,7 +48,7 @@ rohit@dev:~$
 $ cat ~/.media_stats
 anime_completed=227
 time_watched="48d 13h"
-manga_completed=123
+manga_completed=124
 chapters_read="11.3k"
 
 $ echo $FAVORITE_GENRES
