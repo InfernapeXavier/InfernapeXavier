@@ -5,7 +5,7 @@
       "artist": "Seedhe Maut",
       "album": "SHAKTI",
       "external_url": "https://open.spotify.com/track/1alInstEk6TQMuPyjCgI4K",
-      "popularity": 67,
+      "popularity": 66,
       "album_image": "https://i.scdn.co/image/ab67616d0000b2739750614dd177fa9137726f07"
     },
     {
@@ -21,8 +21,8 @@
       "artist": "Tame Impala",
       "album": "Deadbeat",
       "external_url": "https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA",
-      "popularity": 66,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273afdde58ba36624d8f71498e9"
+      "popularity": 69,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b2731b24e8e651055d60354d1aa1"
     },
     {
       "name": "Madira",
@@ -41,5 +41,5 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b27383e257b20f473f0063cdd351"
     }
   ],
-  "lastUpdated": "2025-10-20T06:01:21.834641"
+  "lastUpdated": "2025-10-20T12:01:50.734805"
 }
