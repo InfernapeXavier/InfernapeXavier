@@ -49,10 +49,10 @@ $ cat ~/.media_stats
 anime_completed=227
 time_watched="48d 13h"
 manga_completed=124
-chapters_read="11.3k"
+chapters_read="11.4k"
 
 $ echo $FAVORITE_GENRES
-comedy slice_of_life romance
+slice_of_life comedy romance
 
 $ uptime
 Life uptime: Making things work since forever
@@ -84,9 +84,9 @@ All entertainment metrics up to date
 |-------|-------|--------|
 <img src="https://i.scdn.co/image/ab67616d0000b273b3c9954a5297f5bc1bf90c3b" width="40" height="40" style="border-radius: 4px;" alt="HAWATARI NIOKU CENTI [2-hundred-million-centimeter-long blades] - TV edit album cover"> | **[HAWATARI NIOKU CENTI [2-hundred-million-centimeter-long blades] - TV edit](https://open.spotify.com/track/1lySGuhlcZUJxLA5W5Bo7k)** | *MAXIMUM THE HORMONE*
 <img src="https://i.scdn.co/image/ab67616d0000b2739750614dd177fa9137726f07" width="40" height="40" style="border-radius: 4px;" alt="Raat Ki Rani album cover"> | **[Raat Ki Rani](https://open.spotify.com/track/1alInstEk6TQMuPyjCgI4K)** | *Seedhe Maut*
-<img src="https://i.scdn.co/image/ab67616d0000b273208500450dcd0fd294d7bd3b" width="40" height="40" style="border-radius: 4px;" alt="Dracula album cover"> | **[Dracula](https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA)** | *Tame Impala*
 <img src="https://i.scdn.co/image/ab67616d0000b273b7b544e5241b69574edc814e" width="40" height="40" style="border-radius: 4px;" alt="Khatta Flow album cover"> | **[Khatta Flow](https://open.spotify.com/track/2qb5ASYergjk2qNLvYEQJD)** | *Seedhe Maut, KR$NA*
 <img src="https://i.scdn.co/image/ab67616d0000b273a9e75a1283dfda275de82714" width="40" height="40" style="border-radius: 4px;" alt="Madira album cover"> | **[Madira](https://open.spotify.com/track/3ue7PTXmpCbn3LXfkZWxll)** | *Seedhe Maut, Hurricane, DL91 Era*
+<img src="https://i.scdn.co/image/ab67616d0000b273208500450dcd0fd294d7bd3b" width="40" height="40" style="border-radius: 4px;" alt="Dracula album cover"> | **[Dracula](https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA)** | *Tame Impala*
 
 </td>
 </tr>
