@@ -52,7 +52,7 @@ manga_completed=124
 chapters_read="11.3k"
 
 $ echo $FAVORITE_GENRES
-comedy slice_of_life romance
+romance slice_of_life comedy
 
 $ uptime
 Life uptime: Making things work since forever
@@ -82,8 +82,8 @@ All entertainment metrics up to date
 
 | Cover | Track | Artist |
 |-------|-------|--------|
-<img src="https://i.scdn.co/image/ab67616d0000b2739750614dd177fa9137726f07" width="40" height="40" style="border-radius: 4px;" alt="Raat Ki Rani album cover"> | **[Raat Ki Rani](https://open.spotify.com/track/1alInstEk6TQMuPyjCgI4K)** | *Seedhe Maut*
 <img src="https://i.scdn.co/image/ab67616d0000b273b3c9954a5297f5bc1bf90c3b" width="40" height="40" style="border-radius: 4px;" alt="HAWATARI NIOKU CENTI [2-hundred-million-centimeter-long blades] - TV edit album cover"> | **[HAWATARI NIOKU CENTI [2-hundred-million-centimeter-long blades] - TV edit](https://open.spotify.com/track/1lySGuhlcZUJxLA5W5Bo7k)** | *MAXIMUM THE HORMONE*
+<img src="https://i.scdn.co/image/ab67616d0000b2739750614dd177fa9137726f07" width="40" height="40" style="border-radius: 4px;" alt="Raat Ki Rani album cover"> | **[Raat Ki Rani](https://open.spotify.com/track/1alInstEk6TQMuPyjCgI4K)** | *Seedhe Maut*
 <img src="https://i.scdn.co/image/ab67616d0000b273208500450dcd0fd294d7bd3b" width="40" height="40" style="border-radius: 4px;" alt="Dracula album cover"> | **[Dracula](https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA)** | *Tame Impala*
 <img src="https://i.scdn.co/image/ab67616d0000b273a9e75a1283dfda275de82714" width="40" height="40" style="border-radius: 4px;" alt="Madira album cover"> | **[Madira](https://open.spotify.com/track/3ue7PTXmpCbn3LXfkZWxll)** | *Seedhe Maut, Hurricane, DL91 Era*
 <img src="https://i.scdn.co/image/ab67616d0000b27383e257b20f473f0063cdd351" width="40" height="40" style="border-radius: 4px;" alt="Hola Amigo album cover"> | **[Hola Amigo](https://open.spotify.com/track/19pHSvXUwErAXFktkvYMk9)** | *KR$NA, Seedhe Maut, Umair*
