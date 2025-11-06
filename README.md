@@ -82,10 +82,10 @@ All entertainment metrics up to date
 
 | Cover | Track | Artist |
 |-------|-------|--------|
-<img src="https://i.scdn.co/image/ab67616d0000b2739750614dd177fa9137726f07" width="40" height="40" style="border-radius: 4px;" alt="Raat Ki Rani album cover"> | **[Raat Ki Rani](https://open.spotify.com/track/1alInstEk6TQMuPyjCgI4K)** | *Seedhe Maut*
 <img src="https://i.scdn.co/image/ab67616d0000b273208500450dcd0fd294d7bd3b" width="40" height="40" style="border-radius: 4px;" alt="End Of Summer album cover"> | **[End Of Summer](https://open.spotify.com/track/3McBKxKZLXbE4czUezk5QG)** | *Tame Impala*
 <img src="https://i.scdn.co/image/ab67616d0000b273a9e75a1283dfda275de82714" width="40" height="40" style="border-radius: 4px;" alt="Madira album cover"> | **[Madira](https://open.spotify.com/track/3ue7PTXmpCbn3LXfkZWxll)** | *Seedhe Maut, Hurricane, DL91 Era*
 <img src="https://i.scdn.co/image/ab67616d0000b273b7b544e5241b69574edc814e" width="40" height="40" style="border-radius: 4px;" alt="Khatta Flow album cover"> | **[Khatta Flow](https://open.spotify.com/track/2qb5ASYergjk2qNLvYEQJD)** | *Seedhe Maut, KR$NA*
+<img src="https://i.scdn.co/image/ab67616d0000b2739750614dd177fa9137726f07" width="40" height="40" style="border-radius: 4px;" alt="Raat Ki Rani album cover"> | **[Raat Ki Rani](https://open.spotify.com/track/1alInstEk6TQMuPyjCgI4K)** | *Seedhe Maut*
 <img src="https://i.scdn.co/image/ab67616d0000b2731ea0c62b2339cbf493a999ad" width="40" height="40" style="border-radius: 4px;" alt="Not Like Us album cover"> | **[Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3)** | *Kendrick Lamar*
 
 </td>

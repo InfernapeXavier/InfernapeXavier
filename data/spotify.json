@@ -1,14 +1,6 @@
 {
   "topTracks": [
     {
-      "name": "Raat Ki Rani",
-      "artist": "Seedhe Maut",
-      "album": "SHAKTI",
-      "external_url": "https://open.spotify.com/track/1alInstEk6TQMuPyjCgI4K",
-      "popularity": 66,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b2739750614dd177fa9137726f07"
-    },
-    {
       "name": "End Of Summer",
       "artist": "Tame Impala",
       "album": "Deadbeat",
@@ -33,6 +25,14 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b273b7b544e5241b69574edc814e"
     },
     {
+      "name": "Raat Ki Rani",
+      "artist": "Seedhe Maut",
+      "album": "SHAKTI",
+      "external_url": "https://open.spotify.com/track/1alInstEk6TQMuPyjCgI4K",
+      "popularity": 66,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b2739750614dd177fa9137726f07"
+    },
+    {
       "name": "Not Like Us",
       "artist": "Kendrick Lamar",
       "album": "Not Like Us",
@@ -41,5 +41,5 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b2731ea0c62b2339cbf493a999ad"
     }
   ],
-  "lastUpdated": "2025-11-05T18:01:17.945663"
+  "lastUpdated": "2025-11-06T00:02:57.467640"
 }
