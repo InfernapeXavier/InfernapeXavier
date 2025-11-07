@@ -12,6 +12,7 @@
 $ ps aux | grep "anime"
 Currently watching:
   Gachiakuta
+  One-Punch Man Season 3
   Pokémon Concierge: Season 1: Part 2
   Call of the Night Season 2
 
@@ -52,7 +53,7 @@ manga_completed=125
 chapters_read="11.4k"
 
 $ echo $FAVORITE_GENRES
-romance slice_of_life comedy
+slice_of_life comedy romance
 
 $ uptime
 Life uptime: Making things work since forever

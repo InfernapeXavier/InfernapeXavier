@@ -34,6 +34,12 @@
       "status": "RELEASING"
     },
     {
+      "title": "One-Punch Man Season 3",
+      "progress": 4,
+      "totalEpisodes": 12,
+      "status": "RELEASING"
+    },
+    {
       "title": "Pok\u00e9mon Concierge: Season 1: Part 2",
       "progress": 0,
       "totalEpisodes": 4,
@@ -78,5 +84,5 @@
       "status": "RELEASING"
     }
   ],
-  "lastUpdated": "2025-11-07T00:02:59.934494Z"
+  "lastUpdated": "2025-11-07T06:01:11.231658Z"
 }
