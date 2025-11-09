@@ -87,7 +87,7 @@ All entertainment metrics up to date
 <img src="https://i.scdn.co/image/ab67616d0000b273208500450dcd0fd294d7bd3b" width="40" height="40" style="border-radius: 4px;" alt="My Old Ways album cover"> | **[My Old Ways](https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq)** | *Tame Impala*
 <img src="https://i.scdn.co/image/ab67616d0000b2736d7f6a0fd312fb31ca3f91fb" width="40" height="40" style="border-radius: 4px;" alt="Farebi album cover"> | **[Farebi](https://open.spotify.com/track/1Jsos1mzwTwYGOndYN5h8V)** | *Chaar Diwaari, Raftaar*
 <img src="https://i.scdn.co/image/ab67616d0000b2731ea0c62b2339cbf493a999ad" width="40" height="40" style="border-radius: 4px;" alt="Not Like Us album cover"> | **[Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3)** | *Kendrick Lamar*
-<img src="https://i.scdn.co/image/ab67616d0000b273b7b544e5241b69574edc814e" width="40" height="40" style="border-radius: 4px;" alt="Khatta Flow album cover"> | **[Khatta Flow](https://open.spotify.com/track/2qb5ASYergjk2qNLvYEQJD)** | *Seedhe Maut, KR$NA*
+<img src="https://i.scdn.co/image/ab67616d0000b273a80dce00e494ada878e23ad7" width="40" height="40" style="border-radius: 4px;" alt="Aashiyan album cover"> | **[Aashiyan](https://open.spotify.com/track/0OlYIIUtBAWF2iEiTYan5h)** | *gini*
 
 </td>
 </tr>
