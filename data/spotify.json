@@ -1,14 +1,6 @@
 {
   "topTracks": [
     {
-      "name": "End Of Summer",
-      "artist": "Tame Impala",
-      "album": "Deadbeat",
-      "external_url": "https://open.spotify.com/track/3McBKxKZLXbE4czUezk5QG",
-      "popularity": 72,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273208500450dcd0fd294d7bd3b"
-    },
-    {
       "name": "My Old Ways",
       "artist": "Tame Impala",
       "album": "Deadbeat",
@@ -25,12 +17,12 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b2736d7f6a0fd312fb31ca3f91fb"
     },
     {
-      "name": "Not Like Us",
-      "artist": "Kendrick Lamar",
-      "album": "Not Like Us",
-      "external_url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3",
-      "popularity": 87,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b2731ea0c62b2339cbf493a999ad"
+      "name": "End Of Summer",
+      "artist": "Tame Impala",
+      "album": "Deadbeat",
+      "external_url": "https://open.spotify.com/track/3McBKxKZLXbE4czUezk5QG",
+      "popularity": 72,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273208500450dcd0fd294d7bd3b"
     },
     {
       "name": "Aashiyan",
@@ -39,7 +31,15 @@
       "external_url": "https://open.spotify.com/track/0OlYIIUtBAWF2iEiTYan5h",
       "popularity": 41,
       "album_image": "https://i.scdn.co/image/ab67616d0000b273a80dce00e494ada878e23ad7"
+    },
+    {
+      "name": "Not Like Us",
+      "artist": "Kendrick Lamar",
+      "album": "Not Like Us",
+      "external_url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3",
+      "popularity": 87,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b2731ea0c62b2339cbf493a999ad"
     }
   ],
-  "lastUpdated": "2025-11-09T18:01:12.069458"
+  "lastUpdated": "2025-11-10T00:03:06.180812"
 }
