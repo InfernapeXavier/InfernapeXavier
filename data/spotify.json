@@ -25,21 +25,21 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b273208500450dcd0fd294d7bd3b"
     },
     {
-      "name": "Aashiyan",
-      "artist": "gini",
-      "album": "Aashiyan",
-      "external_url": "https://open.spotify.com/track/0OlYIIUtBAWF2iEiTYan5h",
-      "popularity": 41,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273a80dce00e494ada878e23ad7"
-    },
-    {
       "name": "Prarthana",
       "artist": "KR$NA",
       "album": "FAR FROM OVER",
       "external_url": "https://open.spotify.com/track/3l3BzT3Ovdx2mQK366r5Ei",
       "popularity": 56,
       "album_image": "https://i.scdn.co/image/ab67616d0000b27383e257b20f473f0063cdd351"
+    },
+    {
+      "name": "Sukoon",
+      "artist": "gini",
+      "album": "Sukoon",
+      "external_url": "https://open.spotify.com/track/1WXLlS4NR1Fzg44gF54ESK",
+      "popularity": 50,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273585652898e7039b59ce92bd7"
     }
   ],
-  "lastUpdated": "2025-11-12T18:01:30.284503"
+  "lastUpdated": "2025-11-13T00:03:05.522638"
 }
