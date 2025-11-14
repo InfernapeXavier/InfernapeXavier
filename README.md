@@ -50,10 +50,10 @@ $ cat ~/.media_stats
 anime_completed=228
 time_watched="48d 15h"
 manga_completed=125
-chapters_read="11.4k"
+chapters_read="11.5k"
 
 $ echo $FAVORITE_GENRES
-slice_of_life comedy romance
+romance comedy slice_of_life
 
 $ uptime
 Life uptime: Making things work since forever
