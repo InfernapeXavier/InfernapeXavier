@@ -1,6 +1,14 @@
 {
   "topTracks": [
     {
+      "name": "End Of Summer",
+      "artist": "Tame Impala",
+      "album": "Deadbeat",
+      "external_url": "https://open.spotify.com/track/3McBKxKZLXbE4czUezk5QG",
+      "popularity": 72,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273208500450dcd0fd294d7bd3b"
+    },
+    {
       "name": "My Old Ways",
       "artist": "Tame Impala",
       "album": "Deadbeat",
@@ -15,14 +23,6 @@
       "external_url": "https://open.spotify.com/track/1Jsos1mzwTwYGOndYN5h8V",
       "popularity": 60,
       "album_image": "https://i.scdn.co/image/ab67616d0000b2736d7f6a0fd312fb31ca3f91fb"
-    },
-    {
-      "name": "End Of Summer",
-      "artist": "Tame Impala",
-      "album": "Deadbeat",
-      "external_url": "https://open.spotify.com/track/3McBKxKZLXbE4czUezk5QG",
-      "popularity": 72,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273208500450dcd0fd294d7bd3b"
     },
     {
       "name": "Prarthana",
@@ -41,5 +41,5 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b273585652898e7039b59ce92bd7"
     }
   ],
-  "lastUpdated": "2025-11-14T00:02:55.798367"
+  "lastUpdated": "2025-11-14T06:01:18.205481"
 }

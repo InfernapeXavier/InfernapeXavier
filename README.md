@@ -53,7 +53,7 @@ manga_completed=125
 chapters_read="11.4k"
 
 $ echo $FAVORITE_GENRES
-comedy slice_of_life romance
+slice_of_life comedy romance
 
 $ uptime
 Life uptime: Making things work since forever
@@ -83,9 +83,9 @@ All entertainment metrics up to date
 
 | Cover | Track | Artist |
 |-------|-------|--------|
+<img src="https://i.scdn.co/image/ab67616d0000b273208500450dcd0fd294d7bd3b" width="40" height="40" style="border-radius: 4px;" alt="End Of Summer album cover"> | **[End Of Summer](https://open.spotify.com/track/3McBKxKZLXbE4czUezk5QG)** | *Tame Impala*
 <img src="https://i.scdn.co/image/ab67616d0000b273208500450dcd0fd294d7bd3b" width="40" height="40" style="border-radius: 4px;" alt="My Old Ways album cover"> | **[My Old Ways](https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq)** | *Tame Impala*
 <img src="https://i.scdn.co/image/ab67616d0000b2736d7f6a0fd312fb31ca3f91fb" width="40" height="40" style="border-radius: 4px;" alt="Farebi album cover"> | **[Farebi](https://open.spotify.com/track/1Jsos1mzwTwYGOndYN5h8V)** | *Chaar Diwaari, Raftaar*
-<img src="https://i.scdn.co/image/ab67616d0000b273208500450dcd0fd294d7bd3b" width="40" height="40" style="border-radius: 4px;" alt="End Of Summer album cover"> | **[End Of Summer](https://open.spotify.com/track/3McBKxKZLXbE4czUezk5QG)** | *Tame Impala*
 <img src="https://i.scdn.co/image/ab67616d0000b27383e257b20f473f0063cdd351" width="40" height="40" style="border-radius: 4px;" alt="Prarthana album cover"> | **[Prarthana](https://open.spotify.com/track/3l3BzT3Ovdx2mQK366r5Ei)** | *KR$NA*
 <img src="https://i.scdn.co/image/ab67616d0000b273585652898e7039b59ce92bd7" width="40" height="40" style="border-radius: 4px;" alt="Sukoon album cover"> | **[Sukoon](https://open.spotify.com/track/1WXLlS4NR1Fzg44gF54ESK)** | *gini*
 
