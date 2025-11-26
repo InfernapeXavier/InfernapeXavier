@@ -53,7 +53,7 @@ manga_completed=126
 chapters_read="11.5k"
 
 $ echo $FAVORITE_GENRES
-slice_of_life comedy romance
+comedy romance slice_of_life
 
 $ uptime
 Life uptime: Making things work since forever
@@ -83,11 +83,11 @@ All entertainment metrics up to date
 
 | Cover | Track | Artist |
 |-------|-------|--------|
-<img src="https://i.scdn.co/image/ab67616d0000b27383e257b20f473f0063cdd351" width="40" height="40" style="border-radius: 4px;" alt="Prarthana album cover"> | **[Prarthana](https://open.spotify.com/track/3l3BzT3Ovdx2mQK366r5Ei)** | *KR$NA*
 <img src="https://i.scdn.co/image/ab67616d0000b273208500450dcd0fd294d7bd3b" width="40" height="40" style="border-radius: 4px;" alt="My Old Ways album cover"> | **[My Old Ways](https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq)** | *Tame Impala*
+<img src="https://i.scdn.co/image/ab67616d0000b27383e257b20f473f0063cdd351" width="40" height="40" style="border-radius: 4px;" alt="Prarthana album cover"> | **[Prarthana](https://open.spotify.com/track/3l3BzT3Ovdx2mQK366r5Ei)** | *KR$NA*
 <img src="https://i.scdn.co/image/ab67616d0000b27354a355bf691fadf60df32b70" width="40" height="40" style="border-radius: 4px;" alt="Thehra album cover"> | **[Thehra](https://open.spotify.com/track/5OwAx0hZV7rNGYRR7ILQvh)** | *Chaar Diwaari*
+<img src="https://i.scdn.co/image/ab67616d0000b273208500450dcd0fd294d7bd3b" width="40" height="40" style="border-radius: 4px;" alt="End Of Summer album cover"> | **[End Of Summer](https://open.spotify.com/track/3McBKxKZLXbE4czUezk5QG)** | *Tame Impala*
 <img src="https://i.scdn.co/image/ab67616d0000b2738131aa99fb87ff0e9c511851" width="40" height="40" style="border-radius: 4px;" alt="JANE DOE album cover"> | **[JANE DOE](https://open.spotify.com/track/4oE7MyJhqSD3BaHRpNs8Nl)** | *Kenshi Yonezu, Hikaru Utada*
-<img src="https://i.scdn.co/image/ab67616d0000b27319c493ed7d737af499d6ce5b" width="40" height="40" style="border-radius: 4px;" alt="Knock Knock album cover"> | **[Knock Knock](https://open.spotify.com/track/2Kw97Ze8yhh5WDlRkEURKh)** | *KR$NA, Phenom*
 
 </td>
 </tr>
