@@ -53,7 +53,7 @@ manga_completed=126
 chapters_read="11.5k"
 
 $ echo $FAVORITE_GENRES
-romance comedy slice_of_life
+comedy slice_of_life romance
 
 $ uptime
 Life uptime: Making things work since forever
@@ -83,11 +83,11 @@ All entertainment metrics up to date
 
 | Cover | Track | Artist |
 |-------|-------|--------|
-<img src="https://i.scdn.co/image/ab67616d0000b273208500450dcd0fd294d7bd3b" width="40" height="40" style="border-radius: 4px;" alt="My Old Ways album cover"> | **[My Old Ways](https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq)** | *Tame Impala*
 <img src="https://i.scdn.co/image/ab67616d0000b27383e257b20f473f0063cdd351" width="40" height="40" style="border-radius: 4px;" alt="Prarthana album cover"> | **[Prarthana](https://open.spotify.com/track/3l3BzT3Ovdx2mQK366r5Ei)** | *KR$NA*
+<img src="https://i.scdn.co/image/ab67616d0000b273208500450dcd0fd294d7bd3b" width="40" height="40" style="border-radius: 4px;" alt="My Old Ways album cover"> | **[My Old Ways](https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq)** | *Tame Impala*
 <img src="https://i.scdn.co/image/ab67616d0000b27354a355bf691fadf60df32b70" width="40" height="40" style="border-radius: 4px;" alt="Thehra album cover"> | **[Thehra](https://open.spotify.com/track/5OwAx0hZV7rNGYRR7ILQvh)** | *Chaar Diwaari*
-<img src="https://i.scdn.co/image/ab67616d0000b27383e257b20f473f0063cdd351" width="40" height="40" style="border-radius: 4px;" alt="Hola Amigo album cover"> | **[Hola Amigo](https://open.spotify.com/track/19pHSvXUwErAXFktkvYMk9)** | *KR$NA, Seedhe Maut, Umair*
 <img src="https://i.scdn.co/image/ab67616d0000b273bed2dc8412e8d87d0c992644" width="40" height="40" style="border-radius: 4px;" alt="Where Do We Go? album cover"> | **[Where Do We Go?](https://open.spotify.com/track/0TbYCKTXVlVN5ToOBafY0a)** | *OKAMOTO'S*
+<img src="https://i.scdn.co/image/ab67616d0000b273585652898e7039b59ce92bd7" width="40" height="40" style="border-radius: 4px;" alt="Sukoon album cover"> | **[Sukoon](https://open.spotify.com/track/1WXLlS4NR1Fzg44gF54ESK)** | *gini*
 
 </td>
 </tr>
