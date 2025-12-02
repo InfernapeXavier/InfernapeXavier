@@ -53,7 +53,7 @@ manga_completed=126
 chapters_read="11.5k"
 
 $ echo $FAVORITE_GENRES
-comedy slice_of_life romance
+romance slice_of_life comedy
 
 $ uptime
 Life uptime: Making things work since forever
@@ -85,9 +85,9 @@ All entertainment metrics up to date
 |-------|-------|--------|
 <img src="https://i.scdn.co/image/ab67616d0000b27383e257b20f473f0063cdd351" width="40" height="40" style="border-radius: 4px;" alt="Prarthana album cover"> | **[Prarthana](https://open.spotify.com/track/3l3BzT3Ovdx2mQK366r5Ei)** | *KR$NA*
 <img src="https://i.scdn.co/image/ab67616d0000b273208500450dcd0fd294d7bd3b" width="40" height="40" style="border-radius: 4px;" alt="My Old Ways album cover"> | **[My Old Ways](https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq)** | *Tame Impala*
+<img src="https://i.scdn.co/image/ab67616d0000b27319c493ed7d737af499d6ce5b" width="40" height="40" style="border-radius: 4px;" alt="Sensitive album cover"> | **[Sensitive](https://open.spotify.com/track/2Xzbh7k2ysgUtC9MIncLR4)** | *KR$NA, Seedhe Maut, Hurricane*
 <img src="https://i.scdn.co/image/ab67616d0000b27354a355bf691fadf60df32b70" width="40" height="40" style="border-radius: 4px;" alt="Thehra album cover"> | **[Thehra](https://open.spotify.com/track/5OwAx0hZV7rNGYRR7ILQvh)** | *Chaar Diwaari*
 <img src="https://i.scdn.co/image/ab67616d0000b273bed2dc8412e8d87d0c992644" width="40" height="40" style="border-radius: 4px;" alt="Where Do We Go? album cover"> | **[Where Do We Go?](https://open.spotify.com/track/0TbYCKTXVlVN5ToOBafY0a)** | *OKAMOTO'S*
-<img src="https://i.scdn.co/image/ab67616d0000b27319c493ed7d737af499d6ce5b" width="40" height="40" style="border-radius: 4px;" alt="Sensitive album cover"> | **[Sensitive](https://open.spotify.com/track/2Xzbh7k2ysgUtC9MIncLR4)** | *KR$NA, Seedhe Maut, Hurricane*
 
 </td>
 </tr>
