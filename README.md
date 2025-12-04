@@ -50,10 +50,10 @@ $ cat ~/.media_stats
 anime_completed=228
 time_watched="48d 15h"
 manga_completed=126
-chapters_read="11.5k"
+chapters_read="11.6k"
 
 $ echo $FAVORITE_GENRES
-romance slice_of_life comedy
+comedy romance slice_of_life
 
 $ uptime
 Life uptime: Making things work since forever
@@ -87,7 +87,7 @@ All entertainment metrics up to date
 <img src="https://i.scdn.co/image/ab67616d0000b273208500450dcd0fd294d7bd3b" width="40" height="40" style="border-radius: 4px;" alt="My Old Ways album cover"> | **[My Old Ways](https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq)** | *Tame Impala*
 <img src="https://i.scdn.co/image/ab67616d0000b27319c493ed7d737af499d6ce5b" width="40" height="40" style="border-radius: 4px;" alt="Sensitive album cover"> | **[Sensitive](https://open.spotify.com/track/2Xzbh7k2ysgUtC9MIncLR4)** | *KR$NA, Seedhe Maut, Hurricane*
 <img src="https://i.scdn.co/image/ab67616d0000b27354a355bf691fadf60df32b70" width="40" height="40" style="border-radius: 4px;" alt="Thehra album cover"> | **[Thehra](https://open.spotify.com/track/5OwAx0hZV7rNGYRR7ILQvh)** | *Chaar Diwaari*
-<img src="https://i.scdn.co/image/ab67616d0000b273585652898e7039b59ce92bd7" width="40" height="40" style="border-radius: 4px;" alt="Sukoon album cover"> | **[Sukoon](https://open.spotify.com/track/1WXLlS4NR1Fzg44gF54ESK)** | *gini*
+<img src="https://i.scdn.co/image/ab67616d0000b273bed2dc8412e8d87d0c992644" width="40" height="40" style="border-radius: 4px;" alt="Where Do We Go? album cover"> | **[Where Do We Go?](https://open.spotify.com/track/0TbYCKTXVlVN5ToOBafY0a)** | *OKAMOTO'S*
 
 </td>
 </tr>
