@@ -1,20 +1,20 @@
 {
   "topTracks": [
     {
-      "name": "Prarthana",
-      "artist": "KR$NA",
-      "album": "FAR FROM OVER",
-      "external_url": "https://open.spotify.com/track/3l3BzT3Ovdx2mQK366r5Ei",
-      "popularity": 57,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b27383e257b20f473f0063cdd351"
-    },
-    {
       "name": "My Old Ways",
       "artist": "Tame Impala",
       "album": "Deadbeat",
       "external_url": "https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq",
       "popularity": 82,
       "album_image": "https://i.scdn.co/image/ab67616d0000b273208500450dcd0fd294d7bd3b"
+    },
+    {
+      "name": "Prarthana",
+      "artist": "KR$NA",
+      "album": "FAR FROM OVER",
+      "external_url": "https://open.spotify.com/track/3l3BzT3Ovdx2mQK366r5Ei",
+      "popularity": 57,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b27383e257b20f473f0063cdd351"
     },
     {
       "name": "Sensitive",
@@ -41,5 +41,5 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b273bed2dc8412e8d87d0c992644"
     }
   ],
-  "lastUpdated": "2025-12-03T18:01:15.723455"
+  "lastUpdated": "2025-12-04T00:03:06.791161"
 }
