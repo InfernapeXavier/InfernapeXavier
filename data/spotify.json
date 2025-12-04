@@ -1,20 +1,20 @@
 {
   "topTracks": [
     {
-      "name": "My Old Ways",
-      "artist": "Tame Impala",
-      "album": "Deadbeat",
-      "external_url": "https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq",
-      "popularity": 82,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273208500450dcd0fd294d7bd3b"
-    },
-    {
       "name": "Prarthana",
       "artist": "KR$NA",
       "album": "FAR FROM OVER",
       "external_url": "https://open.spotify.com/track/3l3BzT3Ovdx2mQK366r5Ei",
       "popularity": 57,
       "album_image": "https://i.scdn.co/image/ab67616d0000b27383e257b20f473f0063cdd351"
+    },
+    {
+      "name": "My Old Ways",
+      "artist": "Tame Impala",
+      "album": "Deadbeat",
+      "external_url": "https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq",
+      "popularity": 82,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273208500450dcd0fd294d7bd3b"
     },
     {
       "name": "Sensitive",
@@ -33,13 +33,13 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b27354a355bf691fadf60df32b70"
     },
     {
-      "name": "Where Do We Go?",
-      "artist": "OKAMOTO'S",
-      "album": "4EVER",
-      "external_url": "https://open.spotify.com/track/0TbYCKTXVlVN5ToOBafY0a",
-      "popularity": 33,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273bed2dc8412e8d87d0c992644"
+      "name": "Sukoon",
+      "artist": "gini",
+      "album": "Sukoon",
+      "external_url": "https://open.spotify.com/track/1WXLlS4NR1Fzg44gF54ESK",
+      "popularity": 50,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273585652898e7039b59ce92bd7"
     }
   ],
-  "lastUpdated": "2025-12-04T00:03:06.791161"
+  "lastUpdated": "2025-12-04T06:01:38.282029"
 }
