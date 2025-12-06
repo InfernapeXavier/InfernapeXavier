@@ -9,14 +9,6 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b27383e257b20f473f0063cdd351"
     },
     {
-      "name": "My Old Ways",
-      "artist": "Tame Impala",
-      "album": "Deadbeat",
-      "external_url": "https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq",
-      "popularity": 82,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273208500450dcd0fd294d7bd3b"
-    },
-    {
       "name": "Sensitive",
       "artist": "KR$NA, Seedhe Maut, Hurricane",
       "album": "Yours Truly",
@@ -25,11 +17,19 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b27319c493ed7d737af499d6ce5b"
     },
     {
+      "name": "My Old Ways",
+      "artist": "Tame Impala",
+      "album": "Deadbeat",
+      "external_url": "https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq",
+      "popularity": 82,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273208500450dcd0fd294d7bd3b"
+    },
+    {
       "name": "Thehra",
       "artist": "Chaar Diwaari",
       "album": "Thehra",
       "external_url": "https://open.spotify.com/track/5OwAx0hZV7rNGYRR7ILQvh",
-      "popularity": 47,
+      "popularity": 48,
       "album_image": "https://i.scdn.co/image/ab67616d0000b27354a355bf691fadf60df32b70"
     },
     {
@@ -41,5 +41,5 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b273bed2dc8412e8d87d0c992644"
     }
   ],
-  "lastUpdated": "2025-12-06T12:01:16.568294"
+  "lastUpdated": "2025-12-06T18:01:14.982930"
 }
