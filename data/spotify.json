@@ -17,6 +17,14 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b27319c493ed7d737af499d6ce5b"
     },
     {
+      "name": "Where Do We Go?",
+      "artist": "OKAMOTO'S",
+      "album": "4EVER",
+      "external_url": "https://open.spotify.com/track/0TbYCKTXVlVN5ToOBafY0a",
+      "popularity": 33,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273bed2dc8412e8d87d0c992644"
+    },
+    {
       "name": "My Old Ways",
       "artist": "Tame Impala",
       "album": "Deadbeat",
@@ -25,21 +33,13 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b273208500450dcd0fd294d7bd3b"
     },
     {
-      "name": "Thehra",
-      "artist": "Chaar Diwaari",
-      "album": "Thehra",
-      "external_url": "https://open.spotify.com/track/5OwAx0hZV7rNGYRR7ILQvh",
-      "popularity": 48,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b27354a355bf691fadf60df32b70"
-    },
-    {
-      "name": "Where Do We Go?",
-      "artist": "OKAMOTO'S",
-      "album": "4EVER",
-      "external_url": "https://open.spotify.com/track/0TbYCKTXVlVN5ToOBafY0a",
-      "popularity": 33,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273bed2dc8412e8d87d0c992644"
+      "name": "Not Like Us",
+      "artist": "Kendrick Lamar",
+      "album": "Not Like Us",
+      "external_url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3",
+      "popularity": 88,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b2731ea0c62b2339cbf493a999ad"
     }
   ],
-  "lastUpdated": "2025-12-07T00:03:14.036177"
+  "lastUpdated": "2025-12-07T06:01:18.047956"
 }
