@@ -9,14 +9,6 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b27383e257b20f473f0063cdd351"
     },
     {
-      "name": "Sensitive",
-      "artist": "KR$NA, Seedhe Maut, Hurricane",
-      "album": "Yours Truly",
-      "external_url": "https://open.spotify.com/track/2Xzbh7k2ysgUtC9MIncLR4",
-      "popularity": 58,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b27319c493ed7d737af499d6ce5b"
-    },
-    {
       "name": "Where Do We Go?",
       "artist": "OKAMOTO'S",
       "album": "4EVER",
@@ -25,21 +17,29 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b273bed2dc8412e8d87d0c992644"
     },
     {
-      "name": "Run It Up",
-      "artist": "Hanumankind",
-      "album": "Monsoon Season",
-      "external_url": "https://open.spotify.com/track/6WDQP0Atfw4UIpOYKOg74r",
-      "popularity": 55,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b2739999ac0a7052894fc20b4e5f"
+      "name": "Victory Lap Five",
+      "artist": "Fred again.., Skepta, PlaqueBoyMax, Denzel Curry, Hanumankind, That Mexican OT, D Double E, LYNY",
+      "album": "Victory Lap",
+      "external_url": "https://open.spotify.com/track/234SaqlzLfKAsE6gsmvMnR",
+      "popularity": 74,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b27303a07a0ca0a03dab6525e915"
     },
     {
-      "name": "My Old Ways",
-      "artist": "Tame Impala",
-      "album": "Deadbeat",
-      "external_url": "https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq",
-      "popularity": 82,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273208500450dcd0fd294d7bd3b"
+      "name": "\u52c7\u8005",
+      "artist": "YOASOBI",
+      "album": "THE BOOK 3",
+      "external_url": "https://open.spotify.com/track/0YTM7bCx451c6LQbkddy4Q",
+      "popularity": 69,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273f3527c2e1ffc2e99bb6a072e"
+    },
+    {
+      "name": "Sensitive",
+      "artist": "KR$NA, Seedhe Maut, Hurricane",
+      "album": "Yours Truly",
+      "external_url": "https://open.spotify.com/track/2Xzbh7k2ysgUtC9MIncLR4",
+      "popularity": 58,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b27319c493ed7d737af499d6ce5b"
     }
   ],
-  "lastUpdated": "2025-12-09T00:03:01.890778"
+  "lastUpdated": "2025-12-09T06:01:21.458250"
 }
