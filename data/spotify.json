@@ -9,14 +9,6 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b27383e257b20f473f0063cdd351"
     },
     {
-      "name": "Where Do We Go?",
-      "artist": "OKAMOTO'S",
-      "album": "4EVER",
-      "external_url": "https://open.spotify.com/track/0TbYCKTXVlVN5ToOBafY0a",
-      "popularity": 33,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273bed2dc8412e8d87d0c992644"
-    },
-    {
       "name": "Sensitive",
       "artist": "KR$NA, Seedhe Maut, Hurricane",
       "album": "Yours Truly",
@@ -25,12 +17,12 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b27319c493ed7d737af499d6ce5b"
     },
     {
-      "name": "\u52c7\u8005",
-      "artist": "YOASOBI",
-      "album": "THE BOOK 3",
-      "external_url": "https://open.spotify.com/track/0YTM7bCx451c6LQbkddy4Q",
-      "popularity": 69,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273f3527c2e1ffc2e99bb6a072e"
+      "name": "Where Do We Go?",
+      "artist": "OKAMOTO'S",
+      "album": "4EVER",
+      "external_url": "https://open.spotify.com/track/0TbYCKTXVlVN5ToOBafY0a",
+      "popularity": 33,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273bed2dc8412e8d87d0c992644"
     },
     {
       "name": "Run It Up",
@@ -39,7 +31,15 @@
       "external_url": "https://open.spotify.com/track/6WDQP0Atfw4UIpOYKOg74r",
       "popularity": 55,
       "album_image": "https://i.scdn.co/image/ab67616d0000b2739999ac0a7052894fc20b4e5f"
+    },
+    {
+      "name": "My Old Ways",
+      "artist": "Tame Impala",
+      "album": "Deadbeat",
+      "external_url": "https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq",
+      "popularity": 82,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273208500450dcd0fd294d7bd3b"
     }
   ],
-  "lastUpdated": "2025-12-08T18:01:20.239857"
+  "lastUpdated": "2025-12-09T00:03:01.890778"
 }
