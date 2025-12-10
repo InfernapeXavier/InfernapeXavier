@@ -53,7 +53,7 @@ manga_completed=126
 chapters_read="11.6k"
 
 $ echo $FAVORITE_GENRES
-slice_of_life comedy romance
+romance slice_of_life comedy
 
 $ uptime
 Life uptime: Making things work since forever
@@ -87,7 +87,7 @@ All entertainment metrics up to date
 <img src="https://i.scdn.co/image/ab67616d0000b273bed2dc8412e8d87d0c992644" width="40" height="40" style="border-radius: 4px;" alt="Where Do We Go? album cover"> | **[Where Do We Go?](https://open.spotify.com/track/0TbYCKTXVlVN5ToOBafY0a)** | *OKAMOTO'S*
 <img src="https://i.scdn.co/image/ab67616d0000b27383e257b20f473f0063cdd351" width="40" height="40" style="border-radius: 4px;" alt="Prarthana album cover"> | **[Prarthana](https://open.spotify.com/track/3l3BzT3Ovdx2mQK366r5Ei)** | *KR$NA*
 <img src="https://i.scdn.co/image/ab67616d0000b273f3527c2e1ffc2e99bb6a072e" width="40" height="40" style="border-radius: 4px;" alt="勇者 album cover"> | **[勇者](https://open.spotify.com/track/0YTM7bCx451c6LQbkddy4Q)** | *YOASOBI*
-<img src="https://i.scdn.co/image/ab67616d0000b273585652898e7039b59ce92bd7" width="40" height="40" style="border-radius: 4px;" alt="Sukoon album cover"> | **[Sukoon](https://open.spotify.com/track/1WXLlS4NR1Fzg44gF54ESK)** | *gini*
+<img src="https://i.scdn.co/image/ab67616d0000b27319c493ed7d737af499d6ce5b" width="40" height="40" style="border-radius: 4px;" alt="Sensitive album cover"> | **[Sensitive](https://open.spotify.com/track/2Xzbh7k2ysgUtC9MIncLR4)** | *KR$NA, Seedhe Maut, Hurricane*
 
 </td>
 </tr>
