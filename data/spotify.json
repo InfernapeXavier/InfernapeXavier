@@ -1,6 +1,14 @@
 {
   "topTracks": [
     {
+      "name": "Victory Lap Five",
+      "artist": "Fred again.., Skepta, PlaqueBoyMax, Denzel Curry, Hanumankind, That Mexican OT, D Double E, LYNY",
+      "album": "Victory Lap",
+      "external_url": "https://open.spotify.com/track/234SaqlzLfKAsE6gsmvMnR",
+      "popularity": 74,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b27303a07a0ca0a03dab6525e915"
+    },
+    {
       "name": "Where Do We Go?",
       "artist": "OKAMOTO'S",
       "album": "4EVER",
@@ -15,14 +23,6 @@
       "external_url": "https://open.spotify.com/track/3l3BzT3Ovdx2mQK366r5Ei",
       "popularity": 57,
       "album_image": "https://i.scdn.co/image/ab67616d0000b27383e257b20f473f0063cdd351"
-    },
-    {
-      "name": "Victory Lap Five",
-      "artist": "Fred again.., Skepta, PlaqueBoyMax, Denzel Curry, Hanumankind, That Mexican OT, D Double E, LYNY",
-      "album": "Victory Lap",
-      "external_url": "https://open.spotify.com/track/234SaqlzLfKAsE6gsmvMnR",
-      "popularity": 74,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b27303a07a0ca0a03dab6525e915"
     },
     {
       "name": "\u52c7\u8005",
@@ -41,5 +41,5 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b273585652898e7039b59ce92bd7"
     }
   ],
-  "lastUpdated": "2025-12-09T18:01:12.397737"
+  "lastUpdated": "2025-12-10T00:02:55.541965"
 }
