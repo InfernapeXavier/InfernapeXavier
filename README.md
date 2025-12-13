@@ -26,7 +26,7 @@ $ echo "Anime processes active"
 $ ps aux | grep "manga"
 Currently reading:
   SPY x FAMILY
-  Maou no Musume wa Yasashi Sugiru!!
+  The Daughter of the Demon Lord Is Too Kind!
   My Love Story with Yamada-kun at Lv999
   I Have a Crush at Work
   Fly Me to the Moon
