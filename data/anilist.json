@@ -28,28 +28,16 @@
   },
   "currentlyWatching": [
     {
-      "title": "Gachiakuta",
-      "progress": 7,
-      "totalEpisodes": 24,
-      "status": "RELEASING"
-    },
-    {
       "title": "One-Punch Man Season 3",
       "progress": 5,
       "totalEpisodes": 12,
       "status": "RELEASING"
     },
     {
-      "title": "Pok\u00e9mon Concierge: Season 1: Part 2",
-      "progress": 0,
-      "totalEpisodes": 4,
-      "status": "FINISHED"
-    },
-    {
-      "title": "Call of the Night Season 2",
-      "progress": 3,
+      "title": "SANDA",
+      "progress": 6,
       "totalEpisodes": 12,
-      "status": "FINISHED"
+      "status": "RELEASING"
     }
   ],
   "currentlyReading": [
@@ -60,29 +48,29 @@
       "status": "RELEASING"
     },
     {
-      "title": "The Daughter of the Demon Lord Is Too Kind!",
-      "progress": 32,
-      "totalChapters": null,
-      "status": "RELEASING"
-    },
-    {
-      "title": "My Love Story with Yamada-kun at Lv999",
-      "progress": 99,
-      "totalChapters": null,
-      "status": "RELEASING"
-    },
-    {
       "title": "I Have a Crush at Work",
       "progress": 128,
       "totalChapters": 147,
       "status": "FINISHED"
     },
     {
-      "title": "Fly Me to the Moon",
-      "progress": 258,
+      "title": "Yotsuba&!",
+      "progress": 114,
       "totalChapters": null,
       "status": "RELEASING"
+    },
+    {
+      "title": "The Fragrant Flower Blooms With Dignity",
+      "progress": 171,
+      "totalChapters": null,
+      "status": "RELEASING"
+    },
+    {
+      "title": "Konbini de Kimi to no 5-funkan",
+      "progress": 90,
+      "totalChapters": 100,
+      "status": "FINISHED"
     }
   ],
-  "lastUpdated": "2025-12-14T06:01:14.176061Z"
+  "lastUpdated": "2025-12-14T12:01:10.780176Z"
 }

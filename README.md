@@ -11,10 +11,8 @@
 ```bash
 $ ps aux | grep "anime"
 Currently watching:
-  Gachiakuta
   One-Punch Man Season 3
-  Pokémon Concierge: Season 1: Part 2
-  Call of the Night Season 2
+  SANDA
 
 $ echo "Anime processes active"
 ```
@@ -26,10 +24,10 @@ $ echo "Anime processes active"
 $ ps aux | grep "manga"
 Currently reading:
   SPY x FAMILY
-  The Daughter of the Demon Lord Is Too Kind!
-  My Love Story with Yamada-kun at Lv999
   I Have a Crush at Work
-  Fly Me to the Moon
+  Yotsuba&!
+  The Fragrant Flower Blooms With Dignity
+  Konbini de Kimi to no 5-funkan
 
 $ echo "Manga processes active"
 ```
@@ -53,7 +51,7 @@ manga_completed=125
 chapters_read="11.6k"
 
 $ echo $FAVORITE_GENRES
-comedy romance slice_of_life
+romance comedy slice_of_life
 
 $ uptime
 Life uptime: Making things work since forever
@@ -84,8 +82,8 @@ All entertainment metrics up to date
 | Cover | Track | Artist |
 |-------|-------|--------|
 <img src="https://i.scdn.co/image/ab67616d0000b273e7f1c1771933934c3d7423ee" width="40" height="40" style="border-radius: 4px;" alt="Victory Lap Five album cover"> | **[Victory Lap Five](https://open.spotify.com/track/28dXOti2Sy7YQJP4af9wM3)** | *Fred again.., Skepta, Plaqueboymax, Denzel Curry, Hanumankind, That Mexican OT, D Double E, LYNY*
-<img src="https://i.scdn.co/image/ab67616d0000b273bed2dc8412e8d87d0c992644" width="40" height="40" style="border-radius: 4px;" alt="Where Do We Go? album cover"> | **[Where Do We Go?](https://open.spotify.com/track/0TbYCKTXVlVN5ToOBafY0a)** | *OKAMOTO'S*
 <img src="https://i.scdn.co/image/ab67616d0000b27319c493ed7d737af499d6ce5b" width="40" height="40" style="border-radius: 4px;" alt="Sensitive album cover"> | **[Sensitive](https://open.spotify.com/track/2Xzbh7k2ysgUtC9MIncLR4)** | *KR$NA, Seedhe Maut, Hurricane*
+<img src="https://i.scdn.co/image/ab67616d0000b273bed2dc8412e8d87d0c992644" width="40" height="40" style="border-radius: 4px;" alt="Where Do We Go? album cover"> | **[Where Do We Go?](https://open.spotify.com/track/0TbYCKTXVlVN5ToOBafY0a)** | *OKAMOTO'S*
 <img src="https://i.scdn.co/image/ab67616d0000b273208500450dcd0fd294d7bd3b" width="40" height="40" style="border-radius: 4px;" alt="My Old Ways album cover"> | **[My Old Ways](https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq)** | *Tame Impala*
 <img src="https://i.scdn.co/image/ab67616d0000b2730297fb98f81fc0b611fcf71d" width="40" height="40" style="border-radius: 4px;" alt="misses album cover"> | **[misses](https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs)** | *Dominic Fike*
 
