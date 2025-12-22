@@ -5,16 +5,8 @@
       "artist": "Fred again.., Skepta, Plaqueboymax, Denzel Curry, Hanumankind, That Mexican OT, D Double E, LYNY",
       "album": "USB",
       "external_url": "https://open.spotify.com/track/28dXOti2Sy7YQJP4af9wM3",
-      "popularity": 59,
+      "popularity": 60,
       "album_image": "https://i.scdn.co/image/ab67616d0000b2736a02d89603b4b77652a4c4ac"
-    },
-    {
-      "name": "Sensitive",
-      "artist": "KR$NA, Seedhe Maut, Hurricane",
-      "album": "Yours Truly",
-      "external_url": "https://open.spotify.com/track/2Xzbh7k2ysgUtC9MIncLR4",
-      "popularity": 58,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b27319c493ed7d737af499d6ce5b"
     },
     {
       "name": "misses",
@@ -33,13 +25,21 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b27301f875f02d26bc9b9102727d"
     },
     {
-      "name": "Where Do We Go?",
-      "artist": "OKAMOTO'S",
-      "album": "4EVER",
-      "external_url": "https://open.spotify.com/track/0TbYCKTXVlVN5ToOBafY0a",
-      "popularity": 33,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273bed2dc8412e8d87d0c992644"
+      "name": "Then It All Goes Away",
+      "artist": "Dayglow",
+      "album": "People In Motion",
+      "external_url": "https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh",
+      "popularity": 49,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273a9effdeecbe03ffc7464fcdb"
+    },
+    {
+      "name": "My Old Ways",
+      "artist": "Tame Impala",
+      "album": "Deadbeat",
+      "external_url": "https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq",
+      "popularity": 81,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273208500450dcd0fd294d7bd3b"
     }
   ],
-  "lastUpdated": "2025-12-22T12:01:30.869485"
+  "lastUpdated": "2025-12-22T18:01:13.743672"
 }
