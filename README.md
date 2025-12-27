@@ -46,12 +46,12 @@ rohit@dev:~$
 
 $ cat ~/.media_stats
 anime_completed=229
-time_watched="48d 19h"
+time_watched="48d 20h"
 manga_completed=125
 chapters_read="11.6k"
 
 $ echo $FAVORITE_GENRES
-comedy slice_of_life romance
+romance slice_of_life comedy
 
 $ uptime
 Life uptime: Making things work since forever
@@ -83,9 +83,9 @@ All entertainment metrics up to date
 |-------|-------|--------|
 <img src="https://i.scdn.co/image/ab67616d0000b2736a02d89603b4b77652a4c4ac" width="40" height="40" style="border-radius: 4px;" alt="Victory Lap Five album cover"> | **[Victory Lap Five](https://open.spotify.com/track/28dXOti2Sy7YQJP4af9wM3)** | *Fred again.., Skepta, Plaqueboymax, Denzel Curry, Hanumankind, That Mexican OT, D Double E, LYNY*
 <img src="https://i.scdn.co/image/ab67616d0000b2730297fb98f81fc0b611fcf71d" width="40" height="40" style="border-radius: 4px;" alt="misses album cover"> | **[misses](https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs)** | *Dominic Fike*
-<img src="https://i.scdn.co/image/ab67616d0000b27301f875f02d26bc9b9102727d" width="40" height="40" style="border-radius: 4px;" alt="Gum Ho Kahan album cover"> | **[Gum Ho Kahan](https://open.spotify.com/track/2ZJVVFpuh81mjQvpYJ19J3)** | *Taba Chake*
 <img src="https://i.scdn.co/image/ab67616d0000b27397e30ace461b56002c52aa9f" width="40" height="40" style="border-radius: 4px;" alt="sucks to see you doing better album cover"> | **[sucks to see you doing better](https://open.spotify.com/track/2LFprH1a4nNvmYha55xhj6)** | *Valley*
-<img src="https://i.scdn.co/image/ab67616d0000b273ae1ddda81dd700bfbfeeb929" width="40" height="40" style="border-radius: 4px;" alt="Mirage album cover"> | **[Mirage](https://open.spotify.com/track/3GVNp2UgIp2TN3ra67cxdg)** | *Creepy Nuts*
+<img src="https://i.scdn.co/image/ab67616d0000b273bc52b9838ebcfae5646a5457" width="40" height="40" style="border-radius: 4px;" alt="Pyari Amaanat album cover"> | **[Pyari Amaanat](https://open.spotify.com/track/2W5VC6Rgb8LONHLW8iIYeK)** | *Arpit Bala, A.O.D., Angad Virk*
+<img src="https://i.scdn.co/image/ab67616d0000b27336c5ba6a0c7244811ba5139a" width="40" height="40" style="border-radius: 4px;" alt="ALICE album cover"> | **[ALICE](https://open.spotify.com/track/1c4hrCYvdfJ6IQM0tf9bk1)** | *PEGGY*
 
 </td>
 </tr>

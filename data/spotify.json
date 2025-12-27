@@ -17,14 +17,6 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b2730297fb98f81fc0b611fcf71d"
     },
     {
-      "name": "Gum Ho Kahan",
-      "artist": "Taba Chake",
-      "album": "I Want To Talk (Original Motion Picture Soundtrack)",
-      "external_url": "https://open.spotify.com/track/2ZJVVFpuh81mjQvpYJ19J3",
-      "popularity": 40,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b27301f875f02d26bc9b9102727d"
-    },
-    {
       "name": "sucks to see you doing better",
       "artist": "Valley",
       "album": "sucks to see you doing better (extended)",
@@ -33,13 +25,21 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b27397e30ace461b56002c52aa9f"
     },
     {
-      "name": "Mirage",
-      "artist": "Creepy Nuts",
-      "album": "Mirage",
-      "external_url": "https://open.spotify.com/track/3GVNp2UgIp2TN3ra67cxdg",
-      "popularity": 71,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273ae1ddda81dd700bfbfeeb929"
+      "name": "Pyari Amaanat",
+      "artist": "Arpit Bala, A.O.D., Angad Virk",
+      "album": "Keychain Laalu",
+      "external_url": "https://open.spotify.com/track/2W5VC6Rgb8LONHLW8iIYeK",
+      "popularity": 59,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273bc52b9838ebcfae5646a5457"
+    },
+    {
+      "name": "ALICE",
+      "artist": "PEGGY",
+      "album": "ALICE",
+      "external_url": "https://open.spotify.com/track/1c4hrCYvdfJ6IQM0tf9bk1",
+      "popularity": 68,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b27336c5ba6a0c7244811ba5139a"
     }
   ],
-  "lastUpdated": "2025-12-26T18:01:16.458910"
+  "lastUpdated": "2025-12-27T00:03:09.127428"
 }
