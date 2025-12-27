@@ -17,29 +17,29 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b2730297fb98f81fc0b611fcf71d"
     },
     {
+      "name": "Nazar",
+      "artist": "Darzi",
+      "album": "Awaaz",
+      "external_url": "https://open.spotify.com/track/3o9eTbeS8UB8fbHpc1gx7X",
+      "popularity": 44,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b2738173de4187962453d4dba418"
+    },
+    {
+      "name": "say it first",
+      "artist": "Zeph",
+      "album": "character development",
+      "external_url": "https://open.spotify.com/track/1wMvQim740iNsQ9fabPXPQ",
+      "popularity": 29,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b2731c1a9ac3dec16883dc08d169"
+    },
+    {
       "name": "sucks to see you doing better",
       "artist": "Valley",
       "album": "sucks to see you doing better (extended)",
       "external_url": "https://open.spotify.com/track/2LFprH1a4nNvmYha55xhj6",
       "popularity": 46,
       "album_image": "https://i.scdn.co/image/ab67616d0000b27397e30ace461b56002c52aa9f"
-    },
-    {
-      "name": "Pyari Amaanat",
-      "artist": "Arpit Bala, A.O.D., Angad Virk",
-      "album": "Keychain Laalu",
-      "external_url": "https://open.spotify.com/track/2W5VC6Rgb8LONHLW8iIYeK",
-      "popularity": 59,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273bc52b9838ebcfae5646a5457"
-    },
-    {
-      "name": "ALICE",
-      "artist": "PEGGY",
-      "album": "ALICE",
-      "external_url": "https://open.spotify.com/track/1c4hrCYvdfJ6IQM0tf9bk1",
-      "popularity": 68,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b27336c5ba6a0c7244811ba5139a"
     }
   ],
-  "lastUpdated": "2025-12-27T12:01:18.194842"
+  "lastUpdated": "2025-12-27T18:01:17.409551"
 }
