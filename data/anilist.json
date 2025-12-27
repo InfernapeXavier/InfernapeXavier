@@ -32,12 +32,6 @@
       "progress": 7,
       "totalEpisodes": 12,
       "status": "RELEASING"
-    },
-    {
-      "title": "SANDA",
-      "progress": 11,
-      "totalEpisodes": 12,
-      "status": "FINISHED"
     }
   ],
   "currentlyReading": [
@@ -72,5 +66,5 @@
       "status": "FINISHED"
     }
   ],
-  "lastUpdated": "2025-12-27T06:01:10.404105Z"
+  "lastUpdated": "2025-12-27T12:01:17.675475Z"
 }

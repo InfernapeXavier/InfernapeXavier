@@ -12,7 +12,6 @@
 $ ps aux | grep "anime"
 Currently watching:
   One-Punch Man Season 3
-  SANDA
 
 $ echo "Anime processes active"
 ```
@@ -51,7 +50,7 @@ manga_completed=125
 chapters_read="11.6k"
 
 $ echo $FAVORITE_GENRES
-comedy romance slice_of_life
+romance slice_of_life comedy
 
 $ uptime
 Life uptime: Making things work since forever
