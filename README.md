@@ -50,7 +50,7 @@ manga_completed=125
 chapters_read="11.6k"
 
 $ echo $FAVORITE_GENRES
-slice_of_life romance comedy
+romance slice_of_life comedy
 
 $ uptime
 Life uptime: Making things work since forever
@@ -82,9 +82,9 @@ All entertainment metrics up to date
 |-------|-------|--------|
 <img src="https://i.scdn.co/image/ab67616d0000b2736a02d89603b4b77652a4c4ac" width="40" height="40" style="border-radius: 4px;" alt="Victory Lap Five album cover"> | **[Victory Lap Five](https://open.spotify.com/track/28dXOti2Sy7YQJP4af9wM3)** | *Fred again.., Skepta, Plaqueboymax, Denzel Curry, Hanumankind, That Mexican OT, D Double E, LYNY*
 <img src="https://i.scdn.co/image/ab67616d0000b2730297fb98f81fc0b611fcf71d" width="40" height="40" style="border-radius: 4px;" alt="misses album cover"> | **[misses](https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs)** | *Dominic Fike*
+<img src="https://i.scdn.co/image/ab67616d0000b273bc52b9838ebcfae5646a5457" width="40" height="40" style="border-radius: 4px;" alt="Pyari Amaanat album cover"> | **[Pyari Amaanat](https://open.spotify.com/track/2W5VC6Rgb8LONHLW8iIYeK)** | *Arpit Bala, A.O.D., Angad Virk*
 <img src="https://i.scdn.co/image/ab67616d0000b2738173de4187962453d4dba418" width="40" height="40" style="border-radius: 4px;" alt="Nazar album cover"> | **[Nazar](https://open.spotify.com/track/3o9eTbeS8UB8fbHpc1gx7X)** | *Darzi*
 <img src="https://i.scdn.co/image/ab67616d0000b2731c1a9ac3dec16883dc08d169" width="40" height="40" style="border-radius: 4px;" alt="say it first album cover"> | **[say it first](https://open.spotify.com/track/1wMvQim740iNsQ9fabPXPQ)** | *Zeph*
-<img src="https://i.scdn.co/image/ab67616d0000b273bc52b9838ebcfae5646a5457" width="40" height="40" style="border-radius: 4px;" alt="Pyari Amaanat album cover"> | **[Pyari Amaanat](https://open.spotify.com/track/2W5VC6Rgb8LONHLW8iIYeK)** | *Arpit Bala, A.O.D., Angad Virk*
 
 </td>
 </tr>
