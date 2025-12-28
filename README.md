@@ -45,12 +45,12 @@ rohit@dev:~$
 
 $ cat ~/.media_stats
 anime_completed=229
-time_watched="48d 20h"
+time_watched="48d 21h"
 manga_completed=125
 chapters_read="11.6k"
 
 $ echo $FAVORITE_GENRES
-romance slice_of_life comedy
+comedy slice_of_life romance
 
 $ uptime
 Life uptime: Making things work since forever
@@ -84,7 +84,7 @@ All entertainment metrics up to date
 <img src="https://i.scdn.co/image/ab67616d0000b2730297fb98f81fc0b611fcf71d" width="40" height="40" style="border-radius: 4px;" alt="misses album cover"> | **[misses](https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs)** | *Dominic Fike*
 <img src="https://i.scdn.co/image/ab67616d0000b2738173de4187962453d4dba418" width="40" height="40" style="border-radius: 4px;" alt="Nazar album cover"> | **[Nazar](https://open.spotify.com/track/3o9eTbeS8UB8fbHpc1gx7X)** | *Darzi*
 <img src="https://i.scdn.co/image/ab67616d0000b2731c1a9ac3dec16883dc08d169" width="40" height="40" style="border-radius: 4px;" alt="say it first album cover"> | **[say it first](https://open.spotify.com/track/1wMvQim740iNsQ9fabPXPQ)** | *Zeph*
-<img src="https://i.scdn.co/image/ab67616d0000b27397e30ace461b56002c52aa9f" width="40" height="40" style="border-radius: 4px;" alt="sucks to see you doing better album cover"> | **[sucks to see you doing better](https://open.spotify.com/track/2LFprH1a4nNvmYha55xhj6)** | *Valley*
+<img src="https://i.scdn.co/image/ab67616d0000b273bc52b9838ebcfae5646a5457" width="40" height="40" style="border-radius: 4px;" alt="Pyari Amaanat album cover"> | **[Pyari Amaanat](https://open.spotify.com/track/2W5VC6Rgb8LONHLW8iIYeK)** | *Arpit Bala, A.O.D., Angad Virk*
 
 </td>
 </tr>
