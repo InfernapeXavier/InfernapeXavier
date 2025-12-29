@@ -50,7 +50,7 @@ manga_completed=125
 chapters_read="11.6k"
 
 $ echo $FAVORITE_GENRES
-romance slice_of_life comedy
+comedy romance slice_of_life
 
 $ uptime
 Life uptime: Making things work since forever
@@ -84,7 +84,7 @@ All entertainment metrics up to date
 <img src="https://i.scdn.co/image/ab67616d0000b273bc52b9838ebcfae5646a5457" width="40" height="40" style="border-radius: 4px;" alt="Pyari Amaanat album cover"> | **[Pyari Amaanat](https://open.spotify.com/track/2W5VC6Rgb8LONHLW8iIYeK)** | *Arpit Bala, A.O.D., Angad Virk*
 <img src="https://i.scdn.co/image/ab67616d0000b2730297fb98f81fc0b611fcf71d" width="40" height="40" style="border-radius: 4px;" alt="misses album cover"> | **[misses](https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs)** | *Dominic Fike*
 <img src="https://i.scdn.co/image/ab67616d0000b2738173de4187962453d4dba418" width="40" height="40" style="border-radius: 4px;" alt="Nazar album cover"> | **[Nazar](https://open.spotify.com/track/3o9eTbeS8UB8fbHpc1gx7X)** | *Darzi*
-<img src="https://i.scdn.co/image/ab67616d0000b2731c1a9ac3dec16883dc08d169" width="40" height="40" style="border-radius: 4px;" alt="say it first album cover"> | **[say it first](https://open.spotify.com/track/1wMvQim740iNsQ9fabPXPQ)** | *Zeph*
+<img src="https://i.scdn.co/image/ab67616d0000b27319c493ed7d737af499d6ce5b" width="40" height="40" style="border-radius: 4px;" alt="Sensitive album cover"> | **[Sensitive](https://open.spotify.com/track/2Xzbh7k2ysgUtC9MIncLR4)** | *KR$NA, Seedhe Maut, Hurricane*
 
 </td>
 </tr>
