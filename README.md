@@ -50,7 +50,7 @@ manga_completed=125
 chapters_read="11.6k"
 
 $ echo $FAVORITE_GENRES
-comedy romance slice_of_life
+slice_of_life romance comedy
 
 $ uptime
 Life uptime: Making things work since forever
@@ -84,7 +84,7 @@ All entertainment metrics up to date
 <img src="https://i.scdn.co/image/ab67616d0000b273bc52b9838ebcfae5646a5457" width="40" height="40" style="border-radius: 4px;" alt="Pyari Amaanat album cover"> | **[Pyari Amaanat](https://open.spotify.com/track/2W5VC6Rgb8LONHLW8iIYeK)** | *Arpit Bala, A.O.D., Angad Virk*
 <img src="https://i.scdn.co/image/ab67616d0000b27369ecc359541c8a49aae7716f" width="40" height="40" style="border-radius: 4px;" alt="bargad album cover"> | **[bargad](https://open.spotify.com/track/0Q9rHyEG7lME4y2Fqtuxgl)** | *sufr, Arpit Bala, toorjo dey*
 <img src="https://i.scdn.co/image/ab67616d0000b2738173de4187962453d4dba418" width="40" height="40" style="border-radius: 4px;" alt="Nazar album cover"> | **[Nazar](https://open.spotify.com/track/3o9eTbeS8UB8fbHpc1gx7X)** | *Darzi*
-<img src="https://i.scdn.co/image/ab67616d0000b2730297fb98f81fc0b611fcf71d" width="40" height="40" style="border-radius: 4px;" alt="misses album cover"> | **[misses](https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs)** | *Dominic Fike*
+<img src="https://i.scdn.co/image/ab67616d0000b273d51f326f48c94a85dcd7090f" width="40" height="40" style="border-radius: 4px;" alt="alibi album cover"> | **[alibi](https://open.spotify.com/track/4zRfL2F7yb46p0KU4modG4)** | *joan*
 
 </td>
 </tr>
