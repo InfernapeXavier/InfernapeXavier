@@ -28,6 +28,12 @@
   },
   "currentlyWatching": [
     {
+      "title": "Azumanga Daioh",
+      "progress": 1,
+      "totalEpisodes": 26,
+      "status": "FINISHED"
+    },
+    {
       "title": "One-Punch Man Season 3",
       "progress": 7,
       "totalEpisodes": 12,
@@ -66,5 +72,5 @@
       "status": "FINISHED"
     }
   ],
-  "lastUpdated": "2025-12-31T06:01:21.487949Z"
+  "lastUpdated": "2025-12-31T12:01:21.848783Z"
 }

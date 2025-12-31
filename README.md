@@ -11,6 +11,7 @@
 ```bash
 $ ps aux | grep "anime"
 Currently watching:
+  Azumanga Daioh
   One-Punch Man Season 3
 
 $ echo "Anime processes active"
@@ -50,7 +51,7 @@ manga_completed=125
 chapters_read="11.6k"
 
 $ echo $FAVORITE_GENRES
-comedy romance slice_of_life
+romance comedy slice_of_life
 
 $ uptime
 Life uptime: Making things work since forever
