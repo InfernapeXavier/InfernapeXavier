@@ -45,13 +45,13 @@ $ whoami
 rohit@dev:~$
 
 $ cat ~/.media_stats
-anime_completed=229
-time_watched="48d 21h"
+anime_completed=231
+time_watched="48d 23h"
 manga_completed=125
 chapters_read="11.6k"
 
 $ echo $FAVORITE_GENRES
-slice_of_life comedy romance
+romance comedy slice_of_life
 
 $ uptime
 Life uptime: Making things work since forever
