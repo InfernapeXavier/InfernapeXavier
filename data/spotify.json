@@ -9,20 +9,20 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b2736a02d89603b4b77652a4c4ac"
     },
     {
-      "name": "Pyari Amaanat",
-      "artist": "Arpit Bala, A.O.D., Angad Virk",
-      "album": "Keychain Laalu",
-      "external_url": "https://open.spotify.com/track/2W5VC6Rgb8LONHLW8iIYeK",
-      "popularity": 60,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273bc52b9838ebcfae5646a5457"
-    },
-    {
       "name": "bargad",
       "artist": "sufr, Arpit Bala, toorjo dey",
       "album": "bargad",
       "external_url": "https://open.spotify.com/track/0Q9rHyEG7lME4y2Fqtuxgl",
       "popularity": 79,
       "album_image": "https://i.scdn.co/image/ab67616d0000b27369ecc359541c8a49aae7716f"
+    },
+    {
+      "name": "Pyari Amaanat",
+      "artist": "Arpit Bala, A.O.D., Angad Virk",
+      "album": "Keychain Laalu",
+      "external_url": "https://open.spotify.com/track/2W5VC6Rgb8LONHLW8iIYeK",
+      "popularity": 60,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273bc52b9838ebcfae5646a5457"
     },
     {
       "name": "Nazar",
@@ -33,13 +33,13 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b2738173de4187962453d4dba418"
     },
     {
-      "name": "Then It All Goes Away",
-      "artist": "Dayglow",
-      "album": "People In Motion",
-      "external_url": "https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh",
-      "popularity": 47,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273a9effdeecbe03ffc7464fcdb"
+      "name": "Sutta",
+      "artist": "Aditya Rikhari, Ravator",
+      "album": "Jaana",
+      "external_url": "https://open.spotify.com/track/3acvT3VlH1lePn5BhX9L4t",
+      "popularity": 50,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b2730961aa2e7a0495294eb329e3"
     }
   ],
-  "lastUpdated": "2025-12-31T18:01:07.670755"
+  "lastUpdated": "2026-01-01T00:04:01.132766"
 }
