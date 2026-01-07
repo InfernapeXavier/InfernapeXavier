@@ -13,6 +13,7 @@ $ ps aux | grep "anime"
 Currently watching:
   Journal with Witch
   mofusand
+  The Demon King's Daughter is Too Kind!!
   Azumanga Daioh
   One-Punch Man Season 3
 
@@ -53,7 +54,7 @@ manga_completed=125
 chapters_read="11.6k"
 
 $ echo $FAVORITE_GENRES
-romance comedy slice_of_life
+comedy romance slice_of_life
 
 $ uptime
 Life uptime: Making things work since forever
