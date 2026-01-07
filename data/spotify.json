@@ -9,20 +9,20 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b27369ecc359541c8a49aae7716f"
     },
     {
-      "name": "Victory Lap Five",
-      "artist": "Fred again.., Skepta, Plaqueboymax, Denzel Curry, Hanumankind, That Mexican OT, D Double E, LYNY",
-      "album": "USB",
-      "external_url": "https://open.spotify.com/track/28dXOti2Sy7YQJP4af9wM3",
-      "popularity": 65,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b2738ec8e5fb201572f6b3039d8a"
-    },
-    {
       "name": "Pyari Amaanat",
       "artist": "Arpit Bala, A.O.D., Angad Virk",
       "album": "Keychain Laalu",
       "external_url": "https://open.spotify.com/track/2W5VC6Rgb8LONHLW8iIYeK",
       "popularity": 62,
       "album_image": "https://i.scdn.co/image/ab67616d0000b273bc52b9838ebcfae5646a5457"
+    },
+    {
+      "name": "Victory Lap Five",
+      "artist": "Fred again.., Skepta, Plaqueboymax, Denzel Curry, Hanumankind, That Mexican OT, D Double E, LYNY",
+      "album": "USB",
+      "external_url": "https://open.spotify.com/track/28dXOti2Sy7YQJP4af9wM3",
+      "popularity": 65,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b2738ec8e5fb201572f6b3039d8a"
     },
     {
       "name": "Sutta",
@@ -41,5 +41,5 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b2730a47bbe7141fdfe0eb2cdba7"
     }
   ],
-  "lastUpdated": "2026-01-06T18:01:20.098261"
+  "lastUpdated": "2026-01-07T00:03:00.078601"
 }

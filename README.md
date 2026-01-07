@@ -11,6 +11,8 @@
 ```bash
 $ ps aux | grep "anime"
 Currently watching:
+  Journal with Witch
+  mofusand
   Azumanga Daioh
   One-Punch Man Season 3
 
@@ -51,7 +53,7 @@ manga_completed=125
 chapters_read="11.6k"
 
 $ echo $FAVORITE_GENRES
-comedy romance slice_of_life
+romance comedy slice_of_life
 
 $ uptime
 Life uptime: Making things work since forever
@@ -82,8 +84,8 @@ All entertainment metrics up to date
 | Cover | Track | Artist |
 |-------|-------|--------|
 <img src="https://i.scdn.co/image/ab67616d0000b27369ecc359541c8a49aae7716f" width="40" height="40" style="border-radius: 4px;" alt="bargad album cover"> | **[bargad](https://open.spotify.com/track/0Q9rHyEG7lME4y2Fqtuxgl)** | *sufr, Arpit Bala, toorjo dey*
-<img src="https://i.scdn.co/image/ab67616d0000b2738ec8e5fb201572f6b3039d8a" width="40" height="40" style="border-radius: 4px;" alt="Victory Lap Five album cover"> | **[Victory Lap Five](https://open.spotify.com/track/28dXOti2Sy7YQJP4af9wM3)** | *Fred again.., Skepta, Plaqueboymax, Denzel Curry, Hanumankind, That Mexican OT, D Double E, LYNY*
 <img src="https://i.scdn.co/image/ab67616d0000b273bc52b9838ebcfae5646a5457" width="40" height="40" style="border-radius: 4px;" alt="Pyari Amaanat album cover"> | **[Pyari Amaanat](https://open.spotify.com/track/2W5VC6Rgb8LONHLW8iIYeK)** | *Arpit Bala, A.O.D., Angad Virk*
+<img src="https://i.scdn.co/image/ab67616d0000b2738ec8e5fb201572f6b3039d8a" width="40" height="40" style="border-radius: 4px;" alt="Victory Lap Five album cover"> | **[Victory Lap Five](https://open.spotify.com/track/28dXOti2Sy7YQJP4af9wM3)** | *Fred again.., Skepta, Plaqueboymax, Denzel Curry, Hanumankind, That Mexican OT, D Double E, LYNY*
 <img src="https://i.scdn.co/image/ab67616d0000b2730961aa2e7a0495294eb329e3" width="40" height="40" style="border-radius: 4px;" alt="Sutta album cover"> | **[Sutta](https://open.spotify.com/track/3acvT3VlH1lePn5BhX9L4t)** | *Aditya Rikhari, Ravator*
 <img src="https://i.scdn.co/image/ab67616d0000b2730a47bbe7141fdfe0eb2cdba7" width="40" height="40" style="border-radius: 4px;" alt="Sahiba album cover"> | **[Sahiba](https://open.spotify.com/track/0eLtIxPRNJfsmehITZ1qaJ)** | *Aditya Rikhari*
 

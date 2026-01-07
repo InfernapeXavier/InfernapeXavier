@@ -28,6 +28,18 @@
   },
   "currentlyWatching": [
     {
+      "title": "Journal with Witch",
+      "progress": 0,
+      "totalEpisodes": 13,
+      "status": "RELEASING"
+    },
+    {
+      "title": "mofusand",
+      "progress": 0,
+      "totalEpisodes": null,
+      "status": "RELEASING"
+    },
+    {
       "title": "Azumanga Daioh",
       "progress": 1,
       "totalEpisodes": 26,
@@ -72,5 +84,5 @@
       "status": "FINISHED"
     }
   ],
-  "lastUpdated": "2026-01-06T18:01:19.497943Z"
+  "lastUpdated": "2026-01-07T00:02:59.475231Z"
 }
