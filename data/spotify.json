@@ -1,6 +1,14 @@
 {
   "topTracks": [
     {
+      "name": "4 Raws",
+      "artist": "EsDeeKid",
+      "album": "Rebel",
+      "external_url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT",
+      "popularity": 90,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b2732940ac3a182dac2a5ec72249"
+    },
+    {
       "name": "bargad",
       "artist": "sufr, Arpit Bala, toorjo dey",
       "album": "bargad",
@@ -15,14 +23,6 @@
       "external_url": "https://open.spotify.com/track/3acvT3VlH1lePn5BhX9L4t",
       "popularity": 51,
       "album_image": "https://i.scdn.co/image/ab67616d0000b2730961aa2e7a0495294eb329e3"
-    },
-    {
-      "name": "4 Raws",
-      "artist": "EsDeeKid",
-      "album": "Rebel",
-      "external_url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT",
-      "popularity": 90,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b2732940ac3a182dac2a5ec72249"
     },
     {
       "name": "Pyari Amaanat",
@@ -41,5 +41,5 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b273316fbc24c7980f936b238762"
     }
   ],
-  "lastUpdated": "2026-01-10T06:01:15.429432"
+  "lastUpdated": "2026-01-10T12:01:14.201517"
 }
