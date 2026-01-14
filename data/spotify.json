@@ -17,6 +17,14 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b27369ecc359541c8a49aae7716f"
     },
     {
+      "name": "NOW OR NEVER",
+      "artist": "Tkandz, CXSPER",
+      "album": "NOW OR NEVER",
+      "external_url": "https://open.spotify.com/track/4fUK2q5ERoi97E3g2kwB8c",
+      "popularity": 86,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b2730b595c04d170c2d49faac6fb"
+    },
+    {
       "name": "Pyari Amaanat",
       "artist": "Arpit Bala, A.O.D., Angad Virk",
       "album": "Keychain Laalu",
@@ -25,21 +33,13 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b273bc52b9838ebcfae5646a5457"
     },
     {
-      "name": "Sutta",
-      "artist": "Aditya Rikhari, Ravator",
-      "album": "Jaana",
-      "external_url": "https://open.spotify.com/track/3acvT3VlH1lePn5BhX9L4t",
-      "popularity": 52,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b2730961aa2e7a0495294eb329e3"
-    },
-    {
-      "name": "NOW OR NEVER",
-      "artist": "Tkandz, CXSPER",
-      "album": "NOW OR NEVER",
-      "external_url": "https://open.spotify.com/track/4fUK2q5ERoi97E3g2kwB8c",
-      "popularity": 86,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b2730b595c04d170c2d49faac6fb"
+      "name": "Saaye",
+      "artist": "The Yellow Diary, Shilpa Rao",
+      "album": "In Case We Forget",
+      "external_url": "https://open.spotify.com/track/2pvyXcmJ7plAiYA7z1LN01",
+      "popularity": 48,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273316fbc24c7980f936b238762"
     }
   ],
-  "lastUpdated": "2026-01-14T00:03:13.532725"
+  "lastUpdated": "2026-01-14T06:01:19.411425"
 }
