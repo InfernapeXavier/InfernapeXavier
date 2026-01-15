@@ -54,7 +54,7 @@ manga_completed=126
 chapters_read="11.7k"
 
 $ echo $FAVORITE_GENRES
-romance comedy slice_of_life
+comedy slice_of_life romance
 
 $ uptime
 Life uptime: Making things work since forever
@@ -87,8 +87,8 @@ All entertainment metrics up to date
 <img src="https://i.scdn.co/image/ab67616d0000b2732940ac3a182dac2a5ec72249" width="40" height="40" style="border-radius: 4px;" alt="4 Raws album cover"> | **[4 Raws](https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT)** | *EsDeeKid*
 <img src="https://i.scdn.co/image/ab67616d0000b27369ecc359541c8a49aae7716f" width="40" height="40" style="border-radius: 4px;" alt="bargad album cover"> | **[bargad](https://open.spotify.com/track/0Q9rHyEG7lME4y2Fqtuxgl)** | *sufr, Arpit Bala, toorjo dey*
 <img src="https://i.scdn.co/image/ab67616d0000b2730b595c04d170c2d49faac6fb" width="40" height="40" style="border-radius: 4px;" alt="NOW OR NEVER album cover"> | **[NOW OR NEVER](https://open.spotify.com/track/4fUK2q5ERoi97E3g2kwB8c)** | *Tkandz, CXSPER*
-<img src="https://i.scdn.co/image/ab67616d0000b273bc52b9838ebcfae5646a5457" width="40" height="40" style="border-radius: 4px;" alt="Pyari Amaanat album cover"> | **[Pyari Amaanat](https://open.spotify.com/track/2W5VC6Rgb8LONHLW8iIYeK)** | *Arpit Bala, A.O.D., Angad Virk*
 <img src="https://i.scdn.co/image/ab67616d0000b273316fbc24c7980f936b238762" width="40" height="40" style="border-radius: 4px;" alt="Saaye album cover"> | **[Saaye](https://open.spotify.com/track/2pvyXcmJ7plAiYA7z1LN01)** | *The Yellow Diary, Shilpa Rao*
+<img src="https://i.scdn.co/image/ab67616d0000b273bc52b9838ebcfae5646a5457" width="40" height="40" style="border-radius: 4px;" alt="Pyari Amaanat album cover"> | **[Pyari Amaanat](https://open.spotify.com/track/2W5VC6Rgb8LONHLW8iIYeK)** | *Arpit Bala, A.O.D., Angad Virk*
 
 </td>
 </tr>
