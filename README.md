@@ -11,11 +11,11 @@
 ```bash
 $ ps aux | grep "anime"
 Currently watching:
+  Frieren: Beyond Journey’s End Season 2
   Journal with Witch
   mofusand
   The Demon King's Daughter is Too Kind!!
   Azumanga Daioh
-  One-Punch Man Season 3
 
 $ echo "Anime processes active"
 ```
@@ -54,7 +54,7 @@ manga_completed=126
 chapters_read="11.7k"
 
 $ echo $FAVORITE_GENRES
-slice_of_life romance comedy
+comedy slice_of_life romance
 
 $ uptime
 Life uptime: Making things work since forever
