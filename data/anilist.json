@@ -28,9 +28,21 @@
   },
   "currentlyWatching": [
     {
+      "title": "Hell\u2019s Paradise Season 2",
+      "progress": 1,
+      "totalEpisodes": 12,
+      "status": "RELEASING"
+    },
+    {
       "title": "Frieren: Beyond Journey\u2019s End Season 2",
-      "progress": 0,
+      "progress": 1,
       "totalEpisodes": 10,
+      "status": "RELEASING"
+    },
+    {
+      "title": "JUJUTSU KAISEN Season 3: The Culling Game Part 1",
+      "progress": 3,
+      "totalEpisodes": 12,
       "status": "RELEASING"
     },
     {
@@ -44,18 +56,6 @@
       "progress": 0,
       "totalEpisodes": null,
       "status": "RELEASING"
-    },
-    {
-      "title": "The Demon King's Daughter is Too Kind!!",
-      "progress": 0,
-      "totalEpisodes": 12,
-      "status": "RELEASING"
-    },
-    {
-      "title": "Azumanga Daioh",
-      "progress": 1,
-      "totalEpisodes": 26,
-      "status": "FINISHED"
     }
   ],
   "currentlyReading": [
@@ -90,5 +90,5 @@
       "status": "FINISHED"
     }
   ],
-  "lastUpdated": "2026-01-18T18:01:01.772166Z"
+  "lastUpdated": "2026-01-19T00:03:12.551615Z"
 }
