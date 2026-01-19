@@ -29,7 +29,7 @@
   "currentlyWatching": [
     {
       "title": "Hell\u2019s Paradise Season 2",
-      "progress": 1,
+      "progress": 2,
       "totalEpisodes": 12,
       "status": "RELEASING"
     },
@@ -52,9 +52,9 @@
       "status": "RELEASING"
     },
     {
-      "title": "mofusand",
-      "progress": 0,
-      "totalEpisodes": null,
+      "title": "The Demon King's Daughter is Too Kind!!",
+      "progress": 1,
+      "totalEpisodes": 12,
       "status": "RELEASING"
     }
   ],
@@ -90,5 +90,5 @@
       "status": "FINISHED"
     }
   ],
-  "lastUpdated": "2026-01-19T00:03:12.551615Z"
+  "lastUpdated": "2026-01-19T06:03:05.050116Z"
 }

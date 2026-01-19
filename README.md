@@ -15,7 +15,7 @@ Currently watching:
   Frieren: Beyond Journey’s End Season 2
   JUJUTSU KAISEN Season 3: The Culling Game Part 1
   Journal with Witch
-  mofusand
+  The Demon King's Daughter is Too Kind!!
 
 $ echo "Anime processes active"
 ```
@@ -54,7 +54,7 @@ manga_completed=126
 chapters_read="11.7k"
 
 $ echo $FAVORITE_GENRES
-slice_of_life romance comedy
+comedy romance slice_of_life
 
 $ uptime
 Life uptime: Making things work since forever
