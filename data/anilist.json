@@ -29,19 +29,19 @@
   "currentlyWatching": [
     {
       "title": "Hell\u2019s Paradise Season 2",
-      "progress": 2,
+      "progress": 3,
       "totalEpisodes": 12,
       "status": "RELEASING"
     },
     {
       "title": "Frieren: Beyond Journey\u2019s End Season 2",
-      "progress": 1,
+      "progress": 2,
       "totalEpisodes": 10,
       "status": "RELEASING"
     },
     {
       "title": "JUJUTSU KAISEN Season 3: The Culling Game Part 1",
-      "progress": 3,
+      "progress": 4,
       "totalEpisodes": 12,
       "status": "RELEASING"
     },
@@ -90,5 +90,5 @@
       "status": "FINISHED"
     }
   ],
-  "lastUpdated": "2026-01-26T00:03:09.034505Z"
+  "lastUpdated": "2026-01-26T06:02:28.311920Z"
 }
