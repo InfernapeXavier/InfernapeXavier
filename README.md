@@ -54,7 +54,7 @@ manga_completed=126
 chapters_read="11.7k"
 
 $ echo $FAVORITE_GENRES
-comedy romance slice_of_life
+slice_of_life comedy romance
 
 $ uptime
 Life uptime: Making things work since forever
@@ -86,9 +86,9 @@ All entertainment metrics up to date
 |-------|-------|--------|
 <img src="https://i.scdn.co/image/ab67616d0000b2732940ac3a182dac2a5ec72249" width="40" height="40" style="border-radius: 4px;" alt="4 Raws album cover"> | **[4 Raws](https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT)** | *EsDeeKid*
 <img src="https://i.scdn.co/image/ab67616d0000b2730b595c04d170c2d49faac6fb" width="40" height="40" style="border-radius: 4px;" alt="NOW OR NEVER album cover"> | **[NOW OR NEVER](https://open.spotify.com/track/4fUK2q5ERoi97E3g2kwB8c)** | *Tkandz, CXSPER*
-<img src="https://i.scdn.co/image/ab67616d0000b2730961aa2e7a0495294eb329e3" width="40" height="40" style="border-radius: 4px;" alt="Sutta album cover"> | **[Sutta](https://open.spotify.com/track/3acvT3VlH1lePn5BhX9L4t)** | *Aditya Rikhari, Ravator*
-<img src="https://i.scdn.co/image/ab67616d0000b27369ecc359541c8a49aae7716f" width="40" height="40" style="border-radius: 4px;" alt="bargad album cover"> | **[bargad](https://open.spotify.com/track/0Q9rHyEG7lME4y2Fqtuxgl)** | *sufr, Arpit Bala, toorjo dey*
 <img src="https://i.scdn.co/image/ab67616d0000b273316fbc24c7980f936b238762" width="40" height="40" style="border-radius: 4px;" alt="Saaye album cover"> | **[Saaye](https://open.spotify.com/track/2pvyXcmJ7plAiYA7z1LN01)** | *The Yellow Diary, Shilpa Rao*
+<img src="https://i.scdn.co/image/ab67616d0000b2730961aa2e7a0495294eb329e3" width="40" height="40" style="border-radius: 4px;" alt="Sutta album cover"> | **[Sutta](https://open.spotify.com/track/3acvT3VlH1lePn5BhX9L4t)** | *Aditya Rikhari, Ravator*
+<img src="https://i.scdn.co/image/ab67616d0000b2730a47bbe7141fdfe0eb2cdba7" width="40" height="40" style="border-radius: 4px;" alt="Sahiba album cover"> | **[Sahiba](https://open.spotify.com/track/0eLtIxPRNJfsmehITZ1qaJ)** | *Aditya Rikhari*
 
 </td>
 </tr>
