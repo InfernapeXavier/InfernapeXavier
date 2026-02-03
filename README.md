@@ -49,12 +49,12 @@ rohit@dev:~$
 
 $ cat ~/.media_stats
 anime_completed=239
-time_watched="49d 18h"
+time_watched="49d 19h"
 manga_completed=126
 chapters_read="11.7k"
 
 $ echo $FAVORITE_GENRES
-comedy slice_of_life romance
+slice_of_life romance comedy
 
 $ uptime
 Life uptime: Making things work since forever
@@ -86,8 +86,8 @@ All entertainment metrics up to date
 |-------|-------|--------|
 <img src="https://i.scdn.co/image/ab67616d0000b2732940ac3a182dac2a5ec72249" width="40" height="40" style="border-radius: 4px;" alt="4 Raws album cover"> | **[4 Raws](https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT)** | *EsDeeKid*
 <img src="https://i.scdn.co/image/ab67616d0000b2730b595c04d170c2d49faac6fb" width="40" height="40" style="border-radius: 4px;" alt="NOW OR NEVER album cover"> | **[NOW OR NEVER](https://open.spotify.com/track/4fUK2q5ERoi97E3g2kwB8c)** | *Tkandz, CXSPER*
-<img src="https://i.scdn.co/image/ab67616d0000b273316fbc24c7980f936b238762" width="40" height="40" style="border-radius: 4px;" alt="Saaye album cover"> | **[Saaye](https://open.spotify.com/track/2pvyXcmJ7plAiYA7z1LN01)** | *The Yellow Diary, Shilpa Rao*
 <img src="https://i.scdn.co/image/ab67616d0000b27383d60709f3098090e5e91c7e" width="40" height="40" style="border-radius: 4px;" alt="Paapam album cover"> | **[Paapam](https://open.spotify.com/track/7AObZ2Yick368Dk7K6pLgg)** | *Aksomaniac, Fatboi Raccoon, Shreyas*
+<img src="https://i.scdn.co/image/ab67616d0000b273316fbc24c7980f936b238762" width="40" height="40" style="border-radius: 4px;" alt="Saaye album cover"> | **[Saaye](https://open.spotify.com/track/2pvyXcmJ7plAiYA7z1LN01)** | *The Yellow Diary, Shilpa Rao*
 <img src="https://i.scdn.co/image/ab67616d0000b27363f6751df62b41fff36e839e" width="40" height="40" style="border-radius: 4px;" alt="pack up ya bags album cover"> | **[pack up ya bags](https://open.spotify.com/track/7w5jefRiOIEs0M5udJxyhd)** | *KTmelodies*
 
 </td>
