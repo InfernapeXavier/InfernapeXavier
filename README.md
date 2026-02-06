@@ -15,7 +15,7 @@ Currently watching:
   Frieren: Beyond Journey’s End Season 2
   JUJUTSU KAISEN Season 3: The Culling Game Part 1
   Journal with Witch
-  The Demon King's Daughter is Too Kind!!
+  Tamon's B-Side
 
 $ echo "Anime processes active"
 ```
@@ -51,10 +51,10 @@ $ cat ~/.media_stats
 anime_completed=239
 time_watched="49d 19h"
 manga_completed=126
-chapters_read="11.7k"
+chapters_read="11.8k"
 
 $ echo $FAVORITE_GENRES
-romance slice_of_life comedy
+slice_of_life romance comedy
 
 $ uptime
 Life uptime: Making things work since forever
