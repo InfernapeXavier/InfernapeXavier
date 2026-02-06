@@ -54,7 +54,7 @@ manga_completed=126
 chapters_read="11.8k"
 
 $ echo $FAVORITE_GENRES
-slice_of_life romance comedy
+comedy slice_of_life romance
 
 $ uptime
 Life uptime: Making things work since forever
@@ -84,7 +84,7 @@ All entertainment metrics up to date
 
 | Cover | Track | Artist |
 |-------|-------|--------|
-<img src="https://i.scdn.co/image/ab67616d0000b2732940ac3a182dac2a5ec72249" width="40" height="40" style="border-radius: 4px;" alt="4 Raws album cover"> | **[4 Raws](https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT)** | *EsDeeKid*
+<img src="https://i.scdn.co/image/ab67616d0000b273cff4bd68d5d0dd9a0a748045" width="40" height="40" style="border-radius: 4px;" alt="4 Raws album cover"> | **[4 Raws](https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT)** | *EsDeeKid*
 <img src="https://i.scdn.co/image/ab67616d0000b273a48007fbc868feaa0ce50011" width="40" height="40" style="border-radius: 4px;" alt="NOW OR NEVER album cover"> | **[NOW OR NEVER](https://open.spotify.com/track/4fUK2q5ERoi97E3g2kwB8c)** | *Tkandz, CXSPER*
 <img src="https://i.scdn.co/image/ab67616d0000b27383d60709f3098090e5e91c7e" width="40" height="40" style="border-radius: 4px;" alt="Paapam album cover"> | **[Paapam](https://open.spotify.com/track/7AObZ2Yick368Dk7K6pLgg)** | *Aksomaniac, Fatboi Raccoon, Shreyas*
 <img src="https://i.scdn.co/image/ab67616d0000b27363f6751df62b41fff36e839e" width="40" height="40" style="border-radius: 4px;" alt="pack up ya bags album cover"> | **[pack up ya bags](https://open.spotify.com/track/7w5jefRiOIEs0M5udJxyhd)** | *KTmelodies*
