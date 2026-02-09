@@ -9,14 +9,6 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b273a48007fbc868feaa0ce50011"
     },
     {
-      "name": "4 Raws",
-      "artist": "EsDeeKid",
-      "album": "Rebel",
-      "external_url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT",
-      "popularity": 91,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273cff4bd68d5d0dd9a0a748045"
-    },
-    {
       "name": "pack up ya bags",
       "artist": "KTmelodies",
       "album": "pack up ya bags",
@@ -25,12 +17,20 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b27363f6751df62b41fff36e839e"
     },
     {
-      "name": "Evergreen Misery",
-      "artist": "MOTHICA",
-      "album": "Evergreen Misery",
-      "external_url": "https://open.spotify.com/track/1ypA3UK8yindQars9vhhWx",
-      "popularity": 52,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273dc9eff933178706824a39536"
+      "name": "4 Raws",
+      "artist": "EsDeeKid",
+      "album": "Rebel",
+      "external_url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT",
+      "popularity": 91,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273cff4bd68d5d0dd9a0a748045"
+    },
+    {
+      "name": "PUNK ROCKY",
+      "artist": "A$AP Rocky",
+      "album": "Don't Be Dumb",
+      "external_url": "https://open.spotify.com/track/1AXsHbdIYx2OyKmdOcIL5T",
+      "popularity": 78,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413"
     },
     {
       "name": "Sahiba",
@@ -41,5 +41,5 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b2730a47bbe7141fdfe0eb2cdba7"
     }
   ],
-  "lastUpdated": "2026-02-09T06:18:59.151579"
+  "lastUpdated": "2026-02-09T12:08:42.514791"
 }

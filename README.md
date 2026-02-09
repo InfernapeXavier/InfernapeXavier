@@ -54,7 +54,7 @@ manga_completed=126
 chapters_read="11.8k"
 
 $ echo $FAVORITE_GENRES
-slice_of_life romance comedy
+comedy romance slice_of_life
 
 $ uptime
 Life uptime: Making things work since forever
@@ -85,9 +85,9 @@ All entertainment metrics up to date
 | Cover | Track | Artist |
 |-------|-------|--------|
 <img src="https://i.scdn.co/image/ab67616d0000b273a48007fbc868feaa0ce50011" width="40" height="40" style="border-radius: 4px;" alt="NOW OR NEVER album cover"> | **[NOW OR NEVER](https://open.spotify.com/track/4fUK2q5ERoi97E3g2kwB8c)** | *Tkandz, CXSPER*
-<img src="https://i.scdn.co/image/ab67616d0000b273cff4bd68d5d0dd9a0a748045" width="40" height="40" style="border-radius: 4px;" alt="4 Raws album cover"> | **[4 Raws](https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT)** | *EsDeeKid*
 <img src="https://i.scdn.co/image/ab67616d0000b27363f6751df62b41fff36e839e" width="40" height="40" style="border-radius: 4px;" alt="pack up ya bags album cover"> | **[pack up ya bags](https://open.spotify.com/track/7w5jefRiOIEs0M5udJxyhd)** | *KTmelodies*
-<img src="https://i.scdn.co/image/ab67616d0000b273dc9eff933178706824a39536" width="40" height="40" style="border-radius: 4px;" alt="Evergreen Misery album cover"> | **[Evergreen Misery](https://open.spotify.com/track/1ypA3UK8yindQars9vhhWx)** | *MOTHICA*
+<img src="https://i.scdn.co/image/ab67616d0000b273cff4bd68d5d0dd9a0a748045" width="40" height="40" style="border-radius: 4px;" alt="4 Raws album cover"> | **[4 Raws](https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT)** | *EsDeeKid*
+<img src="https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413" width="40" height="40" style="border-radius: 4px;" alt="PUNK ROCKY album cover"> | **[PUNK ROCKY](https://open.spotify.com/track/1AXsHbdIYx2OyKmdOcIL5T)** | *A$AP Rocky*
 <img src="https://i.scdn.co/image/ab67616d0000b2730a47bbe7141fdfe0eb2cdba7" width="40" height="40" style="border-radius: 4px;" alt="Sahiba album cover"> | **[Sahiba](https://open.spotify.com/track/0eLtIxPRNJfsmehITZ1qaJ)** | *Aditya Rikhari*
 
 </td>
