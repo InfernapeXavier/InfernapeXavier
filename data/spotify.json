@@ -17,14 +17,6 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b27363f6751df62b41fff36e839e"
     },
     {
-      "name": "4 Raws",
-      "artist": "EsDeeKid",
-      "album": "Rebel",
-      "external_url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT",
-      "popularity": 91,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273cff4bd68d5d0dd9a0a748045"
-    },
-    {
       "name": "PUNK ROCKY",
       "artist": "A$AP Rocky",
       "album": "Don't Be Dumb",
@@ -39,7 +31,15 @@
       "external_url": "https://open.spotify.com/track/0eLtIxPRNJfsmehITZ1qaJ",
       "popularity": 87,
       "album_image": "https://i.scdn.co/image/ab67616d0000b2730a47bbe7141fdfe0eb2cdba7"
+    },
+    {
+      "name": "Evergreen Misery",
+      "artist": "MOTHICA",
+      "album": "Evergreen Misery",
+      "external_url": "https://open.spotify.com/track/1ypA3UK8yindQars9vhhWx",
+      "popularity": 52,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273dc9eff933178706824a39536"
     }
   ],
-  "lastUpdated": "2026-02-10T18:16:17.959722"
+  "lastUpdated": "2026-02-11T00:09:39.079258"
 }
