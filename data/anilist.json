@@ -35,13 +35,13 @@
     },
     {
       "title": "Frieren: Beyond Journey\u2019s End Season 2",
-      "progress": 2,
+      "progress": 5,
       "totalEpisodes": 10,
       "status": "RELEASING"
     },
     {
       "title": "JUJUTSU KAISEN Season 3: The Culling Game Part 1",
-      "progress": 5,
+      "progress": 7,
       "totalEpisodes": 12,
       "status": "RELEASING"
     },
@@ -90,5 +90,5 @@
       "status": "FINISHED"
     }
   ],
-  "lastUpdated": "2026-02-17T00:06:04.204238Z"
+  "lastUpdated": "2026-02-17T06:15:43.603240Z"
 }
