@@ -4,7 +4,7 @@
     "stats": {
       "anime": {
         "count": 239,
-        "minutesWatched": 71746,
+        "minutesWatched": 71866,
         "topGenres": [
           "Comedy",
           "Slice of Life",
@@ -90,5 +90,5 @@
       "status": "FINISHED"
     }
   ],
-  "lastUpdated": "2026-02-17T12:05:57.372464Z"
+  "lastUpdated": "2026-02-17T18:13:10.998838Z"
 }
