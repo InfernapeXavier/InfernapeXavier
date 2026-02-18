@@ -50,11 +50,11 @@ rohit@dev:~$
 $ cat ~/.media_stats
 anime_completed=239
 time_watched="49d 21h"
-manga_completed=127
-chapters_read="11.8k"
+manga_completed=128
+chapters_read="11.9k"
 
 $ echo $FAVORITE_GENRES
-slice_of_life comedy romance
+romance slice_of_life comedy
 
 $ uptime
 Life uptime: Making things work since forever
@@ -87,8 +87,8 @@ All entertainment metrics up to date
 <img src="https://i.scdn.co/image/ab67616d0000b27304316985c2c333c86874dad3" width="40" height="40" style="border-radius: 4px;" alt="LOVE YOU LESS album cover"> | **[LOVE YOU LESS](https://open.spotify.com/track/4eFV1LfWlYCVJnPTuSo3db)** | *Joji*
 <img src="https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413" width="40" height="40" style="border-radius: 4px;" alt="PUNK ROCKY album cover"> | **[PUNK ROCKY](https://open.spotify.com/track/1AXsHbdIYx2OyKmdOcIL5T)** | *A$AP Rocky*
 <img src="https://i.scdn.co/image/ab67616d0000b2730a47bbe7141fdfe0eb2cdba7" width="40" height="40" style="border-radius: 4px;" alt="Sahiba album cover"> | **[Sahiba](https://open.spotify.com/track/0eLtIxPRNJfsmehITZ1qaJ)** | *Aditya Rikhari*
-<img src="https://i.scdn.co/image/ab67616d0000b27363f6751df62b41fff36e839e" width="40" height="40" style="border-radius: 4px;" alt="pack up ya bags album cover"> | **[pack up ya bags](https://open.spotify.com/track/7w5jefRiOIEs0M5udJxyhd)** | *KTmelodies*
 <img src="https://i.scdn.co/image/ab67616d0000b2739314bf4bfe684de1f7d7cfcf" width="40" height="40" style="border-radius: 4px;" alt="ASIAN STATE OF MIND album cover"> | **[ASIAN STATE OF MIND](https://open.spotify.com/track/11bFXOKzUz5XBK9JSkRs0S)** | *Awich, Jay Park, KR$NA, Masiwei, VannDa*
+<img src="https://i.scdn.co/image/ab67616d0000b2731c0bcafaf7021c73f4d71d7f" width="40" height="40" style="border-radius: 4px;" alt="Afterthought album cover"> | **[Afterthought](https://open.spotify.com/track/4JJHiKWbbw9i7VYCBmHl8M)** | *The Band CAMINO*
 
 </td>
 </tr>
