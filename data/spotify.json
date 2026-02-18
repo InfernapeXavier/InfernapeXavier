@@ -1,28 +1,20 @@
 {
   "topTracks": [
     {
-      "name": "PUNK ROCKY",
-      "artist": "A$AP Rocky",
-      "album": "Don't Be Dumb",
-      "external_url": "https://open.spotify.com/track/1AXsHbdIYx2OyKmdOcIL5T",
-      "popularity": 77,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413"
-    },
-    {
-      "name": "Afterthought",
-      "artist": "The Band CAMINO",
-      "album": "Afterthought",
-      "external_url": "https://open.spotify.com/track/4JJHiKWbbw9i7VYCBmHl8M",
-      "popularity": 58,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b2731c0bcafaf7021c73f4d71d7f"
-    },
-    {
       "name": "LOVE YOU LESS",
       "artist": "Joji",
       "album": "Piss In The Wind",
       "external_url": "https://open.spotify.com/track/4eFV1LfWlYCVJnPTuSo3db",
       "popularity": 74,
       "album_image": "https://i.scdn.co/image/ab67616d0000b27304316985c2c333c86874dad3"
+    },
+    {
+      "name": "PUNK ROCKY",
+      "artist": "A$AP Rocky",
+      "album": "Don't Be Dumb",
+      "external_url": "https://open.spotify.com/track/1AXsHbdIYx2OyKmdOcIL5T",
+      "popularity": 77,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413"
     },
     {
       "name": "Sahiba",
@@ -39,7 +31,15 @@
       "external_url": "https://open.spotify.com/track/1ypA3UK8yindQars9vhhWx",
       "popularity": 51,
       "album_image": "https://i.scdn.co/image/ab67616d0000b273dc9eff933178706824a39536"
+    },
+    {
+      "name": "pack up ya bags",
+      "artist": "KTmelodies",
+      "album": "pack up ya bags",
+      "external_url": "https://open.spotify.com/track/7w5jefRiOIEs0M5udJxyhd",
+      "popularity": 68,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b27363f6751df62b41fff36e839e"
     }
   ],
-  "lastUpdated": "2026-02-17T18:13:11.653277"
+  "lastUpdated": "2026-02-18T00:06:15.359852"
 }
