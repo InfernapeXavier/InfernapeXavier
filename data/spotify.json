@@ -17,14 +17,6 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b2730a47bbe7141fdfe0eb2cdba7"
     },
     {
-      "name": "ASIAN STATE OF MIND",
-      "artist": "Awich, Jay Park, KR$NA, Masiwei, VannDa",
-      "album": "ASIAN STATE OF MIND",
-      "external_url": "https://open.spotify.com/track/11bFXOKzUz5XBK9JSkRs0S",
-      "popularity": 42,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b2739314bf4bfe684de1f7d7cfcf"
-    },
-    {
       "name": "Evergreen Misery",
       "artist": "MOTHICA",
       "album": "Evergreen Misery",
@@ -33,13 +25,21 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b273dc9eff933178706824a39536"
     },
     {
+      "name": "ASIAN STATE OF MIND",
+      "artist": "Awich, Jay Park, KR$NA, Masiwei, VannDa",
+      "album": "ASIAN STATE OF MIND",
+      "external_url": "https://open.spotify.com/track/11bFXOKzUz5XBK9JSkRs0S",
+      "popularity": 42,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b2739314bf4bfe684de1f7d7cfcf"
+    },
+    {
       "name": "Silhouette Man",
       "artist": "Joji",
       "album": "Piss In The Wind",
       "external_url": "https://open.spotify.com/track/6N62mjYooOWpfGlQrYu1Oo",
-      "popularity": 70,
+      "popularity": 69,
       "album_image": "https://i.scdn.co/image/ab67616d0000b27304316985c2c333c86874dad3"
     }
   ],
-  "lastUpdated": "2026-02-23T06:18:25.605536"
+  "lastUpdated": "2026-02-23T12:06:06.702211"
 }
