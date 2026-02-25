@@ -54,7 +54,7 @@ manga_completed=128
 chapters_read="12.0k"
 
 $ echo $FAVORITE_GENRES
-slice_of_life romance comedy
+comedy slice_of_life romance
 
 $ uptime
 Life uptime: Making things work since forever
@@ -86,9 +86,9 @@ All entertainment metrics up to date
 |-------|-------|--------|
 <img src="https://i.scdn.co/image/ab67616d0000b27304316985c2c333c86874dad3" width="40" height="40" style="border-radius: 4px;" alt="LOVE YOU LESS album cover"> | **[LOVE YOU LESS](https://open.spotify.com/track/4eFV1LfWlYCVJnPTuSo3db)** | *Joji*
 <img src="https://i.scdn.co/image/ab67616d0000b27304316985c2c333c86874dad3" width="40" height="40" style="border-radius: 4px;" alt="Silhouette Man album cover"> | **[Silhouette Man](https://open.spotify.com/track/6N62mjYooOWpfGlQrYu1Oo)** | *Joji*
+<img src="https://i.scdn.co/image/ab67616d0000b2739314bf4bfe684de1f7d7cfcf" width="40" height="40" style="border-radius: 4px;" alt="ASIAN STATE OF MIND album cover"> | **[ASIAN STATE OF MIND](https://open.spotify.com/track/11bFXOKzUz5XBK9JSkRs0S)** | *Awich, Jay Park, KR$NA, Masiwei, VannDa*
 <img src="https://i.scdn.co/image/ab67616d0000b273e40943a736890936f2612520" width="40" height="40" style="border-radius: 4px;" alt="We Should Have Sex album cover"> | **[We Should Have Sex](https://open.spotify.com/track/0A7EQsiqcR2PZotiKkseE4)** | *Call Me Karizma, NESYA*
 <img src="https://i.scdn.co/image/ab67616d0000b273dc9eff933178706824a39536" width="40" height="40" style="border-radius: 4px;" alt="Evergreen Misery album cover"> | **[Evergreen Misery](https://open.spotify.com/track/1ypA3UK8yindQars9vhhWx)** | *MOTHICA*
-<img src="https://i.scdn.co/image/ab67616d0000b2739314bf4bfe684de1f7d7cfcf" width="40" height="40" style="border-radius: 4px;" alt="ASIAN STATE OF MIND album cover"> | **[ASIAN STATE OF MIND](https://open.spotify.com/track/11bFXOKzUz5XBK9JSkRs0S)** | *Awich, Jay Park, KR$NA, Masiwei, VannDa*
 
 </td>
 </tr>
