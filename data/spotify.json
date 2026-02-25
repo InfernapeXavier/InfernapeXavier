@@ -17,14 +17,6 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b27304316985c2c333c86874dad3"
     },
     {
-      "name": "Afterthought",
-      "artist": "The Band CAMINO",
-      "album": "Afterthought",
-      "external_url": "https://open.spotify.com/track/4JJHiKWbbw9i7VYCBmHl8M",
-      "popularity": 57,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b2731c0bcafaf7021c73f4d71d7f"
-    },
-    {
       "name": "We Should Have Sex",
       "artist": "Call Me Karizma, NESYA",
       "album": "We Should Have Sex",
@@ -39,7 +31,15 @@
       "external_url": "https://open.spotify.com/track/1ypA3UK8yindQars9vhhWx",
       "popularity": 50,
       "album_image": "https://i.scdn.co/image/ab67616d0000b273dc9eff933178706824a39536"
+    },
+    {
+      "name": "ASIAN STATE OF MIND",
+      "artist": "Awich, Jay Park, KR$NA, Masiwei, VannDa",
+      "album": "ASIAN STATE OF MIND",
+      "external_url": "https://open.spotify.com/track/11bFXOKzUz5XBK9JSkRs0S",
+      "popularity": 41,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b2739314bf4bfe684de1f7d7cfcf"
     }
   ],
-  "lastUpdated": "2026-02-24T18:14:53.929966"
+  "lastUpdated": "2026-02-25T00:07:02.580455"
 }
