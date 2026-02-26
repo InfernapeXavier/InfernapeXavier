@@ -29,7 +29,7 @@
   "currentlyWatching": [
     {
       "title": "Hell\u2019s Paradise Season 2",
-      "progress": 4,
+      "progress": 6,
       "totalEpisodes": 12,
       "status": "RELEASING"
     },
@@ -47,13 +47,13 @@
     },
     {
       "title": "Journal with Witch",
-      "progress": 5,
+      "progress": 7,
       "totalEpisodes": 13,
       "status": "RELEASING"
     },
     {
       "title": "Tamon's B-Side",
-      "progress": 6,
+      "progress": 8,
       "totalEpisodes": 13,
       "status": "RELEASING"
     }
@@ -90,5 +90,5 @@
       "status": "FINISHED"
     }
   ],
-  "lastUpdated": "2026-02-26T12:07:31.349909Z"
+  "lastUpdated": "2026-02-26T18:11:08.941568Z"
 }
