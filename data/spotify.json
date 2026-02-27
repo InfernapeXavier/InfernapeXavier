@@ -17,14 +17,6 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b27304316985c2c333c86874dad3"
     },
     {
-      "name": "ASIAN STATE OF MIND",
-      "artist": "Awich, Jay Park, KR$NA, Masiwei, VannDa",
-      "album": "ASIAN STATE OF MIND",
-      "external_url": "https://open.spotify.com/track/11bFXOKzUz5XBK9JSkRs0S",
-      "popularity": 41,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b2739314bf4bfe684de1f7d7cfcf"
-    },
-    {
       "name": "We Should Have Sex",
       "artist": "Call Me Karizma, NESYA",
       "album": "We Should Have Sex",
@@ -39,7 +31,15 @@
       "external_url": "https://open.spotify.com/track/1ypA3UK8yindQars9vhhWx",
       "popularity": 50,
       "album_image": "https://i.scdn.co/image/ab67616d0000b273dc9eff933178706824a39536"
+    },
+    {
+      "name": "ASIAN STATE OF MIND",
+      "artist": "Awich, Jay Park, KR$NA, Masiwei, VannDa",
+      "album": "ASIAN STATE OF MIND",
+      "external_url": "https://open.spotify.com/track/11bFXOKzUz5XBK9JSkRs0S",
+      "popularity": 41,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b2739314bf4bfe684de1f7d7cfcf"
     }
   ],
-  "lastUpdated": "2026-02-27T00:06:20.451216"
+  "lastUpdated": "2026-02-27T06:12:29.644660"
 }
