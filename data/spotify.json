@@ -17,14 +17,6 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b27304316985c2c333c86874dad3"
     },
     {
-      "name": "We Should Have Sex",
-      "artist": "Call Me Karizma, NESYA",
-      "album": "We Should Have Sex",
-      "external_url": "https://open.spotify.com/track/0A7EQsiqcR2PZotiKkseE4",
-      "popularity": 49,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273e40943a736890936f2612520"
-    },
-    {
       "name": "Evergreen Misery",
       "artist": "MOTHICA",
       "album": "Evergreen Misery",
@@ -39,7 +31,15 @@
       "external_url": "https://open.spotify.com/track/11bFXOKzUz5XBK9JSkRs0S",
       "popularity": 41,
       "album_image": "https://i.scdn.co/image/ab67616d0000b2739314bf4bfe684de1f7d7cfcf"
+    },
+    {
+      "name": "PUNK ROCKY",
+      "artist": "A$AP Rocky",
+      "album": "Don't Be Dumb",
+      "external_url": "https://open.spotify.com/track/1AXsHbdIYx2OyKmdOcIL5T",
+      "popularity": 75,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273be35d523672e13da3debc413"
     }
   ],
-  "lastUpdated": "2026-02-27T18:06:38.984864"
+  "lastUpdated": "2026-02-28T00:03:48.338328"
 }
