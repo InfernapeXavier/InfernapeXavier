@@ -54,7 +54,7 @@ manga_completed=128
 chapters_read="12.0k"
 
 $ echo $FAVORITE_GENRES
-slice_of_life romance comedy
+comedy slice_of_life romance
 
 $ uptime
 Life uptime: Making things work since forever
@@ -86,8 +86,8 @@ All entertainment metrics up to date
 |-------|-------|--------|
 <img src="https://i.scdn.co/image/ab67616d0000b27304316985c2c333c86874dad3" width="40" height="40" style="border-radius: 4px;" alt="LOVE YOU LESS album cover"> | **[LOVE YOU LESS](https://open.spotify.com/track/4eFV1LfWlYCVJnPTuSo3db)** | *Joji*
 <img src="https://i.scdn.co/image/ab67616d0000b27304316985c2c333c86874dad3" width="40" height="40" style="border-radius: 4px;" alt="Silhouette Man album cover"> | **[Silhouette Man](https://open.spotify.com/track/6N62mjYooOWpfGlQrYu1Oo)** | *Joji*
+<img src="https://i.scdn.co/image/ab67616d0000b273d74fe76840e79608423dde84" width="40" height="40" style="border-radius: 4px;" alt="Underestimated Your High album cover"> | **[Underestimated Your High](https://open.spotify.com/track/2AjNVP2138d2Ta1KZECtUR)** | *ufo ufo*
 <img src="https://i.scdn.co/image/ab67616d0000b273dc9eff933178706824a39536" width="40" height="40" style="border-radius: 4px;" alt="Evergreen Misery album cover"> | **[Evergreen Misery](https://open.spotify.com/track/1ypA3UK8yindQars9vhhWx)** | *MOTHICA*
-<img src="https://i.scdn.co/image/ab67616d0000b2730a47bbe7141fdfe0eb2cdba7" width="40" height="40" style="border-radius: 4px;" alt="Sahiba album cover"> | **[Sahiba](https://open.spotify.com/track/0eLtIxPRNJfsmehITZ1qaJ)** | *Aditya Rikhari*
 <img src="https://i.scdn.co/image/ab67616d0000b2739ed2fbea1327246f32878bae" width="40" height="40" style="border-radius: 4px;" alt="love that kills album cover"> | **[love that kills](https://open.spotify.com/track/1PbZNJH1hxL4fk3DGkbbYU)** | *lovelytheband*
 
 </td>
