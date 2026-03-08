@@ -1,20 +1,20 @@
 {
   "topTracks": [
     {
-      "name": "LOVE YOU LESS",
-      "artist": "Joji",
-      "album": "Piss In The Wind",
-      "external_url": "https://open.spotify.com/track/4eFV1LfWlYCVJnPTuSo3db",
-      "popularity": 74,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b27304316985c2c333c86874dad3"
-    },
-    {
       "name": "Underestimated Your High",
       "artist": "ufo ufo",
       "album": "Underestimated Your High",
       "external_url": "https://open.spotify.com/track/2AjNVP2138d2Ta1KZECtUR",
       "popularity": 54,
       "album_image": "https://i.scdn.co/image/ab67616d0000b273d74fe76840e79608423dde84"
+    },
+    {
+      "name": "LOVE YOU LESS",
+      "artist": "Joji",
+      "album": "Piss In The Wind",
+      "external_url": "https://open.spotify.com/track/4eFV1LfWlYCVJnPTuSo3db",
+      "popularity": 74,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b27304316985c2c333c86874dad3"
     },
     {
       "name": "Afterthought",
@@ -41,5 +41,5 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b2730a47bbe7141fdfe0eb2cdba7"
     }
   ],
-  "lastUpdated": "2026-03-08T00:04:12.661945"
+  "lastUpdated": "2026-03-08T06:08:11.077153"
 }
