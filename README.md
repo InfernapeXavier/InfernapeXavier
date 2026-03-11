@@ -88,7 +88,7 @@ All entertainment metrics up to date
 <img src="https://i.scdn.co/image/ab67616d0000b27304316985c2c333c86874dad3" width="40" height="40" style="border-radius: 4px;" alt="LOVE YOU LESS album cover"> | **[LOVE YOU LESS](https://open.spotify.com/track/4eFV1LfWlYCVJnPTuSo3db)** | *Joji*
 <img src="https://i.scdn.co/image/ab67616d0000b273203a6f1939936491557ba57a" width="40" height="40" style="border-radius: 4px;" alt="Afterthought album cover"> | **[Afterthought](https://open.spotify.com/track/4JJHiKWbbw9i7VYCBmHl8M)** | *The Band CAMINO*
 <img src="https://i.scdn.co/image/ab67616d0000b2730a47bbe7141fdfe0eb2cdba7" width="40" height="40" style="border-radius: 4px;" alt="Sahiba album cover"> | **[Sahiba](https://open.spotify.com/track/0eLtIxPRNJfsmehITZ1qaJ)** | *Aditya Rikhari*
-<img src="https://i.scdn.co/image/ab67616d0000b273629748353d1f855f1a103556" width="40" height="40" style="border-radius: 4px;" alt="Don't Even Text album cover"> | **[Don't Even Text](https://open.spotify.com/track/0pMACt1jSBlH8mKdaE1TSv)** | *Tsumyoki, gini*
+<img src="https://i.scdn.co/image/ab67616d0000b2736d7f6a0fd312fb31ca3f91fb" width="40" height="40" style="border-radius: 4px;" alt="Farebi album cover"> | **[Farebi](https://open.spotify.com/track/1Jsos1mzwTwYGOndYN5h8V)** | *Chaar Diwaari, Raftaar*
 
 </td>
 </tr>
