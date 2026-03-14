@@ -54,7 +54,7 @@ manga_completed=128
 chapters_read="12.0k"
 
 $ echo $FAVORITE_GENRES
-comedy romance slice_of_life
+romance comedy slice_of_life
 
 $ uptime
 Life uptime: Making things work since forever
@@ -85,10 +85,10 @@ All entertainment metrics up to date
 | Cover | Track | Artist |
 |-------|-------|--------|
 <img src="https://i.scdn.co/image/ab67616d0000b273d74fe76840e79608423dde84" width="40" height="40" style="border-radius: 4px;" alt="Underestimated Your High album cover"> | **[Underestimated Your High](https://open.spotify.com/track/2AjNVP2138d2Ta1KZECtUR)** | *ufo ufo*
-<img src="https://i.scdn.co/image/ab67616d0000b27304316985c2c333c86874dad3" width="40" height="40" style="border-radius: 4px;" alt="LOVE YOU LESS album cover"> | **[LOVE YOU LESS](https://open.spotify.com/track/4eFV1LfWlYCVJnPTuSo3db)** | *Joji*
 <img src="https://i.scdn.co/image/ab67616d0000b2736d7f6a0fd312fb31ca3f91fb" width="40" height="40" style="border-radius: 4px;" alt="Farebi album cover"> | **[Farebi](https://open.spotify.com/track/1Jsos1mzwTwYGOndYN5h8V)** | *Chaar Diwaari, Raftaar*
 <img src="https://i.scdn.co/image/ab67616d0000b27300702474f8e0e2b6155d48e3" width="40" height="40" style="border-radius: 4px;" alt="Part Of The Band album cover"> | **[Part Of The Band](https://open.spotify.com/track/14ixICAoSIt11QQGkNqQ7J)** | *The 1975*
-<img src="https://i.scdn.co/image/ab67616d0000b273203a6f1939936491557ba57a" width="40" height="40" style="border-radius: 4px;" alt="Afterthought album cover"> | **[Afterthought](https://open.spotify.com/track/4JJHiKWbbw9i7VYCBmHl8M)** | *The Band CAMINO*
+<img src="https://i.scdn.co/image/ab67616d0000b27304316985c2c333c86874dad3" width="40" height="40" style="border-radius: 4px;" alt="LOVE YOU LESS album cover"> | **[LOVE YOU LESS](https://open.spotify.com/track/4eFV1LfWlYCVJnPTuSo3db)** | *Joji*
+<img src="https://i.scdn.co/image/ab67616d0000b273629748353d1f855f1a103556" width="40" height="40" style="border-radius: 4px;" alt="Don't Even Text album cover"> | **[Don't Even Text](https://open.spotify.com/track/0pMACt1jSBlH8mKdaE1TSv)** | *Tsumyoki, gini*
 
 </td>
 </tr>
