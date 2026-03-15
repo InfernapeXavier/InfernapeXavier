@@ -9,6 +9,22 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b273d74fe76840e79608423dde84"
     },
     {
+      "name": "Afterthought",
+      "artist": "The Band CAMINO",
+      "album": "Afterthought",
+      "external_url": "https://open.spotify.com/track/4JJHiKWbbw9i7VYCBmHl8M",
+      "popularity": 57,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273203a6f1939936491557ba57a"
+    },
+    {
+      "name": "LOVE YOU LESS",
+      "artist": "Joji",
+      "album": "Piss In The Wind",
+      "external_url": "https://open.spotify.com/track/4eFV1LfWlYCVJnPTuSo3db",
+      "popularity": 74,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b27304316985c2c333c86874dad3"
+    },
+    {
       "name": "Farebi",
       "artist": "Chaar Diwaari, Raftaar",
       "album": "Farebi",
@@ -23,23 +39,7 @@
       "external_url": "https://open.spotify.com/track/14ixICAoSIt11QQGkNqQ7J",
       "popularity": 53,
       "album_image": "https://i.scdn.co/image/ab67616d0000b27300702474f8e0e2b6155d48e3"
-    },
-    {
-      "name": "LOVE YOU LESS",
-      "artist": "Joji",
-      "album": "Piss In The Wind",
-      "external_url": "https://open.spotify.com/track/4eFV1LfWlYCVJnPTuSo3db",
-      "popularity": 74,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b27304316985c2c333c86874dad3"
-    },
-    {
-      "name": "Don't Even Text",
-      "artist": "Tsumyoki, gini",
-      "album": "Don't Even Text",
-      "external_url": "https://open.spotify.com/track/0pMACt1jSBlH8mKdaE1TSv",
-      "popularity": 57,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273629748353d1f855f1a103556"
     }
   ],
-  "lastUpdated": "2026-03-14T18:03:05.607877"
+  "lastUpdated": "2026-03-15T00:06:24.736601"
 }
