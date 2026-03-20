@@ -17,14 +17,6 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b273203a6f1939936491557ba57a"
     },
     {
-      "name": "When You Know Someone",
-      "artist": "Valley",
-      "album": "Water the Flowers, Pray for a Garden",
-      "external_url": "https://open.spotify.com/track/4e4hweR6AcRDA52vpk4F79",
-      "popularity": 45,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273ea081f59b08e5bd011c84593"
-    },
-    {
       "name": "Hang Around",
       "artist": "Echosmith",
       "album": "Echosmith",
@@ -39,7 +31,15 @@
       "external_url": "https://open.spotify.com/track/0KJWZbtuvIdjal4URuxuPX",
       "popularity": 36,
       "album_image": "https://i.scdn.co/image/ab67616d0000b273055b5bd0088b6870a7857237"
+    },
+    {
+      "name": "labour",
+      "artist": "Paris Paloma",
+      "album": "Cacophony",
+      "external_url": "https://open.spotify.com/track/0e00DiF2T9znEdmWakYSC3",
+      "popularity": 73,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b27338c7e52477eeebf6b6dbb15c"
     }
   ],
-  "lastUpdated": "2026-03-20T00:06:01.970378"
+  "lastUpdated": "2026-03-20T06:12:38.443193"
 }
