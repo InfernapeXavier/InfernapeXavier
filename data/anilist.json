@@ -15,7 +15,7 @@
       },
       "manga": {
         "count": 128,
-        "chaptersRead": 12005,
+        "chaptersRead": 12006,
         "topGenres": [
           "Romance",
           "Comedy",
@@ -90,5 +90,5 @@
       "status": "FINISHED"
     }
   ],
-  "lastUpdated": "2026-03-20T12:04:08.094938Z"
+  "lastUpdated": "2026-03-20T18:06:59.550115Z"
 }
