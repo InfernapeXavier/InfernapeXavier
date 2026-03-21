@@ -54,7 +54,7 @@ manga_completed=128
 chapters_read="12.0k"
 
 $ echo $FAVORITE_GENRES
-comedy romance slice_of_life
+slice_of_life romance comedy
 
 $ uptime
 Life uptime: Making things work since forever
@@ -88,7 +88,7 @@ All entertainment metrics up to date
 <img src="https://i.scdn.co/image/ab67616d0000b273203a6f1939936491557ba57a" width="40" height="40" style="border-radius: 4px;" alt="Afterthought album cover"> | **[Afterthought](https://open.spotify.com/track/4JJHiKWbbw9i7VYCBmHl8M)** | *The Band CAMINO*
 <img src="https://i.scdn.co/image/ab67616d0000b273a7a5a28774229b5a09bb7e20" width="40" height="40" style="border-radius: 4px;" alt="Hang Around album cover"> | **[Hang Around](https://open.spotify.com/track/02Wlr2cqSR0BgScAkt3Az7)** | *Echosmith*
 <img src="https://i.scdn.co/image/ab67616d0000b273055b5bd0088b6870a7857237" width="40" height="40" style="border-radius: 4px;" alt="Carsick album cover"> | **[Carsick](https://open.spotify.com/track/0KJWZbtuvIdjal4URuxuPX)** | *K.Flay*
-<img src="https://i.scdn.co/image/ab67616d0000b27338c7e52477eeebf6b6dbb15c" width="40" height="40" style="border-radius: 4px;" alt="labour album cover"> | **[labour](https://open.spotify.com/track/0e00DiF2T9znEdmWakYSC3)** | *Paris Paloma*
+<img src="https://i.scdn.co/image/ab67616d0000b273b5b991fd65053a3acb8c2db2" width="40" height="40" style="border-radius: 4px;" alt="Drag Path album cover"> | **[Drag Path](https://open.spotify.com/track/0TlcczkVTGpinpkGJpT81L)** | *Twenty One Pilots*
 
 </td>
 </tr>
