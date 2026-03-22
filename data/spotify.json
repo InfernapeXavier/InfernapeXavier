@@ -17,14 +17,6 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b273203a6f1939936491557ba57a"
     },
     {
-      "name": "Hang Around",
-      "artist": "Echosmith",
-      "album": "Echosmith",
-      "external_url": "https://open.spotify.com/track/02Wlr2cqSR0BgScAkt3Az7",
-      "popularity": 25,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273a7a5a28774229b5a09bb7e20"
-    },
-    {
       "name": "Carsick",
       "artist": "K.Flay",
       "album": "MONO",
@@ -33,13 +25,21 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b273055b5bd0088b6870a7857237"
     },
     {
-      "name": "Drag Path",
-      "artist": "Twenty One Pilots",
-      "album": "Drag Path",
-      "external_url": "https://open.spotify.com/track/0TlcczkVTGpinpkGJpT81L",
-      "popularity": 87,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273b5b991fd65053a3acb8c2db2"
+      "name": "Sahiba",
+      "artist": "Aditya Rikhari",
+      "album": "Sahiba",
+      "external_url": "https://open.spotify.com/track/0eLtIxPRNJfsmehITZ1qaJ",
+      "popularity": 86,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b2730a47bbe7141fdfe0eb2cdba7"
+    },
+    {
+      "name": "Don't Even Text",
+      "artist": "Tsumyoki, gini",
+      "album": "Don't Even Text",
+      "external_url": "https://open.spotify.com/track/0pMACt1jSBlH8mKdaE1TSv",
+      "popularity": 58,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273629748353d1f855f1a103556"
     }
   ],
-  "lastUpdated": "2026-03-21T18:02:14.488723"
+  "lastUpdated": "2026-03-22T00:04:40.888469"
 }
