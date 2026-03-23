@@ -49,7 +49,7 @@ rohit@dev:~$
 
 $ cat ~/.media_stats
 anime_completed=239
-time_watched="50d 2h"
+time_watched="50d 6h"
 manga_completed=128
 chapters_read="12.0k"
 
