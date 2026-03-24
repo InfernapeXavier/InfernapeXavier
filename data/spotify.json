@@ -17,29 +17,29 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b273203a6f1939936491557ba57a"
     },
     {
-      "name": "Sahiba",
-      "artist": "Aditya Rikhari",
-      "album": "Sahiba",
-      "external_url": "https://open.spotify.com/track/0eLtIxPRNJfsmehITZ1qaJ",
-      "popularity": 86,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b2730a47bbe7141fdfe0eb2cdba7"
-    },
-    {
-      "name": "Don't Even Text",
-      "artist": "Tsumyoki, gini",
-      "album": "Don't Even Text",
-      "external_url": "https://open.spotify.com/track/0pMACt1jSBlH8mKdaE1TSv",
-      "popularity": 58,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273629748353d1f855f1a103556"
-    },
-    {
       "name": "Upside Down",
       "artist": "CHANYEOL",
       "album": "Upside Down - The 2nd Mini Album",
       "external_url": "https://open.spotify.com/track/5a5QwAcEmYGYpE0nt14up9",
       "popularity": 46,
       "album_image": "https://i.scdn.co/image/ab67616d0000b273ec6baa3daabf4e86b3470da4"
+    },
+    {
+      "name": "When You Know Someone",
+      "artist": "Valley",
+      "album": "Water the Flowers, Pray for a Garden",
+      "external_url": "https://open.spotify.com/track/4e4hweR6AcRDA52vpk4F79",
+      "popularity": 46,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273ea081f59b08e5bd011c84593"
+    },
+    {
+      "name": "Hang Around",
+      "artist": "Echosmith",
+      "album": "Echosmith",
+      "external_url": "https://open.spotify.com/track/02Wlr2cqSR0BgScAkt3Az7",
+      "popularity": 25,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273a7a5a28774229b5a09bb7e20"
     }
   ],
-  "lastUpdated": "2026-03-23T18:11:54.350914"
+  "lastUpdated": "2026-03-24T00:05:18.395383"
 }
