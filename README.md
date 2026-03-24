@@ -54,7 +54,7 @@ manga_completed=128
 chapters_read="12.0k"
 
 $ echo $FAVORITE_GENRES
-comedy romance slice_of_life
+romance slice_of_life comedy
 
 $ uptime
 Life uptime: Making things work since forever
@@ -87,8 +87,8 @@ All entertainment metrics up to date
 <img src="https://i.scdn.co/image/ab67616d0000b273d74fe76840e79608423dde84" width="40" height="40" style="border-radius: 4px;" alt="Underestimated Your High album cover"> | **[Underestimated Your High](https://open.spotify.com/track/2AjNVP2138d2Ta1KZECtUR)** | *ufo ufo*
 <img src="https://i.scdn.co/image/ab67616d0000b273203a6f1939936491557ba57a" width="40" height="40" style="border-radius: 4px;" alt="Afterthought album cover"> | **[Afterthought](https://open.spotify.com/track/4JJHiKWbbw9i7VYCBmHl8M)** | *The Band CAMINO*
 <img src="https://i.scdn.co/image/ab67616d0000b273ec6baa3daabf4e86b3470da4" width="40" height="40" style="border-radius: 4px;" alt="Upside Down album cover"> | **[Upside Down](https://open.spotify.com/track/5a5QwAcEmYGYpE0nt14up9)** | *CHANYEOL*
+<img src="https://i.scdn.co/image/ab67616d0000b27383d60709f3098090e5e91c7e" width="40" height="40" style="border-radius: 4px;" alt="Paapam album cover"> | **[Paapam](https://open.spotify.com/track/7AObZ2Yick368Dk7K6pLgg)** | *Aksomaniac, Fatboi Raccoon, Shreyas*
 <img src="https://i.scdn.co/image/ab67616d0000b273ea081f59b08e5bd011c84593" width="40" height="40" style="border-radius: 4px;" alt="When You Know Someone album cover"> | **[When You Know Someone](https://open.spotify.com/track/4e4hweR6AcRDA52vpk4F79)** | *Valley*
-<img src="https://i.scdn.co/image/ab67616d0000b273a7a5a28774229b5a09bb7e20" width="40" height="40" style="border-radius: 4px;" alt="Hang Around album cover"> | **[Hang Around](https://open.spotify.com/track/02Wlr2cqSR0BgScAkt3Az7)** | *Echosmith*
 
 </td>
 </tr>
