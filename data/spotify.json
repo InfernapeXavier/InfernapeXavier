@@ -25,21 +25,21 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b273c9281db15ef83b5f2ef5a9b7"
     },
     {
+      "name": "Problematic",
+      "artist": "TWIN XL",
+      "album": "H Y P E R F A N T A S I A",
+      "external_url": "https://open.spotify.com/track/2pvNBy5Tb4BNUsWeTnnjTG",
+      "popularity": 33,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273191918aaaabe9437792eb5d6"
+    },
+    {
       "name": "Getaway",
       "artist": "A Foreign Affair",
       "album": "Getaway",
       "external_url": "https://open.spotify.com/track/3DJbZBE8SexOoq6LSk6mOV",
       "popularity": 23,
       "album_image": "https://i.scdn.co/image/ab67616d0000b273051fd7f05179de09ed655f2c"
-    },
-    {
-      "name": "Upside Down",
-      "artist": "CHANYEOL",
-      "album": "Upside Down - The 2nd Mini Album",
-      "external_url": "https://open.spotify.com/track/5a5QwAcEmYGYpE0nt14up9",
-      "popularity": 46,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273ec6baa3daabf4e86b3470da4"
     }
   ],
-  "lastUpdated": "2026-03-25T12:08:21.340149"
+  "lastUpdated": "2026-03-25T18:14:22.354635"
 }
