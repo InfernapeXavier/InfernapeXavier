@@ -25,21 +25,21 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b273c9281db15ef83b5f2ef5a9b7"
     },
     {
+      "name": "Getaway",
+      "artist": "A Foreign Affair",
+      "album": "Getaway",
+      "external_url": "https://open.spotify.com/track/3DJbZBE8SexOoq6LSk6mOV",
+      "popularity": 23,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273051fd7f05179de09ed655f2c"
+    },
+    {
       "name": "Upside Down",
       "artist": "CHANYEOL",
       "album": "Upside Down - The 2nd Mini Album",
       "external_url": "https://open.spotify.com/track/5a5QwAcEmYGYpE0nt14up9",
       "popularity": 46,
       "album_image": "https://i.scdn.co/image/ab67616d0000b273ec6baa3daabf4e86b3470da4"
-    },
-    {
-      "name": "Paapam",
-      "artist": "Aksomaniac, Fatboi Raccoon, Shreyas",
-      "album": "Paapam",
-      "external_url": "https://open.spotify.com/track/7AObZ2Yick368Dk7K6pLgg",
-      "popularity": 58,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b27383d60709f3098090e5e91c7e"
     }
   ],
-  "lastUpdated": "2026-03-25T00:06:32.877357"
+  "lastUpdated": "2026-03-25T06:17:42.925743"
 }

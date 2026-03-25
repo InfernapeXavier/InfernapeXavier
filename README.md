@@ -54,7 +54,7 @@ manga_completed=128
 chapters_read="12.1k"
 
 $ echo $FAVORITE_GENRES
-romance comedy slice_of_life
+romance slice_of_life comedy
 
 $ uptime
 Life uptime: Making things work since forever
@@ -87,8 +87,8 @@ All entertainment metrics up to date
 <img src="https://i.scdn.co/image/ab67616d0000b273d74fe76840e79608423dde84" width="40" height="40" style="border-radius: 4px;" alt="Underestimated Your High album cover"> | **[Underestimated Your High](https://open.spotify.com/track/2AjNVP2138d2Ta1KZECtUR)** | *ufo ufo*
 <img src="https://i.scdn.co/image/ab67616d0000b273203a6f1939936491557ba57a" width="40" height="40" style="border-radius: 4px;" alt="Afterthought album cover"> | **[Afterthought](https://open.spotify.com/track/4JJHiKWbbw9i7VYCBmHl8M)** | *The Band CAMINO*
 <img src="https://i.scdn.co/image/ab67616d0000b273c9281db15ef83b5f2ef5a9b7" width="40" height="40" style="border-radius: 4px;" alt="Touching Yourself album cover"> | **[Touching Yourself](https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n)** | *The Japanese House*
+<img src="https://i.scdn.co/image/ab67616d0000b273051fd7f05179de09ed655f2c" width="40" height="40" style="border-radius: 4px;" alt="Getaway album cover"> | **[Getaway](https://open.spotify.com/track/3DJbZBE8SexOoq6LSk6mOV)** | *A Foreign Affair*
 <img src="https://i.scdn.co/image/ab67616d0000b273ec6baa3daabf4e86b3470da4" width="40" height="40" style="border-radius: 4px;" alt="Upside Down album cover"> | **[Upside Down](https://open.spotify.com/track/5a5QwAcEmYGYpE0nt14up9)** | *CHANYEOL*
-<img src="https://i.scdn.co/image/ab67616d0000b27383d60709f3098090e5e91c7e" width="40" height="40" style="border-radius: 4px;" alt="Paapam album cover"> | **[Paapam](https://open.spotify.com/track/7AObZ2Yick368Dk7K6pLgg)** | *Aksomaniac, Fatboi Raccoon, Shreyas*
 
 </td>
 </tr>
