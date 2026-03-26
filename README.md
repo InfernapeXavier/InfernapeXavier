@@ -13,9 +13,9 @@ $ ps aux | grep "anime"
 Currently watching:
   Hell’s Paradise Season 2
   Frieren: Beyond Journey’s End Season 2
-  JUJUTSU KAISEN Season 3: The Culling Game Part 1
   Journal with Witch
-  Tamon's B-Side
+  Azumanga Daioh
+  One-Punch Man Season 3
 
 $ echo "Anime processes active"
 ```
@@ -54,7 +54,7 @@ manga_completed=128
 chapters_read="12.1k"
 
 $ echo $FAVORITE_GENRES
-slice_of_life romance comedy
+comedy romance slice_of_life
 
 $ uptime
 Life uptime: Making things work since forever

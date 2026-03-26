@@ -15,7 +15,7 @@
       },
       "manga": {
         "count": 128,
-        "chaptersRead": 12075,
+        "chaptersRead": 12077,
         "topGenres": [
           "Romance",
           "Comedy",
@@ -40,22 +40,22 @@
       "status": "RELEASING"
     },
     {
-      "title": "JUJUTSU KAISEN Season 3: The Culling Game Part 1",
-      "progress": 10,
-      "totalEpisodes": 12,
-      "status": "RELEASING"
-    },
-    {
       "title": "Journal with Witch",
       "progress": 12,
       "totalEpisodes": 13,
       "status": "RELEASING"
     },
     {
-      "title": "Tamon's B-Side",
-      "progress": 11,
-      "totalEpisodes": 13,
-      "status": "RELEASING"
+      "title": "Azumanga Daioh",
+      "progress": 1,
+      "totalEpisodes": 26,
+      "status": "FINISHED"
+    },
+    {
+      "title": "One-Punch Man Season 3",
+      "progress": 7,
+      "totalEpisodes": 12,
+      "status": "FINISHED"
     }
   ],
   "currentlyReading": [
@@ -90,5 +90,5 @@
       "status": "FINISHED"
     }
   ],
-  "lastUpdated": "2026-03-26T12:11:17.894965Z"
+  "lastUpdated": "2026-03-26T18:15:06.950317Z"
 }
