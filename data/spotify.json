@@ -25,21 +25,21 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b273191918aaaabe9437792eb5d6"
     },
     {
-      "name": "Getaway",
-      "artist": "A Foreign Affair",
-      "album": "Getaway",
-      "external_url": "https://open.spotify.com/track/3DJbZBE8SexOoq6LSk6mOV",
-      "popularity": 23,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273051fd7f05179de09ed655f2c"
-    },
-    {
       "name": "Touching Yourself",
       "artist": "The Japanese House",
       "album": "In the End It Always Does",
       "external_url": "https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n",
       "popularity": 65,
       "album_image": "https://i.scdn.co/image/ab67616d0000b273c9281db15ef83b5f2ef5a9b7"
+    },
+    {
+      "name": "Upside Down",
+      "artist": "CHANYEOL",
+      "album": "Upside Down - The 2nd Mini Album",
+      "external_url": "https://open.spotify.com/track/5a5QwAcEmYGYpE0nt14up9",
+      "popularity": 46,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273ec6baa3daabf4e86b3470da4"
     }
   ],
-  "lastUpdated": "2026-03-26T00:08:02.114007"
+  "lastUpdated": "2026-03-26T06:19:43.535016"
 }
