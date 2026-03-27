@@ -88,7 +88,7 @@ All entertainment metrics up to date
 <img src="https://i.scdn.co/image/ab67616d0000b273203a6f1939936491557ba57a" width="40" height="40" style="border-radius: 4px;" alt="Afterthought album cover"> | **[Afterthought](https://open.spotify.com/track/4JJHiKWbbw9i7VYCBmHl8M)** | *The Band CAMINO*
 <img src="https://i.scdn.co/image/ab67616d0000b273191918aaaabe9437792eb5d6" width="40" height="40" style="border-radius: 4px;" alt="Problematic album cover"> | **[Problematic](https://open.spotify.com/track/2pvNBy5Tb4BNUsWeTnnjTG)** | *TWIN XL*
 <img src="https://i.scdn.co/image/ab67616d0000b273ec6baa3daabf4e86b3470da4" width="40" height="40" style="border-radius: 4px;" alt="Upside Down album cover"> | **[Upside Down](https://open.spotify.com/track/5a5QwAcEmYGYpE0nt14up9)** | *CHANYEOL*
-<img src="https://i.scdn.co/image/ab67616d0000b273661d019f34569f79eae9e985" width="40" height="40" style="border-radius: 4px;" alt="On Melancholy Hill album cover"> | **[On Melancholy Hill](https://open.spotify.com/track/0q6LuUqGLUiCPP1cbdwFs3)** | *Gorillaz*
+<img src="https://i.scdn.co/image/ab67616d0000b2732d3e76a667a66aa6eceb5556" width="40" height="40" style="border-radius: 4px;" alt="Plastic album cover"> | **[Plastic](https://open.spotify.com/track/6HiBjDRQapX1hsMRT7smAJ)** | *girlfriends*
 
 </td>
 </tr>
