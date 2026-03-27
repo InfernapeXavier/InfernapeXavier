@@ -12,9 +12,9 @@
 $ ps aux | grep "anime"
 Currently watching:
   Hell’s Paradise Season 2
-  Frieren: Beyond Journey’s End Season 2
   Journal with Witch
   Azumanga Daioh
+  Frieren: Beyond Journey’s End Season 2
   One-Punch Man Season 3
 
 $ echo "Anime processes active"
@@ -50,11 +50,11 @@ rohit@dev:~$
 $ cat ~/.media_stats
 anime_completed=239
 time_watched="50d 6h"
-manga_completed=128
+manga_completed=129
 chapters_read="12.1k"
 
 $ echo $FAVORITE_GENRES
-romance slice_of_life comedy
+slice_of_life comedy romance
 
 $ uptime
 Life uptime: Making things work since forever

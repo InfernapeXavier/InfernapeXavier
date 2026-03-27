@@ -14,8 +14,8 @@
         ]
       },
       "manga": {
-        "count": 128,
-        "chaptersRead": 12077,
+        "count": 129,
+        "chaptersRead": 12078,
         "topGenres": [
           "Romance",
           "Comedy",
@@ -34,12 +34,6 @@
       "status": "RELEASING"
     },
     {
-      "title": "Frieren: Beyond Journey\u2019s End Season 2",
-      "progress": 9,
-      "totalEpisodes": 10,
-      "status": "RELEASING"
-    },
-    {
       "title": "Journal with Witch",
       "progress": 12,
       "totalEpisodes": 13,
@@ -49,6 +43,12 @@
       "title": "Azumanga Daioh",
       "progress": 1,
       "totalEpisodes": 26,
+      "status": "FINISHED"
+    },
+    {
+      "title": "Frieren: Beyond Journey\u2019s End Season 2",
+      "progress": 9,
+      "totalEpisodes": 10,
       "status": "FINISHED"
     },
     {
@@ -90,5 +90,5 @@
       "status": "FINISHED"
     }
   ],
-  "lastUpdated": "2026-03-27T12:08:53.568660Z"
+  "lastUpdated": "2026-03-27T18:12:50.204707Z"
 }
