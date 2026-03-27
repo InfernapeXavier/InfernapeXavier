@@ -54,7 +54,7 @@ manga_completed=128
 chapters_read="12.1k"
 
 $ echo $FAVORITE_GENRES
-comedy romance slice_of_life
+romance slice_of_life comedy
 
 $ uptime
 Life uptime: Making things work since forever
@@ -87,8 +87,8 @@ All entertainment metrics up to date
 <img src="https://i.scdn.co/image/ab67616d0000b273d74fe76840e79608423dde84" width="40" height="40" style="border-radius: 4px;" alt="Underestimated Your High album cover"> | **[Underestimated Your High](https://open.spotify.com/track/2AjNVP2138d2Ta1KZECtUR)** | *ufo ufo*
 <img src="https://i.scdn.co/image/ab67616d0000b273203a6f1939936491557ba57a" width="40" height="40" style="border-radius: 4px;" alt="Afterthought album cover"> | **[Afterthought](https://open.spotify.com/track/4JJHiKWbbw9i7VYCBmHl8M)** | *The Band CAMINO*
 <img src="https://i.scdn.co/image/ab67616d0000b273191918aaaabe9437792eb5d6" width="40" height="40" style="border-radius: 4px;" alt="Problematic album cover"> | **[Problematic](https://open.spotify.com/track/2pvNBy5Tb4BNUsWeTnnjTG)** | *TWIN XL*
-<img src="https://i.scdn.co/image/ab67616d0000b273c9281db15ef83b5f2ef5a9b7" width="40" height="40" style="border-radius: 4px;" alt="Touching Yourself album cover"> | **[Touching Yourself](https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n)** | *The Japanese House*
 <img src="https://i.scdn.co/image/ab67616d0000b273ec6baa3daabf4e86b3470da4" width="40" height="40" style="border-radius: 4px;" alt="Upside Down album cover"> | **[Upside Down](https://open.spotify.com/track/5a5QwAcEmYGYpE0nt14up9)** | *CHANYEOL*
+<img src="https://i.scdn.co/image/ab67616d0000b273661d019f34569f79eae9e985" width="40" height="40" style="border-radius: 4px;" alt="On Melancholy Hill album cover"> | **[On Melancholy Hill](https://open.spotify.com/track/0q6LuUqGLUiCPP1cbdwFs3)** | *Gorillaz*
 
 </td>
 </tr>
