@@ -14,8 +14,8 @@ Currently watching:
   Hell’s Paradise Season 2
   Journal with Witch
   Azumanga Daioh
-  Frieren: Beyond Journey’s End Season 2
   One-Punch Man Season 3
+  JUJUTSU KAISEN Season 3: The Culling Game Part 1
 
 $ echo "Anime processes active"
 ```
@@ -54,7 +54,7 @@ manga_completed=129
 chapters_read="12.1k"
 
 $ echo $FAVORITE_GENRES
-romance slice_of_life comedy
+comedy slice_of_life romance
 
 $ uptime
 Life uptime: Making things work since forever
