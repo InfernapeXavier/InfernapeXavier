@@ -4,7 +4,7 @@
     "stats": {
       "anime": {
         "count": 239,
-        "minutesWatched": 72370,
+        "minutesWatched": 72394,
         "topGenres": [
           "Comedy",
           "Slice of Life",
@@ -15,7 +15,7 @@
       },
       "manga": {
         "count": 129,
-        "chaptersRead": 12078,
+        "chaptersRead": 12080,
         "topGenres": [
           "Romance",
           "Comedy",
@@ -28,21 +28,15 @@
   },
   "currentlyWatching": [
     {
-      "title": "Hell\u2019s Paradise Season 2",
-      "progress": 6,
-      "totalEpisodes": 12,
-      "status": "RELEASING"
-    },
-    {
-      "title": "Journal with Witch",
-      "progress": 12,
-      "totalEpisodes": 13,
-      "status": "RELEASING"
-    },
-    {
       "title": "Azumanga Daioh",
       "progress": 1,
       "totalEpisodes": 26,
+      "status": "FINISHED"
+    },
+    {
+      "title": "Hell\u2019s Paradise Season 2",
+      "progress": 6,
+      "totalEpisodes": 12,
       "status": "FINISHED"
     },
     {
@@ -55,6 +49,12 @@
       "title": "JUJUTSU KAISEN Season 3: The Culling Game Part 1",
       "progress": 10,
       "totalEpisodes": 12,
+      "status": "FINISHED"
+    },
+    {
+      "title": "Ansatsu Kyoushitsu: Minna no Jikan",
+      "progress": 0,
+      "totalEpisodes": 1,
       "status": "FINISHED"
     }
   ],
@@ -90,5 +90,5 @@
       "status": "FINISHED"
     }
   ],
-  "lastUpdated": "2026-03-29T12:03:33.724051Z"
+  "lastUpdated": "2026-03-30T00:08:00.729445Z"
 }
