@@ -9,20 +9,20 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b273d74fe76840e79608423dde84"
     },
     {
-      "name": "Afterthought",
-      "artist": "The Band CAMINO",
-      "album": "Afterthought",
-      "external_url": "https://open.spotify.com/track/4JJHiKWbbw9i7VYCBmHl8M",
-      "popularity": 57,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273203a6f1939936491557ba57a"
-    },
-    {
       "name": "britney in 07",
       "artist": "blackbear",
       "album": "britney in 07",
       "external_url": "https://open.spotify.com/track/2asUFgWt0LtyxWf32JvMpD",
       "popularity": 53,
       "album_image": "https://i.scdn.co/image/ab67616d0000b273d6a494e918fabeff2fab4c70"
+    },
+    {
+      "name": "4 Raws",
+      "artist": "EsDeeKid",
+      "album": "Rebel",
+      "external_url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT",
+      "popularity": 90,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273cff4bd68d5d0dd9a0a748045"
     },
     {
       "name": "Plastic",
@@ -41,5 +41,5 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b273661d019f34569f79eae9e985"
     }
   ],
-  "lastUpdated": "2026-04-01T00:08:49.043351"
+  "lastUpdated": "2026-04-01T06:28:08.818012"
 }
