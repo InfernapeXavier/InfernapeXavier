@@ -17,14 +17,6 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b273d6a494e918fabeff2fab4c70"
     },
     {
-      "name": "Kyoto",
-      "artist": "Phoebe Bridgers",
-      "album": "Punisher",
-      "external_url": "https://open.spotify.com/track/4vjvx7Zxkb4AltGcZ0BBvI",
-      "popularity": 66,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273a91b75c9ef65ed8d760ff600"
-    },
-    {
       "name": "4 Raws",
       "artist": "EsDeeKid",
       "album": "Rebel",
@@ -39,7 +31,15 @@
       "external_url": "https://open.spotify.com/track/0PGU5mcLncBYE8yuVpSwqA",
       "popularity": 68,
       "album_image": "https://i.scdn.co/image/ab67616d0000b27328dca2c8ef21646d5c7db1ae"
+    },
+    {
+      "name": "Afterthought",
+      "artist": "The Band CAMINO",
+      "album": "Afterthought",
+      "external_url": "https://open.spotify.com/track/4JJHiKWbbw9i7VYCBmHl8M",
+      "popularity": 57,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273203a6f1939936491557ba57a"
     }
   ],
-  "lastUpdated": "2026-04-04T00:06:34.671355"
+  "lastUpdated": "2026-04-04T06:16:29.737015"
 }
