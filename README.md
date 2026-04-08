@@ -54,7 +54,7 @@ manga_completed=129
 chapters_read="12.1k"
 
 $ echo $FAVORITE_GENRES
-comedy romance slice_of_life
+slice_of_life comedy romance
 
 $ uptime
 Life uptime: Making things work since forever
@@ -85,10 +85,10 @@ All entertainment metrics up to date
 | Cover | Track | Artist |
 |-------|-------|--------|
 <img src="https://i.scdn.co/image/ab67616d0000b273ae1ddda81dd700bfbfeeb929" width="40" height="40" style="border-radius: 4px;" alt="Mirage album cover"> | **[Mirage](https://open.spotify.com/track/3GVNp2UgIp2TN3ra67cxdg)** | *Creepy Nuts*
-<img src="https://i.scdn.co/image/ab67616d0000b273d74fe76840e79608423dde84" width="40" height="40" style="border-radius: 4px;" alt="Underestimated Your High album cover"> | **[Underestimated Your High](https://open.spotify.com/track/2AjNVP2138d2Ta1KZECtUR)** | *ufo ufo*
 <img src="https://i.scdn.co/image/ab67616d0000b273cff4bd68d5d0dd9a0a748045" width="40" height="40" style="border-radius: 4px;" alt="4 Raws album cover"> | **[4 Raws](https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT)** | *EsDeeKid*
 <img src="https://i.scdn.co/image/ab67616d0000b273d6a494e918fabeff2fab4c70" width="40" height="40" style="border-radius: 4px;" alt="britney in 07 album cover"> | **[britney in 07](https://open.spotify.com/track/2asUFgWt0LtyxWf32JvMpD)** | *blackbear*
 <img src="https://i.scdn.co/image/ab67616d0000b273a91b75c9ef65ed8d760ff600" width="40" height="40" style="border-radius: 4px;" alt="Kyoto album cover"> | **[Kyoto](https://open.spotify.com/track/4vjvx7Zxkb4AltGcZ0BBvI)** | *Phoebe Bridgers*
+<img src="https://i.scdn.co/image/ab67616d0000b273511b07369101734098b14b0d" width="40" height="40" style="border-radius: 4px;" alt="Pineapple Sunrise album cover"> | **[Pineapple Sunrise](https://open.spotify.com/track/5L5n7lyXiTR2soMhCQel6n)** | *Beach Weather*
 
 </td>
 </tr>

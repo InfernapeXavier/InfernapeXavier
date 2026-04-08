@@ -9,14 +9,6 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b273ae1ddda81dd700bfbfeeb929"
     },
     {
-      "name": "Underestimated Your High",
-      "artist": "ufo ufo",
-      "album": "Underestimated Your High",
-      "external_url": "https://open.spotify.com/track/2AjNVP2138d2Ta1KZECtUR",
-      "popularity": 57,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273d74fe76840e79608423dde84"
-    },
-    {
       "name": "4 Raws",
       "artist": "EsDeeKid",
       "album": "Rebel",
@@ -37,9 +29,17 @@
       "artist": "Phoebe Bridgers",
       "album": "Punisher",
       "external_url": "https://open.spotify.com/track/4vjvx7Zxkb4AltGcZ0BBvI",
-      "popularity": 66,
+      "popularity": 67,
       "album_image": "https://i.scdn.co/image/ab67616d0000b273a91b75c9ef65ed8d760ff600"
+    },
+    {
+      "name": "Pineapple Sunrise",
+      "artist": "Beach Weather",
+      "album": "Pineapple Sunrise",
+      "external_url": "https://open.spotify.com/track/5L5n7lyXiTR2soMhCQel6n",
+      "popularity": 44,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273511b07369101734098b14b0d"
     }
   ],
-  "lastUpdated": "2026-04-08T06:25:37.097995"
+  "lastUpdated": "2026-04-08T12:11:45.711634"
 }
