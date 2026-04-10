@@ -1,20 +1,20 @@
 {
   "topTracks": [
     {
-      "name": "Mirage",
-      "artist": "Creepy Nuts",
-      "album": "Mirage",
-      "external_url": "https://open.spotify.com/track/3GVNp2UgIp2TN3ra67cxdg",
-      "popularity": 70,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273ae1ddda81dd700bfbfeeb929"
-    },
-    {
       "name": "4 Raws",
       "artist": "EsDeeKid",
       "album": "Rebel",
       "external_url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT",
       "popularity": 90,
       "album_image": "https://i.scdn.co/image/ab67616d0000b273cff4bd68d5d0dd9a0a748045"
+    },
+    {
+      "name": "Mirage",
+      "artist": "Creepy Nuts",
+      "album": "Mirage",
+      "external_url": "https://open.spotify.com/track/3GVNp2UgIp2TN3ra67cxdg",
+      "popularity": 70,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273ae1ddda81dd700bfbfeeb929"
     },
     {
       "name": "britney in 07",
@@ -25,21 +25,21 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b273d6a494e918fabeff2fab4c70"
     },
     {
-      "name": "Pineapple Sunrise",
-      "artist": "Beach Weather",
-      "album": "Pineapple Sunrise",
-      "external_url": "https://open.spotify.com/track/5L5n7lyXiTR2soMhCQel6n",
-      "popularity": 44,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273511b07369101734098b14b0d"
-    },
-    {
       "name": "Kyoto",
       "artist": "Phoebe Bridgers",
       "album": "Punisher",
       "external_url": "https://open.spotify.com/track/4vjvx7Zxkb4AltGcZ0BBvI",
       "popularity": 67,
       "album_image": "https://i.scdn.co/image/ab67616d0000b273a91b75c9ef65ed8d760ff600"
+    },
+    {
+      "name": "Pineapple Sunrise",
+      "artist": "Beach Weather",
+      "album": "Pineapple Sunrise",
+      "external_url": "https://open.spotify.com/track/5L5n7lyXiTR2soMhCQel6n",
+      "popularity": 44,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273511b07369101734098b14b0d"
     }
   ],
-  "lastUpdated": "2026-04-10T00:09:49.113822"
+  "lastUpdated": "2026-04-10T06:30:10.001404"
 }
