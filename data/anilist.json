@@ -15,7 +15,7 @@
       },
       "manga": {
         "count": 129,
-        "chaptersRead": 12128,
+        "chaptersRead": 12130,
         "topGenres": [
           "Romance",
           "Comedy",
@@ -79,7 +79,7 @@
     },
     {
       "title": "The Fragrant Flower Blooms With Dignity",
-      "progress": 185,
+      "progress": 186,
       "totalChapters": null,
       "status": "RELEASING"
     },
@@ -90,5 +90,5 @@
       "status": "FINISHED"
     }
   ],
-  "lastUpdated": "2026-04-11T06:17:31.943079Z"
+  "lastUpdated": "2026-04-11T12:04:11.209117Z"
 }
