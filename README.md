@@ -54,7 +54,7 @@ manga_completed=129
 chapters_read="12.1k"
 
 $ echo $FAVORITE_GENRES
-romance slice_of_life comedy
+comedy romance slice_of_life
 
 $ uptime
 Life uptime: Making things work since forever
@@ -88,7 +88,7 @@ All entertainment metrics up to date
 <img src="https://i.scdn.co/image/ab67616d0000b273ae1ddda81dd700bfbfeeb929" width="40" height="40" style="border-radius: 4px;" alt="Mirage album cover"> | **[Mirage](https://open.spotify.com/track/3GVNp2UgIp2TN3ra67cxdg)** | *Creepy Nuts*
 <img src="https://i.scdn.co/image/ab67616d0000b273d6a494e918fabeff2fab4c70" width="40" height="40" style="border-radius: 4px;" alt="britney in 07 album cover"> | **[britney in 07](https://open.spotify.com/track/2asUFgWt0LtyxWf32JvMpD)** | *blackbear*
 <img src="https://i.scdn.co/image/ab67616d0000b27328dca2c8ef21646d5c7db1ae" width="40" height="40" style="border-radius: 4px;" alt="Bye album cover"> | **[Bye](https://open.spotify.com/track/0PGU5mcLncBYE8yuVpSwqA)** | *Aditya Bhardwaj*
-<img src="https://i.scdn.co/image/ab67616d0000b273511b07369101734098b14b0d" width="40" height="40" style="border-radius: 4px;" alt="Pineapple Sunrise album cover"> | **[Pineapple Sunrise](https://open.spotify.com/track/5L5n7lyXiTR2soMhCQel6n)** | *Beach Weather*
+<img src="https://i.scdn.co/image/ab67616d0000b273203a6f1939936491557ba57a" width="40" height="40" style="border-radius: 4px;" alt="Afterthought album cover"> | **[Afterthought](https://open.spotify.com/track/4JJHiKWbbw9i7VYCBmHl8M)** | *The Band CAMINO*
 
 </td>
 </tr>
