@@ -25,21 +25,21 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b273d6a494e918fabeff2fab4c70"
     },
     {
-      "name": "Pineapple Sunrise",
-      "artist": "Beach Weather",
-      "album": "Pineapple Sunrise",
-      "external_url": "https://open.spotify.com/track/5L5n7lyXiTR2soMhCQel6n",
-      "popularity": 44,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273511b07369101734098b14b0d"
-    },
-    {
       "name": "Bye",
       "artist": "Aditya Bhardwaj",
       "album": "Bye",
       "external_url": "https://open.spotify.com/track/0PGU5mcLncBYE8yuVpSwqA",
       "popularity": 68,
       "album_image": "https://i.scdn.co/image/ab67616d0000b27328dca2c8ef21646d5c7db1ae"
+    },
+    {
+      "name": "Pineapple Sunrise",
+      "artist": "Beach Weather",
+      "album": "Pineapple Sunrise",
+      "external_url": "https://open.spotify.com/track/5L5n7lyXiTR2soMhCQel6n",
+      "popularity": 44,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273511b07369101734098b14b0d"
     }
   ],
-  "lastUpdated": "2026-04-13T00:09:48.401157"
+  "lastUpdated": "2026-04-13T06:36:31.246446"
 }
