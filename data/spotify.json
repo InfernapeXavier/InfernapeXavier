@@ -1,14 +1,6 @@
 {
   "topTracks": [
     {
-      "name": "4 Raws",
-      "artist": "EsDeeKid",
-      "album": "Rebel",
-      "external_url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT",
-      "popularity": 89,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273cff4bd68d5d0dd9a0a748045"
-    },
-    {
       "name": "Mirage",
       "artist": "Creepy Nuts",
       "album": "Mirage",
@@ -23,6 +15,14 @@
       "external_url": "https://open.spotify.com/track/2asUFgWt0LtyxWf32JvMpD",
       "popularity": 52,
       "album_image": "https://i.scdn.co/image/ab67616d0000b273d6a494e918fabeff2fab4c70"
+    },
+    {
+      "name": "4 Raws",
+      "artist": "EsDeeKid",
+      "album": "Rebel",
+      "external_url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT",
+      "popularity": 89,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273cff4bd68d5d0dd9a0a748045"
     },
     {
       "name": "what is life",
@@ -41,5 +41,5 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b273511b07369101734098b14b0d"
     }
   ],
-  "lastUpdated": "2026-04-15T18:18:55.368167"
+  "lastUpdated": "2026-04-16T00:14:04.030847"
 }
