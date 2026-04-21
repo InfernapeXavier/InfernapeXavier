@@ -5,7 +5,7 @@
       "artist": "India Thieriot",
       "album": "what is life",
       "external_url": "https://open.spotify.com/track/33u4raLe1FaBPZOIXlDTEl",
-      "popularity": 34,
+      "popularity": 33,
       "album_image": "https://i.scdn.co/image/ab67616d0000b273631dccff4981e435a5a50a70"
     },
     {
@@ -21,7 +21,7 @@
       "artist": "EsDeeKid",
       "album": "Rebel",
       "external_url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT",
-      "popularity": 89,
+      "popularity": 88,
       "album_image": "https://i.scdn.co/image/ab67616d0000b273cff4bd68d5d0dd9a0a748045"
     },
     {
@@ -41,5 +41,5 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b273511b07369101734098b14b0d"
     }
   ],
-  "lastUpdated": "2026-04-21T06:30:57.104168"
+  "lastUpdated": "2026-04-21T12:14:38.043135"
 }
