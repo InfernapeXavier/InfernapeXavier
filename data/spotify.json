@@ -25,21 +25,21 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b273cff4bd68d5d0dd9a0a748045"
     },
     {
-      "name": "Mirage",
-      "artist": "Creepy Nuts",
-      "album": "Mirage",
-      "external_url": "https://open.spotify.com/track/3GVNp2UgIp2TN3ra67cxdg",
-      "popularity": 70,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273ae1ddda81dd700bfbfeeb929"
-    },
-    {
       "name": "Pineapple Sunrise",
       "artist": "Beach Weather",
       "album": "Pineapple Sunrise",
       "external_url": "https://open.spotify.com/track/5L5n7lyXiTR2soMhCQel6n",
       "popularity": 44,
       "album_image": "https://i.scdn.co/image/ab67616d0000b273511b07369101734098b14b0d"
+    },
+    {
+      "name": "Matsuri",
+      "artist": "Fujii Kaze",
+      "album": "LOVE ALL SERVE ALL",
+      "external_url": "https://open.spotify.com/track/7AMGgAPFczs3wJgMqu6Eqi",
+      "popularity": 67,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b2739e16930796a07f1195002389"
     }
   ],
-  "lastUpdated": "2026-04-21T12:14:38.043135"
+  "lastUpdated": "2026-04-21T18:16:51.501565"
 }
