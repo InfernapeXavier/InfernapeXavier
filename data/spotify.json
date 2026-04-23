@@ -25,21 +25,21 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b2732c03bdfc36bf6ed55ef37eac"
     },
     {
+      "name": "4 Raws",
+      "artist": "EsDeeKid",
+      "album": "Rebel",
+      "external_url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT",
+      "popularity": 88,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273cff4bd68d5d0dd9a0a748045"
+    },
+    {
       "name": "Matsuri",
       "artist": "Fujii Kaze",
       "album": "LOVE ALL SERVE ALL",
       "external_url": "https://open.spotify.com/track/7AMGgAPFczs3wJgMqu6Eqi",
       "popularity": 67,
       "album_image": "https://i.scdn.co/image/ab67616d0000b2739e16930796a07f1195002389"
-    },
-    {
-      "name": "Kyoto",
-      "artist": "Phoebe Bridgers",
-      "album": "Punisher",
-      "external_url": "https://open.spotify.com/track/4vjvx7Zxkb4AltGcZ0BBvI",
-      "popularity": 66,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273a91b75c9ef65ed8d760ff600"
     }
   ],
-  "lastUpdated": "2026-04-23T12:15:02.785443"
+  "lastUpdated": "2026-04-23T18:18:22.187182"
 }
