@@ -54,7 +54,7 @@ manga_completed=129
 chapters_read="12.2k"
 
 $ echo $FAVORITE_GENRES
-slice_of_life romance comedy
+romance slice_of_life comedy
 
 $ uptime
 Life uptime: Making things work since forever
@@ -88,7 +88,7 @@ All entertainment metrics up to date
 <img src="https://i.scdn.co/image/ab67616d0000b2732c03bdfc36bf6ed55ef37eac" width="40" height="40" style="border-radius: 4px;" alt="かすかなはな - Kasuka na Hana (OP Theme to Hell's Paradise: Jigokuraku Season 2) album cover"> | **[かすかなはな - Kasuka na Hana (OP Theme to Hell's Paradise: Jigokuraku Season 2)](https://open.spotify.com/track/53rbIWRjkjZ86ByiBvwIhQ)** | *Tatsuya Kitani, BABYMETAL*
 <img src="https://i.scdn.co/image/ab67616d0000b273d6a494e918fabeff2fab4c70" width="40" height="40" style="border-radius: 4px;" alt="britney in 07 album cover"> | **[britney in 07](https://open.spotify.com/track/2asUFgWt0LtyxWf32JvMpD)** | *blackbear*
 <img src="https://i.scdn.co/image/ab67616d0000b273cff4bd68d5d0dd9a0a748045" width="40" height="40" style="border-radius: 4px;" alt="4 Raws album cover"> | **[4 Raws](https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT)** | *EsDeeKid*
-<img src="https://i.scdn.co/image/ab67616d0000b2731d582a27bf16b563991487cd" width="40" height="40" style="border-radius: 4px;" alt="Give Me Something (for Arknights Endfield) album cover"> | **[Give Me Something (for Arknights Endfield)](https://open.spotify.com/track/17Vqwvat9EmRmfDvmYqoi0)** | *OneRepublic*
+<img src="https://i.scdn.co/image/ab67616d0000b273a91b75c9ef65ed8d760ff600" width="40" height="40" style="border-radius: 4px;" alt="Kyoto album cover"> | **[Kyoto](https://open.spotify.com/track/4vjvx7Zxkb4AltGcZ0BBvI)** | *Phoebe Bridgers*
 
 </td>
 </tr>
