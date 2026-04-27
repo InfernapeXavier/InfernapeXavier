@@ -54,7 +54,7 @@ manga_completed=129
 chapters_read="12.2k"
 
 $ echo $FAVORITE_GENRES
-comedy romance slice_of_life
+comedy slice_of_life romance
 
 $ uptime
 Life uptime: Making things work since forever
@@ -88,7 +88,7 @@ All entertainment metrics up to date
 <img src="https://i.scdn.co/image/ab67616d0000b2732c03bdfc36bf6ed55ef37eac" width="40" height="40" style="border-radius: 4px;" alt="かすかなはな - Kasuka na Hana (OP Theme to Hell's Paradise: Jigokuraku Season 2) album cover"> | **[かすかなはな - Kasuka na Hana (OP Theme to Hell's Paradise: Jigokuraku Season 2)](https://open.spotify.com/track/53rbIWRjkjZ86ByiBvwIhQ)** | *Tatsuya Kitani, BABYMETAL*
 <img src="https://i.scdn.co/image/ab67616d0000b273cff4bd68d5d0dd9a0a748045" width="40" height="40" style="border-radius: 4px;" alt="4 Raws album cover"> | **[4 Raws](https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT)** | *EsDeeKid*
 <img src="https://i.scdn.co/image/ab67616d0000b273a80dce00e494ada878e23ad7" width="40" height="40" style="border-radius: 4px;" alt="Aashiyan album cover"> | **[Aashiyan](https://open.spotify.com/track/0OlYIIUtBAWF2iEiTYan5h)** | *gini*
-<img src="https://i.scdn.co/image/ab67616d0000b273d6a494e918fabeff2fab4c70" width="40" height="40" style="border-radius: 4px;" alt="britney in 07 album cover"> | **[britney in 07](https://open.spotify.com/track/2asUFgWt0LtyxWf32JvMpD)** | *blackbear*
+<img src="https://i.scdn.co/image/ab67616d0000b273d97719ae11015023656cc0df" width="40" height="40" style="border-radius: 4px;" alt="Even If It Kills Me album cover"> | **[Even If It Kills Me](https://open.spotify.com/track/6344SlEvCmROB1SrFxx1FH)** | *Papa Roach*
 
 </td>
 </tr>
