@@ -54,7 +54,7 @@ manga_completed=129
 chapters_read="12.2k"
 
 $ echo $FAVORITE_GENRES
-comedy slice_of_life romance
+comedy romance slice_of_life
 
 $ uptime
 Life uptime: Making things work since forever
@@ -87,8 +87,8 @@ All entertainment metrics up to date
 <img src="https://i.scdn.co/image/ab67616d0000b273631dccff4981e435a5a50a70" width="40" height="40" style="border-radius: 4px;" alt="what is life album cover"> | **[what is life](https://open.spotify.com/track/33u4raLe1FaBPZOIXlDTEl)** | *India Thieriot*
 <img src="https://i.scdn.co/image/ab67616d0000b2732c03bdfc36bf6ed55ef37eac" width="40" height="40" style="border-radius: 4px;" alt="かすかなはな - Kasuka na Hana (OP Theme to Hell's Paradise: Jigokuraku Season 2) album cover"> | **[かすかなはな - Kasuka na Hana (OP Theme to Hell's Paradise: Jigokuraku Season 2)](https://open.spotify.com/track/53rbIWRjkjZ86ByiBvwIhQ)** | *Tatsuya Kitani, BABYMETAL*
 <img src="https://i.scdn.co/image/ab67616d0000b273cff4bd68d5d0dd9a0a748045" width="40" height="40" style="border-radius: 4px;" alt="4 Raws album cover"> | **[4 Raws](https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT)** | *EsDeeKid*
+<img src="https://i.scdn.co/image/ab67616d0000b273511b07369101734098b14b0d" width="40" height="40" style="border-radius: 4px;" alt="Pineapple Sunrise album cover"> | **[Pineapple Sunrise](https://open.spotify.com/track/5L5n7lyXiTR2soMhCQel6n)** | *Beach Weather*
 <img src="https://i.scdn.co/image/ab67616d0000b273a80dce00e494ada878e23ad7" width="40" height="40" style="border-radius: 4px;" alt="Aashiyan album cover"> | **[Aashiyan](https://open.spotify.com/track/0OlYIIUtBAWF2iEiTYan5h)** | *gini*
-<img src="https://i.scdn.co/image/ab67616d0000b2731d582a27bf16b563991487cd" width="40" height="40" style="border-radius: 4px;" alt="Give Me Something (for Arknights Endfield) album cover"> | **[Give Me Something (for Arknights Endfield)](https://open.spotify.com/track/17Vqwvat9EmRmfDvmYqoi0)** | *OneRepublic*
 
 </td>
 </tr>

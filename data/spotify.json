@@ -25,21 +25,21 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b273cff4bd68d5d0dd9a0a748045"
     },
     {
+      "name": "Pineapple Sunrise",
+      "artist": "Beach Weather",
+      "album": "Pineapple Sunrise",
+      "external_url": "https://open.spotify.com/track/5L5n7lyXiTR2soMhCQel6n",
+      "popularity": 44,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273511b07369101734098b14b0d"
+    },
+    {
       "name": "Aashiyan",
       "artist": "gini",
       "album": "Aashiyan",
       "external_url": "https://open.spotify.com/track/0OlYIIUtBAWF2iEiTYan5h",
       "popularity": 44,
       "album_image": "https://i.scdn.co/image/ab67616d0000b273a80dce00e494ada878e23ad7"
-    },
-    {
-      "name": "Give Me Something (for Arknights Endfield)",
-      "artist": "OneRepublic",
-      "album": "Give Me Something (for Arknights Endfield)",
-      "external_url": "https://open.spotify.com/track/17Vqwvat9EmRmfDvmYqoi0",
-      "popularity": 62,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b2731d582a27bf16b563991487cd"
     }
   ],
-  "lastUpdated": "2026-04-28T18:26:30.397292"
+  "lastUpdated": "2026-04-29T00:17:16.070243"
 }
