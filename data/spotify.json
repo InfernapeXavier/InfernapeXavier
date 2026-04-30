@@ -17,29 +17,29 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b2732c03bdfc36bf6ed55ef37eac"
     },
     {
+      "name": "Stick With You",
+      "artist": "TOMORROW X TOGETHER",
+      "album": "7TH YEAR: A Moment of Stillness in the Thorns",
+      "external_url": "https://open.spotify.com/track/1ttNlwhsAwCvSKWGxA6fDk",
+      "popularity": 85,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b2735f42ea05cfc5233136e8546a"
+    },
+    {
+      "name": "Jeet",
+      "artist": "Ritviz",
+      "album": "Ved",
+      "external_url": "https://open.spotify.com/track/2nEntnpNpsJNhw1wLY8O96",
+      "popularity": 49,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273677c4cabe500b906c4a8e207"
+    },
+    {
       "name": "Pineapple Sunrise",
       "artist": "Beach Weather",
       "album": "Pineapple Sunrise",
       "external_url": "https://open.spotify.com/track/5L5n7lyXiTR2soMhCQel6n",
       "popularity": 44,
       "album_image": "https://i.scdn.co/image/ab67616d0000b273511b07369101734098b14b0d"
-    },
-    {
-      "name": "Aashiyan",
-      "artist": "gini",
-      "album": "Aashiyan",
-      "external_url": "https://open.spotify.com/track/0OlYIIUtBAWF2iEiTYan5h",
-      "popularity": 44,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273a80dce00e494ada878e23ad7"
-    },
-    {
-      "name": "Mirage",
-      "artist": "Creepy Nuts",
-      "album": "Mirage",
-      "external_url": "https://open.spotify.com/track/3GVNp2UgIp2TN3ra67cxdg",
-      "popularity": 70,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273ae1ddda81dd700bfbfeeb929"
     }
   ],
-  "lastUpdated": "2026-04-30T00:17:09.042309"
+  "lastUpdated": "2026-04-30T06:45:44.656774"
 }
