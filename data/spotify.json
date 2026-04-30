@@ -17,14 +17,6 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b2732c03bdfc36bf6ed55ef37eac"
     },
     {
-      "name": "4 Raws",
-      "artist": "EsDeeKid",
-      "album": "Rebel",
-      "external_url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT",
-      "popularity": 88,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273cff4bd68d5d0dd9a0a748045"
-    },
-    {
       "name": "Pineapple Sunrise",
       "artist": "Beach Weather",
       "album": "Pineapple Sunrise",
@@ -39,7 +31,15 @@
       "external_url": "https://open.spotify.com/track/0OlYIIUtBAWF2iEiTYan5h",
       "popularity": 44,
       "album_image": "https://i.scdn.co/image/ab67616d0000b273a80dce00e494ada878e23ad7"
+    },
+    {
+      "name": "Mirage",
+      "artist": "Creepy Nuts",
+      "album": "Mirage",
+      "external_url": "https://open.spotify.com/track/3GVNp2UgIp2TN3ra67cxdg",
+      "popularity": 70,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273ae1ddda81dd700bfbfeeb929"
     }
   ],
-  "lastUpdated": "2026-04-29T18:24:24.352318"
+  "lastUpdated": "2026-04-30T00:17:09.042309"
 }
