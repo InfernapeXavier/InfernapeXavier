@@ -25,21 +25,21 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b2735f42ea05cfc5233136e8546a"
     },
     {
+      "name": "Matsuri",
+      "artist": "Fujii Kaze",
+      "album": "LOVE ALL SERVE ALL",
+      "external_url": "https://open.spotify.com/track/7AMGgAPFczs3wJgMqu6Eqi",
+      "popularity": 67,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b2739e16930796a07f1195002389"
+    },
+    {
       "name": "Aashiyan",
       "artist": "gini",
       "album": "Aashiyan",
       "external_url": "https://open.spotify.com/track/0OlYIIUtBAWF2iEiTYan5h",
       "popularity": 44,
       "album_image": "https://i.scdn.co/image/ab67616d0000b273a80dce00e494ada878e23ad7"
-    },
-    {
-      "name": "bargad",
-      "artist": "sufr, Arpit Bala, toorjo dey",
-      "album": "bargad",
-      "external_url": "https://open.spotify.com/track/0Q9rHyEG7lME4y2Fqtuxgl",
-      "popularity": 76,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b27369ecc359541c8a49aae7716f"
     }
   ],
-  "lastUpdated": "2026-05-02T18:12:37.440439"
+  "lastUpdated": "2026-05-03T00:14:52.551181"
 }
