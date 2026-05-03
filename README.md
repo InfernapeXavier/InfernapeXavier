@@ -54,7 +54,7 @@ manga_completed=129
 chapters_read="12.2k"
 
 $ echo $FAVORITE_GENRES
-slice_of_life comedy romance
+slice_of_life romance comedy
 
 $ uptime
 Life uptime: Making things work since forever
@@ -87,8 +87,8 @@ All entertainment metrics up to date
 <img src="https://i.scdn.co/image/ab67616d0000b273631dccff4981e435a5a50a70" width="40" height="40" style="border-radius: 4px;" alt="what is life album cover"> | **[what is life](https://open.spotify.com/track/33u4raLe1FaBPZOIXlDTEl)** | *India Thieriot*
 <img src="https://i.scdn.co/image/ab67616d0000b2732c03bdfc36bf6ed55ef37eac" width="40" height="40" style="border-radius: 4px;" alt="かすかなはな - Kasuka na Hana (OP Theme to Hell's Paradise: Jigokuraku Season 2) album cover"> | **[かすかなはな - Kasuka na Hana (OP Theme to Hell's Paradise: Jigokuraku Season 2)](https://open.spotify.com/track/53rbIWRjkjZ86ByiBvwIhQ)** | *Tatsuya Kitani, BABYMETAL*
 <img src="https://i.scdn.co/image/ab67616d0000b2735f42ea05cfc5233136e8546a" width="40" height="40" style="border-radius: 4px;" alt="Stick With You album cover"> | **[Stick With You](https://open.spotify.com/track/1ttNlwhsAwCvSKWGxA6fDk)** | *TOMORROW X TOGETHER*
+<img src="https://i.scdn.co/image/ab67616d0000b273208500450dcd0fd294d7bd3b" width="40" height="40" style="border-radius: 4px;" alt="My Old Ways album cover"> | **[My Old Ways](https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq)** | *Tame Impala*
 <img src="https://i.scdn.co/image/ab67616d0000b2739e16930796a07f1195002389" width="40" height="40" style="border-radius: 4px;" alt="Matsuri album cover"> | **[Matsuri](https://open.spotify.com/track/7AMGgAPFczs3wJgMqu6Eqi)** | *Fujii Kaze*
-<img src="https://i.scdn.co/image/ab67616d0000b273a80dce00e494ada878e23ad7" width="40" height="40" style="border-radius: 4px;" alt="Aashiyan album cover"> | **[Aashiyan](https://open.spotify.com/track/0OlYIIUtBAWF2iEiTYan5h)** | *gini*
 
 </td>
 </tr>
