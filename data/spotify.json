@@ -25,12 +25,12 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b2735f42ea05cfc5233136e8546a"
     },
     {
-      "name": "My Old Ways",
-      "artist": "Tame Impala",
-      "album": "Deadbeat",
-      "external_url": "https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq",
-      "popularity": 77,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273208500450dcd0fd294d7bd3b"
+      "name": "Babydoll",
+      "artist": "Dominic Fike",
+      "album": "Don't Forget About Me, Demos",
+      "external_url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc",
+      "popularity": 100,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b2737b1b6f41c1645af9757d5616"
     },
     {
       "name": "bargad",
@@ -41,5 +41,5 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b27369ecc359541c8a49aae7716f"
     }
   ],
-  "lastUpdated": "2026-05-05T18:24:01.667631"
+  "lastUpdated": "2026-05-06T00:16:43.512872"
 }
