@@ -14,8 +14,8 @@ Currently watching:
   Azumanga Daioh
   Hell’s Paradise Season 2
   One-Punch Man Season 3
-  JUJUTSU KAISEN Season 3: The Culling Game Part 1
   Ansatsu Kyoushitsu: Minna no Jikan
+  Journal with Witch
 
 $ echo "Anime processes active"
 ```
@@ -54,7 +54,7 @@ manga_completed=129
 chapters_read="12.2k"
 
 $ echo $FAVORITE_GENRES
-romance comedy slice_of_life
+comedy slice_of_life romance
 
 $ uptime
 Life uptime: Making things work since forever

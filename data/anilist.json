@@ -46,15 +46,15 @@
       "status": "FINISHED"
     },
     {
-      "title": "JUJUTSU KAISEN Season 3: The Culling Game Part 1",
-      "progress": 10,
-      "totalEpisodes": 12,
-      "status": "FINISHED"
-    },
-    {
       "title": "Ansatsu Kyoushitsu: Minna no Jikan",
       "progress": 0,
       "totalEpisodes": 1,
+      "status": "FINISHED"
+    },
+    {
+      "title": "Journal with Witch",
+      "progress": 12,
+      "totalEpisodes": 13,
       "status": "FINISHED"
     }
   ],
@@ -90,5 +90,5 @@
       "status": "FINISHED"
     }
   ],
-  "lastUpdated": "2026-05-10T06:48:26.292635Z"
+  "lastUpdated": "2026-05-10T12:11:59.808035Z"
 }
