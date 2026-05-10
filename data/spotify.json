@@ -17,6 +17,14 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b2732c03bdfc36bf6ed55ef37eac"
     },
     {
+      "name": "bargad",
+      "artist": "sufr, Arpit Bala, toorjo dey",
+      "album": "bargad",
+      "external_url": "https://open.spotify.com/track/0Q9rHyEG7lME4y2Fqtuxgl",
+      "popularity": 76,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b27369ecc359541c8a49aae7716f"
+    },
+    {
       "name": "Stick With You",
       "artist": "TOMORROW X TOGETHER",
       "album": "7TH YEAR: A Moment of Stillness in the Thorns",
@@ -31,15 +39,7 @@
       "external_url": "https://open.spotify.com/track/1G0z1n7WFA799bd3C1JCn0",
       "popularity": 35,
       "album_image": "https://i.scdn.co/image/ab67616d0000b273f6f6660c02e269b222d52525"
-    },
-    {
-      "name": "Feeka",
-      "artist": "gini, NEVERSOBER",
-      "album": "Feeka",
-      "external_url": "https://open.spotify.com/track/0KtpHwKA3UylFJyaJcdBxv",
-      "popularity": 54,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b2738a525e467b0896e2a9b1c1af"
     }
   ],
-  "lastUpdated": "2026-05-09T18:14:03.593446"
+  "lastUpdated": "2026-05-10T00:16:42.916369"
 }
