@@ -1,14 +1,6 @@
 {
   "topTracks": [
     {
-      "name": "what is life",
-      "artist": "India Thieriot",
-      "album": "what is life",
-      "external_url": "https://open.spotify.com/track/33u4raLe1FaBPZOIXlDTEl",
-      "popularity": 35,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273631dccff4981e435a5a50a70"
-    },
-    {
       "name": "\u304b\u3059\u304b\u306a\u306f\u306a - Kasuka na Hana (OP Theme to Hell's Paradise: Jigokuraku Season 2)",
       "artist": "Tatsuya Kitani, BABYMETAL",
       "album": "\u304b\u3059\u304b\u306a\u306f\u306a - Kasuka na Hana (OP Theme to Hell's Paradise: Jigokuraku Season 2)",
@@ -33,13 +25,21 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b273f6f6660c02e269b222d52525"
     },
     {
-      "name": "Feeka",
-      "artist": "gini, NEVERSOBER",
-      "album": "Feeka",
-      "external_url": "https://open.spotify.com/track/0KtpHwKA3UylFJyaJcdBxv",
-      "popularity": 54,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b2738a525e467b0896e2a9b1c1af"
+      "name": "bargad",
+      "artist": "sufr, Arpit Bala, toorjo dey",
+      "album": "bargad",
+      "external_url": "https://open.spotify.com/track/0Q9rHyEG7lME4y2Fqtuxgl",
+      "popularity": 76,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b27369ecc359541c8a49aae7716f"
+    },
+    {
+      "name": "what is life",
+      "artist": "India Thieriot",
+      "album": "what is life",
+      "external_url": "https://open.spotify.com/track/33u4raLe1FaBPZOIXlDTEl",
+      "popularity": 35,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273631dccff4981e435a5a50a70"
     }
   ],
-  "lastUpdated": "2026-05-12T12:32:07.421705"
+  "lastUpdated": "2026-05-13T00:20:12.906785"
 }
