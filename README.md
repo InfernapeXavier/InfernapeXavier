@@ -54,7 +54,7 @@ manga_completed=129
 chapters_read="12.2k"
 
 $ echo $FAVORITE_GENRES
-romance slice_of_life comedy
+comedy romance slice_of_life
 
 $ uptime
 Life uptime: Making things work since forever
@@ -88,7 +88,7 @@ All entertainment metrics up to date
 <img src="https://i.scdn.co/image/ab67616d0000b2735f42ea05cfc5233136e8546a" width="40" height="40" style="border-radius: 4px;" alt="Stick With You album cover"> | **[Stick With You](https://open.spotify.com/track/1ttNlwhsAwCvSKWGxA6fDk)** | *TOMORROW X TOGETHER*
 <img src="https://i.scdn.co/image/ab67616d0000b273f6f6660c02e269b222d52525" width="40" height="40" style="border-radius: 4px;" alt="dirty white chucks album cover"> | **[dirty white chucks](https://open.spotify.com/track/1G0z1n7WFA799bd3C1JCn0)** | *Nightly*
 <img src="https://i.scdn.co/image/ab67616d0000b27369ecc359541c8a49aae7716f" width="40" height="40" style="border-radius: 4px;" alt="bargad album cover"> | **[bargad](https://open.spotify.com/track/0Q9rHyEG7lME4y2Fqtuxgl)** | *sufr, Arpit Bala, toorjo dey*
-<img src="https://i.scdn.co/image/ab67616d0000b273631dccff4981e435a5a50a70" width="40" height="40" style="border-radius: 4px;" alt="what is life album cover"> | **[what is life](https://open.spotify.com/track/33u4raLe1FaBPZOIXlDTEl)** | *India Thieriot*
+<img src="https://i.scdn.co/image/ab67616d0000b2737b1b6f41c1645af9757d5616" width="40" height="40" style="border-radius: 4px;" alt="Babydoll album cover"> | **[Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc)** | *Dominic Fike*
 
 </td>
 </tr>
