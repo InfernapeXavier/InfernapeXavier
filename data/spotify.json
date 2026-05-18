@@ -17,14 +17,6 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b273f6f6660c02e269b222d52525"
     },
     {
-      "name": "bargad",
-      "artist": "sufr, Arpit Bala, toorjo dey",
-      "album": "bargad",
-      "external_url": "https://open.spotify.com/track/0Q9rHyEG7lME4y2Fqtuxgl",
-      "popularity": 76,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b27369ecc359541c8a49aae7716f"
-    },
-    {
       "name": "Stick With You",
       "artist": "TOMORROW X TOGETHER",
       "album": "7TH YEAR: A Moment of Stillness in the Thorns",
@@ -39,7 +31,15 @@
       "external_url": "https://open.spotify.com/track/7AObZ2Yick368Dk7K6pLgg",
       "popularity": 61,
       "album_image": "https://i.scdn.co/image/ab67616d0000b27383d60709f3098090e5e91c7e"
+    },
+    {
+      "name": "Babydoll",
+      "artist": "Dominic Fike",
+      "album": "Don't Forget About Me, Demos",
+      "external_url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc",
+      "popularity": 100,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b2737b1b6f41c1645af9757d5616"
     }
   ],
-  "lastUpdated": "2026-05-17T18:16:28.861326"
+  "lastUpdated": "2026-05-18T00:19:43.462073"
 }
