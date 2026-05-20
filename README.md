@@ -54,7 +54,7 @@ manga_completed=129
 chapters_read="12.2k"
 
 $ echo $FAVORITE_GENRES
-slice_of_life comedy romance
+romance slice_of_life comedy
 
 $ uptime
 Life uptime: Making things work since forever
@@ -86,9 +86,9 @@ All entertainment metrics up to date
 |-------|-------|--------|
 <img src="https://i.scdn.co/image/ab67616d0000b2732c03bdfc36bf6ed55ef37eac" width="40" height="40" style="border-radius: 4px;" alt="かすかなはな - Kasuka na Hana (OP Theme to Hell's Paradise: Jigokuraku Season 2) album cover"> | **[かすかなはな - Kasuka na Hana (OP Theme to Hell's Paradise: Jigokuraku Season 2)](https://open.spotify.com/track/53rbIWRjkjZ86ByiBvwIhQ)** | *Tatsuya Kitani, BABYMETAL*
 <img src="https://i.scdn.co/image/ab67616d0000b273f6f6660c02e269b222d52525" width="40" height="40" style="border-radius: 4px;" alt="dirty white chucks album cover"> | **[dirty white chucks](https://open.spotify.com/track/1G0z1n7WFA799bd3C1JCn0)** | *Nightly*
-<img src="https://i.scdn.co/image/ab67616d0000b2735f42ea05cfc5233136e8546a" width="40" height="40" style="border-radius: 4px;" alt="Stick With You album cover"> | **[Stick With You](https://open.spotify.com/track/1ttNlwhsAwCvSKWGxA6fDk)** | *TOMORROW X TOGETHER*
-<img src="https://i.scdn.co/image/ab67616d0000b27383d60709f3098090e5e91c7e" width="40" height="40" style="border-radius: 4px;" alt="Paapam album cover"> | **[Paapam](https://open.spotify.com/track/7AObZ2Yick368Dk7K6pLgg)** | *Aksomaniac, Fatboi Raccoon, Shreyas*
-<img src="https://i.scdn.co/image/ab67616d0000b2737b1b6f41c1645af9757d5616" width="40" height="40" style="border-radius: 4px;" alt="Babydoll album cover"> | **[Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc)** | *Dominic Fike*
+<img src="https://i.scdn.co/image/ab67616d0000b27369ecc359541c8a49aae7716f" width="40" height="40" style="border-radius: 4px;" alt="bargad album cover"> | **[bargad](https://open.spotify.com/track/0Q9rHyEG7lME4y2Fqtuxgl)** | *sufr, Arpit Bala, toorjo dey*
+<img src="https://i.scdn.co/image/ab67616d0000b273ebcc261239055e967d7b4b8d" width="40" height="40" style="border-radius: 4px;" alt="See U in Hell (from the Netflix Series "Devil May Cry") album cover"> | **[See U in Hell (from the Netflix Series "Devil May Cry")](https://open.spotify.com/track/26wlaTdnrLNmpz5usoU2T3)** | *Papa Roach, Hanumankind*
+<img src="https://i.scdn.co/image/ab67616d0000b27350e3552d78a48f50426c0f66" width="40" height="40" style="border-radius: 4px;" alt="Jadoo album cover"> | **[Jadoo](https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06)** | *Akshath*
 
 </td>
 </tr>
