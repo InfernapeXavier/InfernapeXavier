@@ -9,22 +9,6 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b273f6f6660c02e269b222d52525"
     },
     {
-      "name": "See U in Hell (from the Netflix Series \"Devil May Cry\")",
-      "artist": "Papa Roach, Hanumankind",
-      "album": "See U in Hell (from the Netflix Series \"Devil May Cry\")",
-      "external_url": "https://open.spotify.com/track/26wlaTdnrLNmpz5usoU2T3",
-      "popularity": 74,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273ebcc261239055e967d7b4b8d"
-    },
-    {
-      "name": "Stick With You",
-      "artist": "TOMORROW X TOGETHER",
-      "album": "7TH YEAR: A Moment of Stillness in the Thorns",
-      "external_url": "https://open.spotify.com/track/1ttNlwhsAwCvSKWGxA6fDk",
-      "popularity": 86,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b2735f42ea05cfc5233136e8546a"
-    },
-    {
       "name": "\u304b\u3059\u304b\u306a\u306f\u306a - Kasuka na Hana (OP Theme to Hell's Paradise: Jigokuraku Season 2)",
       "artist": "Tatsuya Kitani, BABYMETAL",
       "album": "\u304b\u3059\u304b\u306a\u306f\u306a - Kasuka na Hana (OP Theme to Hell's Paradise: Jigokuraku Season 2)",
@@ -33,13 +17,29 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b2732c03bdfc36bf6ed55ef37eac"
     },
     {
-      "name": "Car Crash",
-      "artist": "eaJ",
-      "album": "Car Crash",
-      "external_url": "https://open.spotify.com/track/6mZ6SNzhdYJg9cN22RoZip",
-      "popularity": 53,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b2736441f6ad0f09b65cb7386f7e"
+      "name": "See U in Hell (from the Netflix Series \"Devil May Cry\")",
+      "artist": "Papa Roach, Hanumankind",
+      "album": "See U in Hell (from the Netflix Series \"Devil May Cry\")",
+      "external_url": "https://open.spotify.com/track/26wlaTdnrLNmpz5usoU2T3",
+      "popularity": 74,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273ebcc261239055e967d7b4b8d"
+    },
+    {
+      "name": "Jadoo",
+      "artist": "Akshath",
+      "album": "Jadoo",
+      "external_url": "https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06",
+      "popularity": 51,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b27350e3552d78a48f50426c0f66"
+    },
+    {
+      "name": "Stick With You",
+      "artist": "TOMORROW X TOGETHER",
+      "album": "7TH YEAR: A Moment of Stillness in the Thorns",
+      "external_url": "https://open.spotify.com/track/1ttNlwhsAwCvSKWGxA6fDk",
+      "popularity": 86,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b2735f42ea05cfc5233136e8546a"
     }
   ],
-  "lastUpdated": "2026-05-21T12:55:42.858098"
+  "lastUpdated": "2026-05-21T18:31:57.089082"
 }
