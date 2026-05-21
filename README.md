@@ -54,7 +54,7 @@ manga_completed=129
 chapters_read="12.2k"
 
 $ echo $FAVORITE_GENRES
-slice_of_life comedy romance
+romance slice_of_life comedy
 
 $ uptime
 Life uptime: Making things work since forever
@@ -87,8 +87,8 @@ All entertainment metrics up to date
 <img src="https://i.scdn.co/image/ab67616d0000b273f6f6660c02e269b222d52525" width="40" height="40" style="border-radius: 4px;" alt="dirty white chucks album cover"> | **[dirty white chucks](https://open.spotify.com/track/1G0z1n7WFA799bd3C1JCn0)** | *Nightly*
 <img src="https://i.scdn.co/image/ab67616d0000b2732c03bdfc36bf6ed55ef37eac" width="40" height="40" style="border-radius: 4px;" alt="かすかなはな - Kasuka na Hana (OP Theme to Hell's Paradise: Jigokuraku Season 2) album cover"> | **[かすかなはな - Kasuka na Hana (OP Theme to Hell's Paradise: Jigokuraku Season 2)](https://open.spotify.com/track/53rbIWRjkjZ86ByiBvwIhQ)** | *Tatsuya Kitani, BABYMETAL*
 <img src="https://i.scdn.co/image/ab67616d0000b273ebcc261239055e967d7b4b8d" width="40" height="40" style="border-radius: 4px;" alt="See U in Hell (from the Netflix Series "Devil May Cry") album cover"> | **[See U in Hell (from the Netflix Series "Devil May Cry")](https://open.spotify.com/track/26wlaTdnrLNmpz5usoU2T3)** | *Papa Roach, Hanumankind*
+<img src="https://i.scdn.co/image/ab67616d0000b273db3723fdd17cf1f3e9f345c3" width="40" height="40" style="border-radius: 4px;" alt="Mission to Mars album cover"> | **[Mission to Mars](https://open.spotify.com/track/2U4bhUMaQ1VnaFsChRaaug)** | *WHALES•TALK*
 <img src="https://i.scdn.co/image/ab67616d0000b27369ecc359541c8a49aae7716f" width="40" height="40" style="border-radius: 4px;" alt="bargad album cover"> | **[bargad](https://open.spotify.com/track/0Q9rHyEG7lME4y2Fqtuxgl)** | *sufr, Arpit Bala, toorjo dey*
-<img src="https://i.scdn.co/image/ab67616d0000b2736441f6ad0f09b65cb7386f7e" width="40" height="40" style="border-radius: 4px;" alt="Car Crash album cover"> | **[Car Crash](https://open.spotify.com/track/6mZ6SNzhdYJg9cN22RoZip)** | *eaJ*
 
 </td>
 </tr>
