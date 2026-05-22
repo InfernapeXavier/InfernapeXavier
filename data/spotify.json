@@ -9,14 +9,6 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b273f6f6660c02e269b222d52525"
     },
     {
-      "name": "\u304b\u3059\u304b\u306a\u306f\u306a - Kasuka na Hana (OP Theme to Hell's Paradise: Jigokuraku Season 2)",
-      "artist": "Tatsuya Kitani, BABYMETAL",
-      "album": "\u304b\u3059\u304b\u306a\u306f\u306a - Kasuka na Hana (OP Theme to Hell's Paradise: Jigokuraku Season 2)",
-      "external_url": "https://open.spotify.com/track/53rbIWRjkjZ86ByiBvwIhQ",
-      "popularity": 68,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b2732c03bdfc36bf6ed55ef37eac"
-    },
-    {
       "name": "See U in Hell (from the Netflix Series \"Devil May Cry\")",
       "artist": "Papa Roach, Hanumankind",
       "album": "See U in Hell (from the Netflix Series \"Devil May Cry\")",
@@ -25,12 +17,12 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b273ebcc261239055e967d7b4b8d"
     },
     {
-      "name": "Jadoo",
-      "artist": "Akshath",
-      "album": "Jadoo",
-      "external_url": "https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06",
-      "popularity": 51,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b27350e3552d78a48f50426c0f66"
+      "name": "\u304b\u3059\u304b\u306a\u306f\u306a - Kasuka na Hana (OP Theme to Hell's Paradise: Jigokuraku Season 2)",
+      "artist": "Tatsuya Kitani, BABYMETAL",
+      "album": "\u304b\u3059\u304b\u306a\u306f\u306a - Kasuka na Hana (OP Theme to Hell's Paradise: Jigokuraku Season 2)",
+      "external_url": "https://open.spotify.com/track/53rbIWRjkjZ86ByiBvwIhQ",
+      "popularity": 68,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b2732c03bdfc36bf6ed55ef37eac"
     },
     {
       "name": "Stick With You",
@@ -39,7 +31,15 @@
       "external_url": "https://open.spotify.com/track/1ttNlwhsAwCvSKWGxA6fDk",
       "popularity": 86,
       "album_image": "https://i.scdn.co/image/ab67616d0000b2735f42ea05cfc5233136e8546a"
+    },
+    {
+      "name": "Jadoo",
+      "artist": "Akshath",
+      "album": "Jadoo",
+      "external_url": "https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06",
+      "popularity": 51,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b27350e3552d78a48f50426c0f66"
     }
   ],
-  "lastUpdated": "2026-05-21T18:31:57.089082"
+  "lastUpdated": "2026-05-22T00:21:30.041010"
 }
