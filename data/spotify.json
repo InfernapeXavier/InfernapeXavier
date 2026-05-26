@@ -17,6 +17,14 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b273ebcc261239055e967d7b4b8d"
     },
     {
+      "name": "Mission to Mars",
+      "artist": "WHALES\u2022TALK",
+      "album": "Eternal Sunshine",
+      "external_url": "https://open.spotify.com/track/2U4bhUMaQ1VnaFsChRaaug",
+      "popularity": 36,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273db3723fdd17cf1f3e9f345c3"
+    },
+    {
       "name": "\u304b\u3059\u304b\u306a\u306f\u306a - Kasuka na Hana (OP Theme to Hell's Paradise: Jigokuraku Season 2)",
       "artist": "Tatsuya Kitani, BABYMETAL",
       "album": "\u304b\u3059\u304b\u306a\u306f\u306a - Kasuka na Hana (OP Theme to Hell's Paradise: Jigokuraku Season 2)",
@@ -31,15 +39,7 @@
       "external_url": "https://open.spotify.com/track/7xmDYRpJWq23yoooOvrhIj",
       "popularity": 33,
       "album_image": "https://i.scdn.co/image/ab67616d0000b2733959cc34c96eff049c8a8b36"
-    },
-    {
-      "name": "Jadoo",
-      "artist": "Akshath",
-      "album": "Jadoo",
-      "external_url": "https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06",
-      "popularity": 51,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b27350e3552d78a48f50426c0f66"
     }
   ],
-  "lastUpdated": "2026-05-26T12:50:35.189250"
+  "lastUpdated": "2026-05-26T18:42:55.985172"
 }
