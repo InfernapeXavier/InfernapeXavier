@@ -1,22 +1,6 @@
 {
   "topTracks": [
     {
-      "name": "westside",
-      "artist": "sindr",
-      "album": "westside",
-      "external_url": "https://open.spotify.com/track/7xmDYRpJWq23yoooOvrhIj",
-      "popularity": 32,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b2733959cc34c96eff049c8a8b36"
-    },
-    {
-      "name": "dirty white chucks",
-      "artist": "Nightly",
-      "album": "dirty white chucks",
-      "external_url": "https://open.spotify.com/track/1G0z1n7WFA799bd3C1JCn0",
-      "popularity": 35,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273f6f6660c02e269b222d52525"
-    },
-    {
       "name": "See U in Hell (from the Netflix Series \"Devil May Cry\")",
       "artist": "Papa Roach, Hanumankind",
       "album": "See U in Hell (from the Netflix Series \"Devil May Cry\")",
@@ -33,13 +17,29 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b27350e3552d78a48f50426c0f66"
     },
     {
-      "name": "Mission to Mars",
-      "artist": "WHALES\u2022TALK",
-      "album": "Eternal Sunshine",
-      "external_url": "https://open.spotify.com/track/2U4bhUMaQ1VnaFsChRaaug",
-      "popularity": 36,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273db3723fdd17cf1f3e9f345c3"
+      "name": "dirty white chucks",
+      "artist": "Nightly",
+      "album": "dirty white chucks",
+      "external_url": "https://open.spotify.com/track/1G0z1n7WFA799bd3C1JCn0",
+      "popularity": 35,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273f6f6660c02e269b222d52525"
+    },
+    {
+      "name": "westside",
+      "artist": "sindr",
+      "album": "westside",
+      "external_url": "https://open.spotify.com/track/7xmDYRpJWq23yoooOvrhIj",
+      "popularity": 32,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b2733959cc34c96eff049c8a8b36"
+    },
+    {
+      "name": "\u304b\u3059\u304b\u306a\u306f\u306a - Kasuka na Hana (OP Theme to Hell's Paradise: Jigokuraku Season 2)",
+      "artist": "Tatsuya Kitani, BABYMETAL",
+      "album": "\u304b\u3059\u304b\u306a\u306f\u306a - Kasuka na Hana (OP Theme to Hell's Paradise: Jigokuraku Season 2)",
+      "external_url": "https://open.spotify.com/track/53rbIWRjkjZ86ByiBvwIhQ",
+      "popularity": 67,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b2732c03bdfc36bf6ed55ef37eac"
     }
   ],
-  "lastUpdated": "2026-06-01T19:33:53.966009"
+  "lastUpdated": "2026-06-02T00:27:46.676855"
 }
