@@ -17,14 +17,6 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b27350e3552d78a48f50426c0f66"
     },
     {
-      "name": "dirty white chucks",
-      "artist": "Nightly",
-      "album": "dirty white chucks",
-      "external_url": "https://open.spotify.com/track/1G0z1n7WFA799bd3C1JCn0",
-      "popularity": 35,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273f6f6660c02e269b222d52525"
-    },
-    {
       "name": "westside",
       "artist": "sindr",
       "album": "westside",
@@ -39,7 +31,15 @@
       "external_url": "https://open.spotify.com/track/53rbIWRjkjZ86ByiBvwIhQ",
       "popularity": 67,
       "album_image": "https://i.scdn.co/image/ab67616d0000b2732c03bdfc36bf6ed55ef37eac"
+    },
+    {
+      "name": "Summerland",
+      "artist": "half\u2022alive",
+      "album": "Give Me Your Shoulders, Pt. 1",
+      "external_url": "https://open.spotify.com/track/64ch5GFGb2lq9NbjPdjkaM",
+      "popularity": 49,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b27384a3370d50d158d088d47f55"
     }
   ],
-  "lastUpdated": "2026-06-02T19:05:34.994284"
+  "lastUpdated": "2026-06-03T00:32:22.056727"
 }

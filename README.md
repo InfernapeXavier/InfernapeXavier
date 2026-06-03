@@ -54,7 +54,7 @@ manga_completed=129
 chapters_read="12.3k"
 
 $ echo $FAVORITE_GENRES
-comedy romance slice_of_life
+romance comedy slice_of_life
 
 $ uptime
 Life uptime: Making things work since forever
@@ -86,9 +86,9 @@ All entertainment metrics up to date
 |-------|-------|--------|
 <img src="https://i.scdn.co/image/ab67616d0000b273ebcc261239055e967d7b4b8d" width="40" height="40" style="border-radius: 4px;" alt="See U in Hell (from the Netflix Series "Devil May Cry") album cover"> | **[See U in Hell (from the Netflix Series "Devil May Cry")](https://open.spotify.com/track/26wlaTdnrLNmpz5usoU2T3)** | *Papa Roach, Hanumankind*
 <img src="https://i.scdn.co/image/ab67616d0000b27350e3552d78a48f50426c0f66" width="40" height="40" style="border-radius: 4px;" alt="Jadoo album cover"> | **[Jadoo](https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06)** | *Akshath*
-<img src="https://i.scdn.co/image/ab67616d0000b273f6f6660c02e269b222d52525" width="40" height="40" style="border-radius: 4px;" alt="dirty white chucks album cover"> | **[dirty white chucks](https://open.spotify.com/track/1G0z1n7WFA799bd3C1JCn0)** | *Nightly*
 <img src="https://i.scdn.co/image/ab67616d0000b2733959cc34c96eff049c8a8b36" width="40" height="40" style="border-radius: 4px;" alt="westside album cover"> | **[westside](https://open.spotify.com/track/7xmDYRpJWq23yoooOvrhIj)** | *sindr*
 <img src="https://i.scdn.co/image/ab67616d0000b2732c03bdfc36bf6ed55ef37eac" width="40" height="40" style="border-radius: 4px;" alt="かすかなはな - Kasuka na Hana (OP Theme to Hell's Paradise: Jigokuraku Season 2) album cover"> | **[かすかなはな - Kasuka na Hana (OP Theme to Hell's Paradise: Jigokuraku Season 2)](https://open.spotify.com/track/53rbIWRjkjZ86ByiBvwIhQ)** | *Tatsuya Kitani, BABYMETAL*
+<img src="https://i.scdn.co/image/ab67616d0000b27384a3370d50d158d088d47f55" width="40" height="40" style="border-radius: 4px;" alt="Summerland album cover"> | **[Summerland](https://open.spotify.com/track/64ch5GFGb2lq9NbjPdjkaM)** | *half•alive*
 
 </td>
 </tr>
