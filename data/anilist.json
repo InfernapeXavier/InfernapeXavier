@@ -28,33 +28,33 @@
   },
   "currentlyWatching": [
     {
+      "title": "The Angel Next Door Spoils Me Rotten2",
+      "progress": 0,
+      "totalEpisodes": 12,
+      "status": "RELEASING"
+    },
+    {
+      "title": "Dr. STONE SCIENCE FUTURE Cour 3",
+      "progress": 1,
+      "totalEpisodes": 13,
+      "status": "RELEASING"
+    },
+    {
+      "title": "The Ramparts of Ice",
+      "progress": 0,
+      "totalEpisodes": null,
+      "status": "RELEASING"
+    },
+    {
+      "title": "The Klutzy Class Monitor and the Girl with the Short Skirt",
+      "progress": 0,
+      "totalEpisodes": 12,
+      "status": "RELEASING"
+    },
+    {
       "title": "Azumanga Daioh",
       "progress": 1,
       "totalEpisodes": 26,
-      "status": "FINISHED"
-    },
-    {
-      "title": "Hell\u2019s Paradise Season 2",
-      "progress": 6,
-      "totalEpisodes": 12,
-      "status": "FINISHED"
-    },
-    {
-      "title": "One-Punch Man Season 3",
-      "progress": 7,
-      "totalEpisodes": 12,
-      "status": "FINISHED"
-    },
-    {
-      "title": "Ansatsu Kyoushitsu: Minna no Jikan",
-      "progress": 0,
-      "totalEpisodes": 1,
-      "status": "FINISHED"
-    },
-    {
-      "title": "Journal with Witch",
-      "progress": 12,
-      "totalEpisodes": 13,
       "status": "FINISHED"
     }
   ],
@@ -90,5 +90,5 @@
       "status": "FINISHED"
     }
   ],
-  "lastUpdated": "2026-06-03T13:25:20.791352Z"
+  "lastUpdated": "2026-06-03T19:11:01.474918Z"
 }
