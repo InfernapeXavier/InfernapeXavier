@@ -4,7 +4,7 @@
     "stats": {
       "anime": {
         "count": 244,
-        "minutesWatched": 72466,
+        "minutesWatched": 72658,
         "topGenres": [
           "Comedy",
           "Slice of Life",
@@ -35,7 +35,7 @@
     },
     {
       "title": "Dr. STONE SCIENCE FUTURE Cour 3",
-      "progress": 1,
+      "progress": 9,
       "totalEpisodes": 13,
       "status": "RELEASING"
     },
@@ -90,5 +90,5 @@
       "status": "FINISHED"
     }
   ],
-  "lastUpdated": "2026-06-05T18:33:29.992609Z"
+  "lastUpdated": "2026-06-06T00:23:43.220565Z"
 }
