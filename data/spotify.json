@@ -17,14 +17,6 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b27384a3370d50d158d088d47f55"
     },
     {
-      "name": "\u304b\u3059\u304b\u306a\u306f\u306a - Kasuka na Hana (OP Theme to Hell's Paradise: Jigokuraku Season 2)",
-      "artist": "Tatsuya Kitani, BABYMETAL",
-      "album": "\u304b\u3059\u304b\u306a\u306f\u306a - Kasuka na Hana (OP Theme to Hell's Paradise: Jigokuraku Season 2)",
-      "external_url": "https://open.spotify.com/track/53rbIWRjkjZ86ByiBvwIhQ",
-      "popularity": 67,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b2732c03bdfc36bf6ed55ef37eac"
-    },
-    {
       "name": "Good Girl",
       "artist": "Paris Paloma",
       "album": "Good Girl",
@@ -39,7 +31,15 @@
       "external_url": "https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA",
       "popularity": 89,
       "album_image": "https://i.scdn.co/image/ab67616d0000b273208500450dcd0fd294d7bd3b"
+    },
+    {
+      "name": "\u30e1\u30ac\u30cd\u3092\u5916\u3057\u3066",
+      "artist": "\u4e43\u7d2b",
+      "album": "\u30e1\u30ac\u30cd\u3092\u5916\u3057\u3066",
+      "external_url": "https://open.spotify.com/track/1bf8JWS76QZLRRsGeVfWF9",
+      "popularity": 68,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273cecb6213e6f6e35e61086ba2"
     }
   ],
-  "lastUpdated": "2026-06-08T00:25:34.507077"
+  "lastUpdated": "2026-06-08T07:30:32.606656"
 }
