@@ -17,29 +17,29 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b27384a3370d50d158d088d47f55"
     },
     {
-      "name": "westside",
-      "artist": "sindr",
-      "album": "westside",
-      "external_url": "https://open.spotify.com/track/7xmDYRpJWq23yoooOvrhIj",
-      "popularity": 31,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b2733959cc34c96eff049c8a8b36"
-    },
-    {
-      "name": "Quite the Opposite",
-      "artist": "Dominic Fike",
-      "album": "Rocket",
-      "external_url": "https://open.spotify.com/track/52001S5hssoZCucIE15ALw",
-      "popularity": 57,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273f83bcf37c54cd2ade3ecaec8"
-    },
-    {
       "name": "\u304b\u3059\u304b\u306a\u306f\u306a - Kasuka na Hana (OP Theme to Hell's Paradise: Jigokuraku Season 2)",
       "artist": "Tatsuya Kitani, BABYMETAL",
       "album": "\u304b\u3059\u304b\u306a\u306f\u306a - Kasuka na Hana (OP Theme to Hell's Paradise: Jigokuraku Season 2)",
       "external_url": "https://open.spotify.com/track/53rbIWRjkjZ86ByiBvwIhQ",
       "popularity": 67,
       "album_image": "https://i.scdn.co/image/ab67616d0000b2732c03bdfc36bf6ed55ef37eac"
+    },
+    {
+      "name": "Good Girl",
+      "artist": "Paris Paloma",
+      "album": "Good Girl",
+      "external_url": "https://open.spotify.com/track/5916POJDlPQRBbe1SJc7uK",
+      "popularity": 57,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273646e91a1d5612cd7a173b76b"
+    },
+    {
+      "name": "Dracula",
+      "artist": "Tame Impala",
+      "album": "Deadbeat",
+      "external_url": "https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA",
+      "popularity": 89,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273208500450dcd0fd294d7bd3b"
     }
   ],
-  "lastUpdated": "2026-06-07T18:21:01.263912"
+  "lastUpdated": "2026-06-08T00:25:34.507077"
 }
