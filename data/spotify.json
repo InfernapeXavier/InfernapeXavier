@@ -9,14 +9,6 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b27350e3552d78a48f50426c0f66"
     },
     {
-      "name": "Summerland",
-      "artist": "half\u2022alive",
-      "album": "Give Me Your Shoulders, Pt. 1",
-      "external_url": "https://open.spotify.com/track/64ch5GFGb2lq9NbjPdjkaM",
-      "popularity": 49,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b27384a3370d50d158d088d47f55"
-    },
-    {
       "name": "Good Girl",
       "artist": "Paris Paloma",
       "album": "Good Girl",
@@ -39,7 +31,15 @@
       "external_url": "https://open.spotify.com/track/1bf8JWS76QZLRRsGeVfWF9",
       "popularity": 68,
       "album_image": "https://i.scdn.co/image/ab67616d0000b273cecb6213e6f6e35e61086ba2"
+    },
+    {
+      "name": "Nazar",
+      "artist": "Darzi",
+      "album": "Awaaz",
+      "external_url": "https://open.spotify.com/track/3o9eTbeS8UB8fbHpc1gx7X",
+      "popularity": 44,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b2738173de4187962453d4dba418"
     }
   ],
-  "lastUpdated": "2026-06-08T18:43:09.312663"
+  "lastUpdated": "2026-06-09T00:20:46.136497"
 }
