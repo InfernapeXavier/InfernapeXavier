@@ -9,14 +9,6 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b27350e3552d78a48f50426c0f66"
     },
     {
-      "name": "Finding Her",
-      "artist": "Kushagra, Bharath, Saaheal",
-      "album": "Finding Her",
-      "external_url": "https://open.spotify.com/track/5ThyDv6aRVU8AH4vXQNldF",
-      "popularity": 86,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273292341cd3e621d7f9171331f"
-    },
-    {
       "name": "Dracula",
       "artist": "Tame Impala",
       "album": "Deadbeat",
@@ -39,7 +31,15 @@
       "external_url": "https://open.spotify.com/track/3o9eTbeS8UB8fbHpc1gx7X",
       "popularity": 44,
       "album_image": "https://i.scdn.co/image/ab67616d0000b2738173de4187962453d4dba418"
+    },
+    {
+      "name": "Quite the Opposite",
+      "artist": "Dominic Fike",
+      "album": "Rocket",
+      "external_url": "https://open.spotify.com/track/52001S5hssoZCucIE15ALw",
+      "popularity": 57,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273f83bcf37c54cd2ade3ecaec8"
     }
   ],
-  "lastUpdated": "2026-06-10T12:59:05.961137"
+  "lastUpdated": "2026-06-10T18:46:15.296469"
 }
