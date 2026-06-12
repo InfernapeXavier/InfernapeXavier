@@ -54,7 +54,7 @@ manga_completed=129
 chapters_read="12.3k"
 
 $ echo $FAVORITE_GENRES
-romance slice_of_life comedy
+slice_of_life romance comedy
 
 $ uptime
 Life uptime: Making things work since forever
@@ -85,10 +85,10 @@ All entertainment metrics up to date
 | Cover | Track | Artist |
 |-------|-------|--------|
 <img src="https://i.scdn.co/image/ab67616d0000b27350e3552d78a48f50426c0f66" width="40" height="40" style="border-radius: 4px;" alt="Jadoo album cover"> | **[Jadoo](https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06)** | *Akshath*
+<img src="https://i.scdn.co/image/ab67616d0000b2732c03bdfc36bf6ed55ef37eac" width="40" height="40" style="border-radius: 4px;" alt="かすかなはな - Kasuka na Hana (OP Theme to Hell's Paradise: Jigokuraku Season 2) album cover"> | **[かすかなはな - Kasuka na Hana (OP Theme to Hell's Paradise: Jigokuraku Season 2)](https://open.spotify.com/track/53rbIWRjkjZ86ByiBvwIhQ)** | *Tatsuya Kitani, BABYMETAL*
 <img src="https://i.scdn.co/image/ab67616d0000b27328dca2c8ef21646d5c7db1ae" width="40" height="40" style="border-radius: 4px;" alt="Bye album cover"> | **[Bye](https://open.spotify.com/track/0PGU5mcLncBYE8yuVpSwqA)** | *Aditya Bhardwaj*
 <img src="https://i.scdn.co/image/ab67616d0000b273208500450dcd0fd294d7bd3b" width="40" height="40" style="border-radius: 4px;" alt="Dracula album cover"> | **[Dracula](https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA)** | *Tame Impala*
 <img src="https://i.scdn.co/image/ab67616d0000b273cecb6213e6f6e35e61086ba2" width="40" height="40" style="border-radius: 4px;" alt="メガネを外して album cover"> | **[メガネを外して](https://open.spotify.com/track/1bf8JWS76QZLRRsGeVfWF9)** | *乃紫*
-<img src="https://i.scdn.co/image/ab67616d0000b2738173de4187962453d4dba418" width="40" height="40" style="border-radius: 4px;" alt="Nazar album cover"> | **[Nazar](https://open.spotify.com/track/3o9eTbeS8UB8fbHpc1gx7X)** | *Darzi*
 
 </td>
 </tr>
