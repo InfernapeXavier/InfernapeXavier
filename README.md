@@ -54,7 +54,7 @@ manga_completed=129
 chapters_read="12.3k"
 
 $ echo $FAVORITE_GENRES
-romance comedy slice_of_life
+slice_of_life comedy romance
 
 $ uptime
 Life uptime: Making things work since forever
@@ -85,10 +85,10 @@ All entertainment metrics up to date
 | Cover | Track | Artist |
 |-------|-------|--------|
 <img src="https://i.scdn.co/image/ab67616d0000b27350e3552d78a48f50426c0f66" width="40" height="40" style="border-radius: 4px;" alt="Jadoo album cover"> | **[Jadoo](https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06)** | *Akshath*
+<img src="https://i.scdn.co/image/ab67616d0000b273cecb6213e6f6e35e61086ba2" width="40" height="40" style="border-radius: 4px;" alt="メガネを外して album cover"> | **[メガネを外して](https://open.spotify.com/track/1bf8JWS76QZLRRsGeVfWF9)** | *乃紫*
 <img src="https://i.scdn.co/image/ab67616d0000b2732c03bdfc36bf6ed55ef37eac" width="40" height="40" style="border-radius: 4px;" alt="かすかなはな - Kasuka na Hana (OP Theme to Hell's Paradise: Jigokuraku Season 2) album cover"> | **[かすかなはな - Kasuka na Hana (OP Theme to Hell's Paradise: Jigokuraku Season 2)](https://open.spotify.com/track/53rbIWRjkjZ86ByiBvwIhQ)** | *Tatsuya Kitani, BABYMETAL*
 <img src="https://i.scdn.co/image/ab67616d0000b273292341cd3e621d7f9171331f" width="40" height="40" style="border-radius: 4px;" alt="Finding Her album cover"> | **[Finding Her](https://open.spotify.com/track/5ThyDv6aRVU8AH4vXQNldF)** | *Kushagra, Bharath, Saaheal*
-<img src="https://i.scdn.co/image/ab67616d0000b273208500450dcd0fd294d7bd3b" width="40" height="40" style="border-radius: 4px;" alt="Dracula album cover"> | **[Dracula](https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA)** | *Tame Impala*
-<img src="https://i.scdn.co/image/ab67616d0000b273cecb6213e6f6e35e61086ba2" width="40" height="40" style="border-radius: 4px;" alt="メガネを外して album cover"> | **[メガネを外して](https://open.spotify.com/track/1bf8JWS76QZLRRsGeVfWF9)** | *乃紫*
+<img src="https://i.scdn.co/image/ab67616d0000b273a80dce00e494ada878e23ad7" width="40" height="40" style="border-radius: 4px;" alt="Aashiyan album cover"> | **[Aashiyan](https://open.spotify.com/track/0OlYIIUtBAWF2iEiTYan5h)** | *gini*
 
 </td>
 </tr>
