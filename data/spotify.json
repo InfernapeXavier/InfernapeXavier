@@ -9,6 +9,14 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b27350e3552d78a48f50426c0f66"
     },
     {
+      "name": "Shinunoga E-Wa",
+      "artist": "Fujii Kaze",
+      "album": "HELP EVER HURT NEVER",
+      "external_url": "https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW",
+      "popularity": 79,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b27322805a1b17e41ae357bd98bc"
+    },
+    {
       "name": "\u304b\u3059\u304b\u306a\u306f\u306a - Kasuka na Hana (OP Theme to Hell's Paradise: Jigokuraku Season 2)",
       "artist": "Tatsuya Kitani, BABYMETAL",
       "album": "\u304b\u3059\u304b\u306a\u306f\u306a - Kasuka na Hana (OP Theme to Hell's Paradise: Jigokuraku Season 2)",
@@ -25,21 +33,13 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b273292341cd3e621d7f9171331f"
     },
     {
-      "name": "Aashiyan",
-      "artist": "gini",
-      "album": "Aashiyan",
-      "external_url": "https://open.spotify.com/track/0OlYIIUtBAWF2iEiTYan5h",
-      "popularity": 43,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273a80dce00e494ada878e23ad7"
-    },
-    {
-      "name": "Dracula",
-      "artist": "Tame Impala",
-      "album": "Deadbeat",
-      "external_url": "https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA",
-      "popularity": 89,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273208500450dcd0fd294d7bd3b"
+      "name": "Victory Lap Five",
+      "artist": "Fred again.., Skepta, PlaqueBoyMax, Denzel Curry, Hanumankind, That Mexican OT, D Double E, LYNY",
+      "album": "USB",
+      "external_url": "https://open.spotify.com/track/7p6lz0cjRukXzHxOopaBZj",
+      "popularity": 71,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b2734018b70099d433d9c8aabb12"
     }
   ],
-  "lastUpdated": "2026-06-16T00:32:58.191791"
+  "lastUpdated": "2026-06-16T07:47:37.777681"
 }
