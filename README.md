@@ -54,7 +54,7 @@ manga_completed=129
 chapters_read="12.3k"
 
 $ echo $FAVORITE_GENRES
-comedy romance slice_of_life
+romance slice_of_life comedy
 
 $ uptime
 Life uptime: Making things work since forever
@@ -88,7 +88,7 @@ All entertainment metrics up to date
 <img src="https://i.scdn.co/image/ab67616d0000b27322805a1b17e41ae357bd98bc" width="40" height="40" style="border-radius: 4px;" alt="Shinunoga E-Wa album cover"> | **[Shinunoga E-Wa](https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW)** | *Fujii Kaze*
 <img src="https://i.scdn.co/image/ab67616d0000b2732c03bdfc36bf6ed55ef37eac" width="40" height="40" style="border-radius: 4px;" alt="かすかなはな - Kasuka na Hana (OP Theme to Hell's Paradise: Jigokuraku Season 2) album cover"> | **[かすかなはな - Kasuka na Hana (OP Theme to Hell's Paradise: Jigokuraku Season 2)](https://open.spotify.com/track/53rbIWRjkjZ86ByiBvwIhQ)** | *Tatsuya Kitani, BABYMETAL*
 <img src="https://i.scdn.co/image/ab67616d0000b273292341cd3e621d7f9171331f" width="40" height="40" style="border-radius: 4px;" alt="Finding Her album cover"> | **[Finding Her](https://open.spotify.com/track/5ThyDv6aRVU8AH4vXQNldF)** | *Kushagra, Bharath, Saaheal*
-<img src="https://i.scdn.co/image/ab67616d0000b2734018b70099d433d9c8aabb12" width="40" height="40" style="border-radius: 4px;" alt="Victory Lap Five album cover"> | **[Victory Lap Five](https://open.spotify.com/track/7p6lz0cjRukXzHxOopaBZj)** | *Fred again.., Skepta, PlaqueBoyMax, Denzel Curry, Hanumankind, That Mexican OT, D Double E, LYNY*
+<img src="https://i.scdn.co/image/ab67616d0000b2733959cc34c96eff049c8a8b36" width="40" height="40" style="border-radius: 4px;" alt="westside album cover"> | **[westside](https://open.spotify.com/track/7xmDYRpJWq23yoooOvrhIj)** | *sindr*
 
 </td>
 </tr>
