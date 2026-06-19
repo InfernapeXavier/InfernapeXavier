@@ -9,22 +9,6 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b27350e3552d78a48f50426c0f66"
     },
     {
-      "name": "Shinunoga E-Wa",
-      "artist": "Fujii Kaze",
-      "album": "HELP EVER HURT NEVER",
-      "external_url": "https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW",
-      "popularity": 79,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b27322805a1b17e41ae357bd98bc"
-    },
-    {
-      "name": "\u304b\u3059\u304b\u306a\u306f\u306a - Kasuka na Hana (OP Theme to Hell's Paradise: Jigokuraku Season 2)",
-      "artist": "Tatsuya Kitani, BABYMETAL",
-      "album": "\u304b\u3059\u304b\u306a\u306f\u306a - Kasuka na Hana (OP Theme to Hell's Paradise: Jigokuraku Season 2)",
-      "external_url": "https://open.spotify.com/track/53rbIWRjkjZ86ByiBvwIhQ",
-      "popularity": 67,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b2732c03bdfc36bf6ed55ef37eac"
-    },
-    {
       "name": "westside",
       "artist": "sindr",
       "album": "westside",
@@ -33,13 +17,29 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b2733959cc34c96eff049c8a8b36"
     },
     {
-      "name": "Victory Lap Five",
-      "artist": "Fred again.., Skepta, PlaqueBoyMax, Denzel Curry, Hanumankind, That Mexican OT, D Double E, LYNY",
-      "album": "USB",
-      "external_url": "https://open.spotify.com/track/7p6lz0cjRukXzHxOopaBZj",
-      "popularity": 71,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b2734018b70099d433d9c8aabb12"
+      "name": "Shinunoga E-Wa",
+      "artist": "Fujii Kaze",
+      "album": "HELP EVER HURT NEVER",
+      "external_url": "https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW",
+      "popularity": 79,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b27322805a1b17e41ae357bd98bc"
+    },
+    {
+      "name": "Feeka",
+      "artist": "gini, NEVERSOBER",
+      "album": "Feeka",
+      "external_url": "https://open.spotify.com/track/0KtpHwKA3UylFJyaJcdBxv",
+      "popularity": 53,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b2738a525e467b0896e2a9b1c1af"
+    },
+    {
+      "name": "Dracula",
+      "artist": "Tame Impala",
+      "album": "Deadbeat",
+      "external_url": "https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA",
+      "popularity": 89,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273208500450dcd0fd294d7bd3b"
     }
   ],
-  "lastUpdated": "2026-06-18T18:42:33.910214"
+  "lastUpdated": "2026-06-19T00:32:05.670626"
 }
