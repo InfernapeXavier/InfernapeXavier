@@ -15,7 +15,7 @@
       },
       "manga": {
         "count": 129,
-        "chaptersRead": 12349,
+        "chaptersRead": 12350,
         "topGenres": [
           "Romance",
           "Comedy",
@@ -27,12 +27,6 @@
     }
   },
   "currentlyWatching": [
-    {
-      "title": "The Angel Next Door Spoils Me Rotten2",
-      "progress": 0,
-      "totalEpisodes": 12,
-      "status": "RELEASING"
-    },
     {
       "title": "Dr. STONE SCIENCE FUTURE Cour 3",
       "progress": 10,
@@ -54,6 +48,12 @@
     {
       "title": "Hell\u2019s Paradise Season 2",
       "progress": 6,
+      "totalEpisodes": 12,
+      "status": "FINISHED"
+    },
+    {
+      "title": "The Angel Next Door Spoils Me Rotten2",
+      "progress": 0,
       "totalEpisodes": 12,
       "status": "FINISHED"
     }
@@ -90,5 +90,5 @@
       "status": "FINISHED"
     }
   ],
-  "lastUpdated": "2026-06-19T13:02:54.330751Z"
+  "lastUpdated": "2026-06-19T18:30:25.692924Z"
 }
