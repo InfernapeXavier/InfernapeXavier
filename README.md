@@ -54,7 +54,7 @@ manga_completed=129
 chapters_read="12.3k"
 
 $ echo $FAVORITE_GENRES
-comedy romance slice_of_life
+comedy slice_of_life romance
 
 $ uptime
 Life uptime: Making things work since forever
@@ -84,11 +84,11 @@ All entertainment metrics up to date
 
 | Cover | Track | Artist |
 |-------|-------|--------|
+<img src="https://i.scdn.co/image/ab67616d0000b273208500450dcd0fd294d7bd3b" width="40" height="40" style="border-radius: 4px;" alt="Dracula album cover"> | **[Dracula](https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA)** | *Tame Impala*
 <img src="https://i.scdn.co/image/ab67616d0000b27350e3552d78a48f50426c0f66" width="40" height="40" style="border-radius: 4px;" alt="Jadoo album cover"> | **[Jadoo](https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06)** | *Akshath*
 <img src="https://i.scdn.co/image/ab67616d0000b2733959cc34c96eff049c8a8b36" width="40" height="40" style="border-radius: 4px;" alt="westside album cover"> | **[westside](https://open.spotify.com/track/7xmDYRpJWq23yoooOvrhIj)** | *sindr*
+<img src="https://i.scdn.co/image/ab67616d0000b27325b27f38b25c29225c8ccf92" width="40" height="40" style="border-radius: 4px;" alt="Game Time album cover"> | **[Game Time](https://open.spotify.com/track/4KIRA3oOWWyYhuQkuoHnFr)** | *Future, Tyla, FIFA Sound*
 <img src="https://i.scdn.co/image/ab67616d0000b27322805a1b17e41ae357bd98bc" width="40" height="40" style="border-radius: 4px;" alt="Shinunoga E-Wa album cover"> | **[Shinunoga E-Wa](https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW)** | *Fujii Kaze*
-<img src="https://i.scdn.co/image/ab67616d0000b2738a525e467b0896e2a9b1c1af" width="40" height="40" style="border-radius: 4px;" alt="Feeka album cover"> | **[Feeka](https://open.spotify.com/track/0KtpHwKA3UylFJyaJcdBxv)** | *gini, NEVERSOBER*
-<img src="https://i.scdn.co/image/ab67616d0000b273208500450dcd0fd294d7bd3b" width="40" height="40" style="border-radius: 4px;" alt="Dracula album cover"> | **[Dracula](https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA)** | *Tame Impala*
 
 </td>
 </tr>
