@@ -17,14 +17,6 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b27356941e0e0c2db6f8ec57b805"
     },
     {
-      "name": "westside",
-      "artist": "sindr",
-      "album": "westside",
-      "external_url": "https://open.spotify.com/track/7xmDYRpJWq23yoooOvrhIj",
-      "popularity": 28,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b2733959cc34c96eff049c8a8b36"
-    },
-    {
       "name": "Game Time",
       "artist": "Future, Tyla, FIFA Sound",
       "album": "Game Time (FIFA World Cup 2026\u2122)",
@@ -33,13 +25,21 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b27325b27f38b25c29225c8ccf92"
     },
     {
-      "name": "Shinunoga E-Wa",
-      "artist": "Fujii Kaze",
-      "album": "HELP EVER HURT NEVER",
-      "external_url": "https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW",
-      "popularity": 79,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b27322805a1b17e41ae357bd98bc"
+      "name": "Jadoo",
+      "artist": "Akshath",
+      "album": "Jadoo",
+      "external_url": "https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06",
+      "popularity": 51,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b27350e3552d78a48f50426c0f66"
+    },
+    {
+      "name": "Babydoll",
+      "artist": "Dominic Fike",
+      "album": "Don't Forget About Me, Demos",
+      "external_url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc",
+      "popularity": 100,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b2737b1b6f41c1645af9757d5616"
     }
   ],
-  "lastUpdated": "2026-06-22T00:25:58.598915"
+  "lastUpdated": "2026-06-22T07:47:41.944285"
 }
