@@ -13,9 +13,9 @@ $ ps aux | grep "anime"
 Currently watching:
   Dr. STONE SCIENCE FUTURE Cour 3
   The Ramparts of Ice
-  The Klutzy Class Monitor and the Girl with the Short Skirt
   Hell’s Paradise Season 2
   The Angel Next Door Spoils Me Rotten2
+  Ansatsu Kyoushitsu: Minna no Jikan
 
 $ echo "Anime processes active"
 ```
@@ -54,7 +54,7 @@ manga_completed=129
 chapters_read="12.4k"
 
 $ echo $FAVORITE_GENRES
-romance comedy slice_of_life
+comedy romance slice_of_life
 
 $ uptime
 Life uptime: Making things work since forever
