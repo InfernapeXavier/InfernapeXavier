@@ -1,20 +1,20 @@
 {
   "topTracks": [
     {
-      "name": "Dracula",
-      "artist": "Tame Impala",
-      "album": "Deadbeat",
-      "external_url": "https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA",
-      "popularity": 89,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273208500450dcd0fd294d7bd3b"
-    },
-    {
       "name": "Ponyboy",
       "artist": "Royal & the Serpent",
       "album": "Emptiness Is Godly",
       "external_url": "https://open.spotify.com/track/593kawmuK8Zkl8iHfeSESv",
       "popularity": 47,
       "album_image": "https://i.scdn.co/image/ab67616d0000b27356941e0e0c2db6f8ec57b805"
+    },
+    {
+      "name": "Dracula",
+      "artist": "Tame Impala",
+      "album": "Deadbeat",
+      "external_url": "https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA",
+      "popularity": 89,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273208500450dcd0fd294d7bd3b"
     },
     {
       "name": "Game Time",
@@ -25,21 +25,21 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b27325b27f38b25c29225c8ccf92"
     },
     {
-      "name": "Letting Go",
-      "artist": "Angie McMahon",
-      "album": "Light, Dark, Light Again",
-      "external_url": "https://open.spotify.com/track/5EeqvDL2BckMvhbNtOEHAh",
-      "popularity": 57,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273129b091517b878d210a3e5d7"
-    },
-    {
       "name": "Jadoo",
       "artist": "Akshath",
       "album": "Jadoo",
       "external_url": "https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06",
       "popularity": 51,
       "album_image": "https://i.scdn.co/image/ab67616d0000b27350e3552d78a48f50426c0f66"
+    },
+    {
+      "name": "Babydoll",
+      "artist": "Dominic Fike",
+      "album": "Don't Forget About Me, Demos",
+      "external_url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc",
+      "popularity": 100,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b2737b1b6f41c1645af9757d5616"
     }
   ],
-  "lastUpdated": "2026-06-23T12:49:14.110103"
+  "lastUpdated": "2026-06-23T18:34:41.163428"
 }
