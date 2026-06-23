@@ -25,21 +25,21 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b27325b27f38b25c29225c8ccf92"
     },
     {
+      "name": "Letting Go",
+      "artist": "Angie McMahon",
+      "album": "Light, Dark, Light Again",
+      "external_url": "https://open.spotify.com/track/5EeqvDL2BckMvhbNtOEHAh",
+      "popularity": 57,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273129b091517b878d210a3e5d7"
+    },
+    {
       "name": "Jadoo",
       "artist": "Akshath",
       "album": "Jadoo",
       "external_url": "https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06",
       "popularity": 51,
       "album_image": "https://i.scdn.co/image/ab67616d0000b27350e3552d78a48f50426c0f66"
-    },
-    {
-      "name": "Babydoll",
-      "artist": "Dominic Fike",
-      "album": "Don't Forget About Me, Demos",
-      "external_url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc",
-      "popularity": 100,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b2737b1b6f41c1645af9757d5616"
     }
   ],
-  "lastUpdated": "2026-06-23T00:24:48.053287"
+  "lastUpdated": "2026-06-23T07:05:56.641872"
 }
