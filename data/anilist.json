@@ -4,7 +4,7 @@
     "stats": {
       "anime": {
         "count": 244,
-        "minutesWatched": 72706,
+        "minutesWatched": 72754,
         "topGenres": [
           "Comedy",
           "Slice of Life",
@@ -15,7 +15,7 @@
       },
       "manga": {
         "count": 129,
-        "chaptersRead": 12361,
+        "chaptersRead": 12365,
         "topGenres": [
           "Romance",
           "Comedy",
@@ -90,5 +90,5 @@
       "status": "FINISHED"
     }
   ],
-  "lastUpdated": "2026-06-24T12:37:39.045856Z"
+  "lastUpdated": "2026-06-24T18:30:26.363125Z"
 }
