@@ -28,15 +28,9 @@
   },
   "currentlyWatching": [
     {
-      "title": "Dr. STONE SCIENCE FUTURE Cour 3",
-      "progress": 12,
-      "totalEpisodes": 13,
-      "status": "RELEASING"
-    },
-    {
       "title": "The Ramparts of Ice",
       "progress": 0,
-      "totalEpisodes": null,
+      "totalEpisodes": 14,
       "status": "RELEASING"
     },
     {
@@ -55,6 +49,12 @@
       "title": "Ansatsu Kyoushitsu: Minna no Jikan",
       "progress": 0,
       "totalEpisodes": 1,
+      "status": "FINISHED"
+    },
+    {
+      "title": "Journal with Witch",
+      "progress": 12,
+      "totalEpisodes": 13,
       "status": "FINISHED"
     }
   ],
@@ -90,5 +90,5 @@
       "status": "FINISHED"
     }
   ],
-  "lastUpdated": "2026-06-25T12:40:15.355298Z"
+  "lastUpdated": "2026-06-25T18:38:12.955649Z"
 }
