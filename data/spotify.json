@@ -17,20 +17,12 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b27325b27f38b25c29225c8ccf92"
     },
     {
-      "name": "Dracula",
-      "artist": "Tame Impala",
-      "album": "Deadbeat",
-      "external_url": "https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA",
-      "popularity": 89,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273208500450dcd0fd294d7bd3b"
-    },
-    {
-      "name": "Babydoll",
-      "artist": "Dominic Fike",
-      "album": "Don't Forget About Me, Demos",
-      "external_url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc",
-      "popularity": 99,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b2737b1b6f41c1645af9757d5616"
+      "name": "Dragonborn",
+      "artist": "Jeremy Soule, The Elder Scrolls",
+      "album": "The Elder Scrolls V: Skyrim (Original Game Soundtrack)",
+      "external_url": "https://open.spotify.com/track/1jLmVI46Yf0jzQkugZReIn",
+      "popularity": 62,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273bbd54b6904a458f8912bff7f"
     },
     {
       "name": "Lighter",
@@ -39,7 +31,15 @@
       "external_url": "https://open.spotify.com/track/3i5yV30C8kFn84q5qIh2sY",
       "popularity": 71,
       "album_image": "https://i.scdn.co/image/ab67616d0000b273092422361bc232d018079832"
+    },
+    {
+      "name": "TRAIN",
+      "artist": "Caspr",
+      "album": "TRAIN",
+      "external_url": "https://open.spotify.com/track/7DGSgVNRa3PLXGSpDbps4v",
+      "popularity": 27,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b2736d3a2a92188fd8c9bbb77ddc"
     }
   ],
-  "lastUpdated": "2026-06-26T00:25:44.091448"
+  "lastUpdated": "2026-06-26T07:09:25.135142"
 }

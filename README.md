@@ -54,7 +54,7 @@ manga_completed=129
 chapters_read="12.4k"
 
 $ echo $FAVORITE_GENRES
-comedy slice_of_life romance
+romance slice_of_life comedy
 
 $ uptime
 Life uptime: Making things work since forever
@@ -86,9 +86,9 @@ All entertainment metrics up to date
 |-------|-------|--------|
 <img src="https://i.scdn.co/image/ab67616d0000b27356941e0e0c2db6f8ec57b805" width="40" height="40" style="border-radius: 4px;" alt="Ponyboy album cover"> | **[Ponyboy](https://open.spotify.com/track/593kawmuK8Zkl8iHfeSESv)** | *Royal & the Serpent*
 <img src="https://i.scdn.co/image/ab67616d0000b27325b27f38b25c29225c8ccf92" width="40" height="40" style="border-radius: 4px;" alt="Game Time album cover"> | **[Game Time](https://open.spotify.com/track/4KIRA3oOWWyYhuQkuoHnFr)** | *Future, Tyla, FIFA Sound*
-<img src="https://i.scdn.co/image/ab67616d0000b273208500450dcd0fd294d7bd3b" width="40" height="40" style="border-radius: 4px;" alt="Dracula album cover"> | **[Dracula](https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA)** | *Tame Impala*
-<img src="https://i.scdn.co/image/ab67616d0000b2737b1b6f41c1645af9757d5616" width="40" height="40" style="border-radius: 4px;" alt="Babydoll album cover"> | **[Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc)** | *Dominic Fike*
+<img src="https://i.scdn.co/image/ab67616d0000b273bbd54b6904a458f8912bff7f" width="40" height="40" style="border-radius: 4px;" alt="Dragonborn album cover"> | **[Dragonborn](https://open.spotify.com/track/1jLmVI46Yf0jzQkugZReIn)** | *Jeremy Soule, The Elder Scrolls*
 <img src="https://i.scdn.co/image/ab67616d0000b273092422361bc232d018079832" width="40" height="40" style="border-radius: 4px;" alt="Lighter album cover"> | **[Lighter](https://open.spotify.com/track/3i5yV30C8kFn84q5qIh2sY)** | *Jelly Roll, Carín León, FIFA Sound*
+<img src="https://i.scdn.co/image/ab67616d0000b2736d3a2a92188fd8c9bbb77ddc" width="40" height="40" style="border-radius: 4px;" alt="TRAIN album cover"> | **[TRAIN](https://open.spotify.com/track/7DGSgVNRa3PLXGSpDbps4v)** | *Caspr*
 
 </td>
 </tr>
