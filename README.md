@@ -54,7 +54,7 @@ manga_completed=129
 chapters_read="12.4k"
 
 $ echo $FAVORITE_GENRES
-romance slice_of_life comedy
+romance comedy slice_of_life
 
 $ uptime
 Life uptime: Making things work since forever
@@ -88,7 +88,7 @@ All entertainment metrics up to date
 <img src="https://i.scdn.co/image/ab67616d0000b27325b27f38b25c29225c8ccf92" width="40" height="40" style="border-radius: 4px;" alt="Game Time album cover"> | **[Game Time](https://open.spotify.com/track/4KIRA3oOWWyYhuQkuoHnFr)** | *Future, Tyla, FIFA Sound*
 <img src="https://i.scdn.co/image/ab67616d0000b273bbd54b6904a458f8912bff7f" width="40" height="40" style="border-radius: 4px;" alt="Dragonborn album cover"> | **[Dragonborn](https://open.spotify.com/track/1jLmVI46Yf0jzQkugZReIn)** | *Jeremy Soule, The Elder Scrolls*
 <img src="https://i.scdn.co/image/ab67616d0000b273092422361bc232d018079832" width="40" height="40" style="border-radius: 4px;" alt="Lighter album cover"> | **[Lighter](https://open.spotify.com/track/3i5yV30C8kFn84q5qIh2sY)** | *Jelly Roll, Carín León, FIFA Sound*
-<img src="https://i.scdn.co/image/ab67616d0000b2736d3a2a92188fd8c9bbb77ddc" width="40" height="40" style="border-radius: 4px;" alt="TRAIN album cover"> | **[TRAIN](https://open.spotify.com/track/7DGSgVNRa3PLXGSpDbps4v)** | *Caspr*
+<img src="https://i.scdn.co/image/ab67616d0000b273d7d8bbd773a63a1e30ff0c6b" width="40" height="40" style="border-radius: 4px;" alt="Need Somebody album cover"> | **[Need Somebody](https://open.spotify.com/track/0Gb779X0uAvyDpS8ErjBU3)** | *BENJAMINRICH, sindr*
 
 </td>
 </tr>
