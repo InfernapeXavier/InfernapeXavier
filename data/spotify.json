@@ -1,6 +1,14 @@
 {
   "topTracks": [
     {
+      "name": "Need Somebody",
+      "artist": "BENJAMINRICH, sindr",
+      "album": "Need Somebody",
+      "external_url": "https://open.spotify.com/track/0Gb779X0uAvyDpS8ErjBU3",
+      "popularity": 48,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273d7d8bbd773a63a1e30ff0c6b"
+    },
+    {
       "name": "Ponyboy",
       "artist": "Royal & the Serpent",
       "album": "Emptiness Is Godly",
@@ -15,14 +23,6 @@
       "external_url": "https://open.spotify.com/track/4KIRA3oOWWyYhuQkuoHnFr",
       "popularity": 79,
       "album_image": "https://i.scdn.co/image/ab67616d0000b27325b27f38b25c29225c8ccf92"
-    },
-    {
-      "name": "Need Somebody",
-      "artist": "BENJAMINRICH, sindr",
-      "album": "Need Somebody",
-      "external_url": "https://open.spotify.com/track/0Gb779X0uAvyDpS8ErjBU3",
-      "popularity": 48,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273d7d8bbd773a63a1e30ff0c6b"
     },
     {
       "name": "Dragonborn",
@@ -41,5 +41,5 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b273092422361bc232d018079832"
     }
   ],
-  "lastUpdated": "2026-06-30T00:23:34.715374"
+  "lastUpdated": "2026-06-30T07:09:33.292141"
 }
