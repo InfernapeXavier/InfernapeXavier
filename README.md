@@ -11,11 +11,11 @@
 ```bash
 $ ps aux | grep "anime"
 Currently watching:
-  The Ramparts of Ice
   Hell’s Paradise Season 2
   The Angel Next Door Spoils Me Rotten2
-  Ansatsu Kyoushitsu: Minna no Jikan
+  Assassination Classroom the Movie: Our Time
   Journal with Witch
+  Tamon's B-Side
 
 $ echo "Anime processes active"
 ```
@@ -54,7 +54,7 @@ manga_completed=129
 chapters_read="12.4k"
 
 $ echo $FAVORITE_GENRES
-comedy romance slice_of_life
+romance slice_of_life comedy
 
 $ uptime
 Life uptime: Making things work since forever

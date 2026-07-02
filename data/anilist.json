@@ -15,7 +15,7 @@
       },
       "manga": {
         "count": 129,
-        "chaptersRead": 12366,
+        "chaptersRead": 12368,
         "topGenres": [
           "Romance",
           "Comedy",
@@ -27,12 +27,6 @@
     }
   },
   "currentlyWatching": [
-    {
-      "title": "The Ramparts of Ice",
-      "progress": 0,
-      "totalEpisodes": 14,
-      "status": "RELEASING"
-    },
     {
       "title": "Hell\u2019s Paradise Season 2",
       "progress": 6,
@@ -46,13 +40,19 @@
       "status": "FINISHED"
     },
     {
-      "title": "Ansatsu Kyoushitsu: Minna no Jikan",
+      "title": "Assassination Classroom the Movie: Our Time",
       "progress": 0,
       "totalEpisodes": 1,
       "status": "FINISHED"
     },
     {
       "title": "Journal with Witch",
+      "progress": 12,
+      "totalEpisodes": 13,
+      "status": "FINISHED"
+    },
+    {
+      "title": "Tamon's B-Side",
       "progress": 12,
       "totalEpisodes": 13,
       "status": "FINISHED"
@@ -90,5 +90,5 @@
       "status": "FINISHED"
     }
   ],
-  "lastUpdated": "2026-07-02T13:24:18.918168Z"
+  "lastUpdated": "2026-07-02T19:04:31.013128Z"
 }
