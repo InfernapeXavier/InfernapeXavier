@@ -54,7 +54,7 @@ manga_completed=129
 chapters_read="12.4k"
 
 $ echo $FAVORITE_GENRES
-comedy romance slice_of_life
+slice_of_life comedy romance
 
 $ uptime
 Life uptime: Making things work since forever
@@ -88,7 +88,7 @@ All entertainment metrics up to date
 <img src="https://i.scdn.co/image/ab67616d0000b27356941e0e0c2db6f8ec57b805" width="40" height="40" style="border-radius: 4px;" alt="Ponyboy album cover"> | **[Ponyboy](https://open.spotify.com/track/593kawmuK8Zkl8iHfeSESv)** | *Royal & the Serpent*
 <img src="https://i.scdn.co/image/ab67616d0000b27325b27f38b25c29225c8ccf92" width="40" height="40" style="border-radius: 4px;" alt="Game Time album cover"> | **[Game Time](https://open.spotify.com/track/4KIRA3oOWWyYhuQkuoHnFr)** | *Future, Tyla, FIFA Sound*
 <img src="https://i.scdn.co/image/ab67616d0000b273bbd54b6904a458f8912bff7f" width="40" height="40" style="border-radius: 4px;" alt="Dragonborn album cover"> | **[Dragonborn](https://open.spotify.com/track/1jLmVI46Yf0jzQkugZReIn)** | *Jeremy Soule, The Elder Scrolls*
-<img src="https://i.scdn.co/image/ab67616d0000b2731b57f7af7c2cbf4cc54037a3" width="40" height="40" style="border-radius: 4px;" alt="Maa Kasam album cover"> | **[Maa Kasam](https://open.spotify.com/track/4NTLluqX4ViaQX6MZKjUst)** | *Aditya Bhardwaj*
+<img src="https://i.scdn.co/image/ab67616d0000b27322805a1b17e41ae357bd98bc" width="40" height="40" style="border-radius: 4px;" alt="Shinunoga E-Wa album cover"> | **[Shinunoga E-Wa](https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW)** | *Fujii Kaze*
 
 </td>
 </tr>
