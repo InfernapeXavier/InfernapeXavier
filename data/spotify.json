@@ -17,20 +17,20 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b27356941e0e0c2db6f8ec57b805"
     },
     {
-      "name": "Dragonborn",
-      "artist": "Jeremy Soule, The Elder Scrolls",
-      "album": "The Elder Scrolls V: Skyrim (Original Game Soundtrack)",
-      "external_url": "https://open.spotify.com/track/1jLmVI46Yf0jzQkugZReIn",
-      "popularity": 62,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273bbd54b6904a458f8912bff7f"
-    },
-    {
       "name": "\u30aa\u30ea\u30aa\u30f3",
       "artist": "YOASOBI",
       "album": "THE BOOK for,",
       "external_url": "https://open.spotify.com/track/6VpeCZDyuFJD3HW5bwEc8Z",
       "popularity": 66,
       "album_image": "https://i.scdn.co/image/ab67616d0000b273c64dc9d9011631669adc5b0a"
+    },
+    {
+      "name": "Dragonborn",
+      "artist": "Jeremy Soule, The Elder Scrolls",
+      "album": "The Elder Scrolls V: Skyrim (Original Game Soundtrack)",
+      "external_url": "https://open.spotify.com/track/1jLmVI46Yf0jzQkugZReIn",
+      "popularity": 62,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273bbd54b6904a458f8912bff7f"
     },
     {
       "name": "Game Time",
@@ -41,5 +41,5 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b27325b27f38b25c29225c8ccf92"
     }
   ],
-  "lastUpdated": "2026-07-07T19:29:21.567192"
+  "lastUpdated": "2026-07-08T01:21:20.798141"
 }
