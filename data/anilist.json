@@ -15,7 +15,7 @@
       },
       "manga": {
         "count": 129,
-        "chaptersRead": 12379,
+        "chaptersRead": 12381,
         "topGenres": [
           "Romance",
           "Comedy",
@@ -27,6 +27,12 @@
     }
   },
   "currentlyWatching": [
+    {
+      "title": "Smoking Behind the Supermarket with You",
+      "progress": 0,
+      "totalEpisodes": null,
+      "status": "RELEASING"
+    },
     {
       "title": "Hell\u2019s Paradise Season 2",
       "progress": 6,
@@ -47,12 +53,6 @@
     },
     {
       "title": "Journal with Witch",
-      "progress": 12,
-      "totalEpisodes": 13,
-      "status": "FINISHED"
-    },
-    {
-      "title": "Tamon's B-Side",
       "progress": 12,
       "totalEpisodes": 13,
       "status": "FINISHED"
@@ -90,5 +90,5 @@
       "status": "FINISHED"
     }
   ],
-  "lastUpdated": "2026-07-09T14:24:00.395517Z"
+  "lastUpdated": "2026-07-09T19:16:30.342748Z"
 }
