@@ -1,6 +1,14 @@
 {
   "topTracks": [
     {
+      "name": "\u30aa\u30ea\u30aa\u30f3",
+      "artist": "YOASOBI",
+      "album": "THE BOOK for,",
+      "external_url": "https://open.spotify.com/track/6VpeCZDyuFJD3HW5bwEc8Z",
+      "popularity": 67,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b273c64dc9d9011631669adc5b0a"
+    },
+    {
       "name": "Need Somebody",
       "artist": "BENJAMINRICH, sindr",
       "album": "Need Somebody",
@@ -15,14 +23,6 @@
       "external_url": "https://open.spotify.com/track/593kawmuK8Zkl8iHfeSESv",
       "popularity": 45,
       "album_image": "https://i.scdn.co/image/ab67616d0000b27356941e0e0c2db6f8ec57b805"
-    },
-    {
-      "name": "\u30aa\u30ea\u30aa\u30f3",
-      "artist": "YOASOBI",
-      "album": "THE BOOK for,",
-      "external_url": "https://open.spotify.com/track/6VpeCZDyuFJD3HW5bwEc8Z",
-      "popularity": 67,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b273c64dc9d9011631669adc5b0a"
     },
     {
       "name": "Dragonborn",
@@ -41,5 +41,5 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b27325b27f38b25c29225c8ccf92"
     }
   ],
-  "lastUpdated": "2026-07-09T01:29:44.738970"
+  "lastUpdated": "2026-07-09T08:58:56.993157"
 }
