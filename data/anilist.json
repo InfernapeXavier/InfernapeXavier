@@ -15,7 +15,7 @@
       },
       "manga": {
         "count": 129,
-        "chaptersRead": 12381,
+        "chaptersRead": 12391,
         "topGenres": [
           "Romance",
           "Comedy",
@@ -30,7 +30,7 @@
     {
       "title": "Smoking Behind the Supermarket with You",
       "progress": 0,
-      "totalEpisodes": null,
+      "totalEpisodes": 12,
       "status": "RELEASING"
     },
     {
@@ -90,5 +90,5 @@
       "status": "FINISHED"
     }
   ],
-  "lastUpdated": "2026-07-10T08:55:19.474518Z"
+  "lastUpdated": "2026-07-10T13:50:31.554498Z"
 }
