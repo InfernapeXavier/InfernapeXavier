@@ -54,7 +54,7 @@ manga_completed=129
 chapters_read="12.4k"
 
 $ echo $FAVORITE_GENRES
-comedy romance slice_of_life
+comedy slice_of_life romance
 
 $ uptime
 Life uptime: Making things work since forever
@@ -86,9 +86,9 @@ All entertainment metrics up to date
 |-------|-------|--------|
 <img src="https://i.scdn.co/image/ab67616d0000b273c64dc9d9011631669adc5b0a" width="40" height="40" style="border-radius: 4px;" alt="オリオン album cover"> | **[オリオン](https://open.spotify.com/track/6VpeCZDyuFJD3HW5bwEc8Z)** | *YOASOBI*
 <img src="https://i.scdn.co/image/ab67616d0000b273d7d8bbd773a63a1e30ff0c6b" width="40" height="40" style="border-radius: 4px;" alt="Need Somebody album cover"> | **[Need Somebody](https://open.spotify.com/track/0Gb779X0uAvyDpS8ErjBU3)** | *BENJAMINRICH, sindr*
-<img src="https://i.scdn.co/image/ab67616d0000b27356941e0e0c2db6f8ec57b805" width="40" height="40" style="border-radius: 4px;" alt="Ponyboy album cover"> | **[Ponyboy](https://open.spotify.com/track/593kawmuK8Zkl8iHfeSESv)** | *Royal & the Serpent*
 <img src="https://i.scdn.co/image/ab67616d0000b273bbd54b6904a458f8912bff7f" width="40" height="40" style="border-radius: 4px;" alt="Dragonborn album cover"> | **[Dragonborn](https://open.spotify.com/track/1jLmVI46Yf0jzQkugZReIn)** | *Jeremy Soule, The Elder Scrolls*
 <img src="https://i.scdn.co/image/ab67616d0000b2731b57f7af7c2cbf4cc54037a3" width="40" height="40" style="border-radius: 4px;" alt="Maa Kasam album cover"> | **[Maa Kasam](https://open.spotify.com/track/4NTLluqX4ViaQX6MZKjUst)** | *Aditya Bhardwaj*
+<img src="https://i.scdn.co/image/ab67616d0000b27356941e0e0c2db6f8ec57b805" width="40" height="40" style="border-radius: 4px;" alt="Ponyboy album cover"> | **[Ponyboy](https://open.spotify.com/track/593kawmuK8Zkl8iHfeSESv)** | *Royal & the Serpent*
 
 </td>
 </tr>

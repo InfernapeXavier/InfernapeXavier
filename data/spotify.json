@@ -17,14 +17,6 @@
       "album_image": "https://i.scdn.co/image/ab67616d0000b273d7d8bbd773a63a1e30ff0c6b"
     },
     {
-      "name": "Ponyboy",
-      "artist": "Royal & the Serpent",
-      "album": "Emptiness Is Godly",
-      "external_url": "https://open.spotify.com/track/593kawmuK8Zkl8iHfeSESv",
-      "popularity": 44,
-      "album_image": "https://i.scdn.co/image/ab67616d0000b27356941e0e0c2db6f8ec57b805"
-    },
-    {
       "name": "Dragonborn",
       "artist": "Jeremy Soule, The Elder Scrolls",
       "album": "The Elder Scrolls V: Skyrim (Original Game Soundtrack)",
@@ -39,7 +31,15 @@
       "external_url": "https://open.spotify.com/track/4NTLluqX4ViaQX6MZKjUst",
       "popularity": 41,
       "album_image": "https://i.scdn.co/image/ab67616d0000b2731b57f7af7c2cbf4cc54037a3"
+    },
+    {
+      "name": "Ponyboy",
+      "artist": "Royal & the Serpent",
+      "album": "Emptiness Is Godly",
+      "external_url": "https://open.spotify.com/track/593kawmuK8Zkl8iHfeSESv",
+      "popularity": 44,
+      "album_image": "https://i.scdn.co/image/ab67616d0000b27356941e0e0c2db6f8ec57b805"
     }
   ],
-  "lastUpdated": "2026-07-16T18:51:40.469488"
+  "lastUpdated": "2026-07-17T01:22:58.735783"
 }
