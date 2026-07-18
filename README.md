@@ -54,7 +54,7 @@ manga_completed=129
 chapters_read="12.4k"
 
 $ echo $FAVORITE_GENRES
-comedy slice_of_life romance
+slice_of_life romance comedy
 
 $ uptime
 Life uptime: Making things work since forever
@@ -88,7 +88,7 @@ All entertainment metrics up to date
 <img src="https://i.scdn.co/image/ab67616d0000b273d7d8bbd773a63a1e30ff0c6b" width="40" height="40" style="border-radius: 4px;" alt="Need Somebody album cover"> | **[Need Somebody](https://open.spotify.com/track/0Gb779X0uAvyDpS8ErjBU3)** | *BENJAMINRICH, sindr*
 <img src="https://i.scdn.co/image/ab67616d0000b2731b57f7af7c2cbf4cc54037a3" width="40" height="40" style="border-radius: 4px;" alt="Maa Kasam album cover"> | **[Maa Kasam](https://open.spotify.com/track/4NTLluqX4ViaQX6MZKjUst)** | *Aditya Bhardwaj*
 <img src="https://i.scdn.co/image/ab67616d0000b273bbd54b6904a458f8912bff7f" width="40" height="40" style="border-radius: 4px;" alt="Dragonborn album cover"> | **[Dragonborn](https://open.spotify.com/track/1jLmVI46Yf0jzQkugZReIn)** | *Jeremy Soule, The Elder Scrolls*
-<img src="https://i.scdn.co/image/ab67616d0000b273a80dce00e494ada878e23ad7" width="40" height="40" style="border-radius: 4px;" alt="Aashiyan album cover"> | **[Aashiyan](https://open.spotify.com/track/0OlYIIUtBAWF2iEiTYan5h)** | *gini*
+<img src="https://i.scdn.co/image/ab67616d0000b273f037c5fb9de6c78726cb8e2c" width="40" height="40" style="border-radius: 4px;" alt="Magnetic album cover"> | **[Magnetic](https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG)** | *ILLIT*
 
 </td>
 </tr>
