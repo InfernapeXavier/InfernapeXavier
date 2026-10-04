@@ -28,6 +28,12 @@
   },
   "currentlyWatching": [
     {
+      "title": "The Apothecary Diaries Season 3",
+      "progress": 1,
+      "totalEpisodes": 12,
+      "status": "RELEASING"
+    },
+    {
       "title": "Hell\u2019s Paradise Season 2",
       "progress": 6,
       "totalEpisodes": 12,
@@ -47,12 +53,6 @@
     },
     {
       "title": "Journal with Witch",
-      "progress": 12,
-      "totalEpisodes": 13,
-      "status": "FINISHED"
-    },
-    {
-      "title": "Tamon's B-Side",
       "progress": 12,
       "totalEpisodes": 13,
       "status": "FINISHED"
@@ -90,5 +90,5 @@
       "status": "FINISHED"
     }
   ],
-  "lastUpdated": "2026-10-03T20:16:53.676706Z"
+  "lastUpdated": "2026-10-04T03:06:35.720927Z"
 }
