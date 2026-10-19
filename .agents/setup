@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+repo_root="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+scripts_dir="$repo_root/.github/scripts"
+
+echo "Installing uv (if needed)..."
+step_started=$SECONDS
+if ! command -v uv >/dev/null 2>&1; then
+  curl -LsSf https://astral.sh/uv/install.sh | sh
+  export PATH="$HOME/.local/bin:$PATH"
+fi
+printf 'uv ready in %ss\n' "$((SECONDS - step_started))"
+
+echo "Installing Python 3.13 and project dependencies..."
+step_started=$SECONDS
+uv python install 3.13
+uv sync --directory "$scripts_dir" --locked
+printf 'Dependencies ready in %ss\n' "$((SECONDS - step_started))"
