@@ -28,8 +28,14 @@
   },
   "currentlyWatching": [
     {
+      "title": "Blue Box Season 2",
+      "progress": 0,
+      "totalEpisodes": 12,
+      "status": "RELEASING"
+    },
+    {
       "title": "The Apothecary Diaries Season 3",
-      "progress": 2,
+      "progress": 3,
       "totalEpisodes": 12,
       "status": "RELEASING"
     },
@@ -49,12 +55,6 @@
       "title": "Assassination Classroom the Movie: Our Time",
       "progress": 0,
       "totalEpisodes": 1,
-      "status": "FINISHED"
-    },
-    {
-      "title": "Journal with Witch",
-      "progress": 12,
-      "totalEpisodes": 13,
       "status": "FINISHED"
     }
   ],
@@ -90,5 +90,5 @@
       "status": "FINISHED"
     }
   ],
-  "lastUpdated": "2026-10-20T02:20:51.776781Z"
+  "lastUpdated": "2026-10-20T05:34:34.035862Z"
 }

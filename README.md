@@ -18,9 +18,9 @@ I enjoy reading, anime, and gaming.
 
 ### Watching
 
+- Blue Box Season 2
 - The Apothecary Diaries Season 3
 - Hell’s Paradise Season 2
-- The Angel Next Door Spoils Me Rotten2
 
 ### Reading
 
