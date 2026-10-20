@@ -1,7 +1,7 @@
 [project]
 name = "profile-updater"
 version = "0.1.0"
-description = "Updates GitHub profile with AniList and Spotify data"
+description = "Updates GitHub profile with AniList data"
 requires-python = ">=3.13"
 dependencies = [
     "httpx>=0.28.1",

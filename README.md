@@ -1,95 +1,31 @@
-<div align="center">
+# Hi, I'm Rohit
 
-![Rohit's GitHub profile intro banner](images/intro.png)
+**Infrastructure Engineer** at [Academia.edu](https://www.academia.edu).
 
-</div>
+I work on **AI tooling infrastructure**—the systems and workflows behind
+AI-powered developer tools.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+I'm interested in making those tools more reliable, useful, and easy to work with.
 
-```bash
-$ ps aux | grep "anime"
-Currently watching:
-  The Apothecary Diaries Season 3
-  Hell’s Paradise Season 2
-  The Angel Next Door Spoils Me Rotten2
-  Assassination Classroom the Movie: Our Time
-  Journal with Witch
+[rohitc.tech ↗](http://rohitc.tech)
 
-$ echo "Anime processes active"
-```
+---
 
-</td>
-<td width="50%" valign="top">
+<details>
+<summary><strong>Outside of work</strong></summary>
 
-```bash
-$ ps aux | grep "manga"
-Currently reading:
-  SPY x FAMILY
-  I Have a Crush at Work
-  Yotsuba&!
-  The Fragrant Flower Blooms With Dignity
-  Konbini de Kimi to no 5-funkan
+I enjoy reading, anime, and gaming.
 
-$ echo "Manga processes active"
-```
+### Watching
 
-</td>
-</tr>
-</table>
+- The Apothecary Diaries Season 3
+- Hell’s Paradise Season 2
+- The Angel Next Door Spoils Me Rotten2
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### Reading
 
-```bash
-$ whoami
-rohit@dev:~$
+- SPY x FAMILY
+- I Have a Crush at Work
+- Yotsuba&!
 
-$ cat ~/.media_stats
-anime_completed=246
-time_watched="50d 13h"
-manga_completed=129
-chapters_read="12.5k"
-
-$ echo $FAVORITE_GENRES
-comedy romance slice_of_life
-
-$ uptime
-Life uptime: Making things work since forever
-
-$ echo "System stats loaded successfully"
-All entertainment metrics up to date
-```
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=infernapexavier&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=infernapexavier&redirect=true)
-
-</div>
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="100%" valign="top">
-
-*My current top songs*
-
-| Cover | Track | Artist |
-|-------|-------|--------|
-<img src="https://i.scdn.co/image/ab67616d0000b273c64dc9d9011631669adc5b0a" width="40" height="40" style="border-radius: 4px;" alt="オリオン album cover"> | **[オリオン](https://open.spotify.com/track/6VpeCZDyuFJD3HW5bwEc8Z)** | *YOASOBI*
-<img src="https://i.scdn.co/image/ab67616d0000b2731b57f7af7c2cbf4cc54037a3" width="40" height="40" style="border-radius: 4px;" alt="Maa Kasam album cover"> | **[Maa Kasam](https://open.spotify.com/track/4NTLluqX4ViaQX6MZKjUst)** | *Aditya Bhardwaj*
-<img src="https://i.scdn.co/image/ab67616d0000b273d7d8bbd773a63a1e30ff0c6b" width="40" height="40" style="border-radius: 4px;" alt="Need Somebody album cover"> | **[Need Somebody](https://open.spotify.com/track/0Gb779X0uAvyDpS8ErjBU3)** | *BENJAMINRICH, sindr*
-<img src="https://i.scdn.co/image/ab67616d0000b273f037c5fb9de6c78726cb8e2c" width="40" height="40" style="border-radius: 4px;" alt="Magnetic album cover"> | **[Magnetic](https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG)** | *ILLIT*
-<img src="https://i.scdn.co/image/ab67616d0000b273b6142a9ef905e07aafac1c6e" width="40" height="40" style="border-radius: 4px;" alt="WE GO UP album cover"> | **[WE GO UP](https://open.spotify.com/track/1tonXoW6dcb7GGNpec3PTl)** | *BABYMONSTER*
-
-</td>
-</tr>
-</table>
+</details>
