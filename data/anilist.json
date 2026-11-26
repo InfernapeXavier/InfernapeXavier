@@ -15,7 +15,7 @@
       },
       "manga": {
         "count": 129,
-        "chaptersRead": 12463,
+        "chaptersRead": 12484,
         "topGenres": [
           "Romance",
           "Comedy",
@@ -84,11 +84,11 @@
       "status": "RELEASING"
     },
     {
-      "title": "Konbini de Kimi to no 5-funkan",
-      "progress": 91,
-      "totalChapters": 100,
+      "title": "K-ON! Story Anthology Comic",
+      "progress": 2,
+      "totalChapters": 45,
       "status": "FINISHED"
     }
   ],
-  "lastUpdated": "2026-11-26T01:13:20.468299Z"
+  "lastUpdated": "2026-11-26T15:54:13.031354Z"
 }
